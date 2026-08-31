@@ -1,0 +1,425 @@
+{
+  "generated_at": "2026-04-26T22:15:19.240292+00:00",
+  "rotation_size": 17,
+  "silence_phrases": [
+    "il mondo tace su questo archivio per ora",
+    "questo passaggio non riguarda l'archivio",
+    "silenzio operativo",
+    "l'archivio non risponde",
+    "nessun eco oggi",
+    "la notizia attraversa, non si ferma qui"
+  ],
+  "rotation": [
+    {
+      "headline": "Thousands of shady ads sell paper authorship for cash, large-scale investigation finds",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/thousands-shady-ads-sell-paper-authorship-cash-large-scale-investigation-finds",
+      "timestamp": "2026-04-23T05:00:28+00:00",
+      "themes": [
+        "language",
+        "authorship"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Thousands of Harvard graduate students strike — bringing research to a halt",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01344-8",
+      "timestamp": "2026-04-23",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Evaluating large language models for accuracy incentivizes hallucinations",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-10549-w",
+      "timestamp": "2026-04-22",
+      "themes": [
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "The memory dealer of Old Jeddah",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01071-0",
+      "timestamp": "2026-04-24",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Sperm carry unexpected genetic messages",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/sperm-carry-unexpected-genetic-messages",
+      "timestamp": "2026-04-23T03:45:00+00:00",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Brain tissue near tumours is loaded with plastic",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01281-6",
+      "timestamp": "2026-04-24",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "This robot can beat you at table tennis",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01343-9",
+      "timestamp": "2026-04-22",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "In Salento c’è una residenza che mette gli artisti in contatto con territorio e storia della Puglia. Intervista",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arte-contemporanea-2/2026/04/salento-residenza-redlab-gallery/",
+      "timestamp": "2026-04-26T12:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Gene therapy for deafness approved",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/gene-therapy-deafness-approved",
+      "timestamp": "2026-04-23T03:37:30+00:00",
+      "themes": [
+        "dna",
+        "genetics"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Octopus ‘krakens’ as large as semi-trucks stalked ancient seas",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/octopus-krakens-large-semi-trucks-stalked-ancient-seas",
+      "timestamp": "2026-04-23T02:00:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Wikipedia-based AI model reveals the 100 technologies to watch",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-00980-4",
+      "timestamp": "2026-04-23",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Delays have kept new NSF grants to a trickle — that could be about to change",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01287-0",
+      "timestamp": "2026-04-23",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "AI Decoded on BBC News : full details and when it on",
+      "lang": "en",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/dd5b93ad-ffda-5863-aec5-5e655a3f2ac2/ai-decoded",
+      "timestamp": "2026-04-26T17:30:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "How much for a fake authorship? Ad database reveals secrets of scientific fraud",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01340-y",
+      "timestamp": "2026-04-24",
+      "themes": [
+        "language",
+        "authorship"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Daily briefing: This AI-powered robot is a table-tennis master",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-01356-4",
+      "timestamp": "2026-04-23",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/after-pulling-vaccine-study-bhattacharya-criticizes-long-running-cdc-publication",
+      "timestamp": "2026-04-24T05:30:45+00:00",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "AI Decoded on BBC News HD : full details and when it on",
+      "lang": "en",
+      "source": "tvguide.co.uk",
+      "url": "https://www.tvguide.co.uk/schedule/342cbe7f-1a96-50f7-bcbe-04d88be3f308/ai-decoded",
+      "timestamp": "2026-04-26T17:30:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    }
+  ]
+}

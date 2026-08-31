@@ -1,0 +1,967 @@
+{
+  "works": [
+    {
+      "id": "be-prepared-be-safe",
+      "title": "Be Prepared Be Safe",
+      "year": "2025",
+      "medium": "contemporary dance · 3 dancers",
+      "tags": [
+        "war",
+        "preparedness",
+        "civil-defense",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/be-prepared-be-safe/"
+    },
+    {
+      "id": "maglioni-bianchi",
+      "title": "Maglioni Bianchi (Filo Lana)",
+      "year": "2026",
+      "medium": "performance · filo lana",
+      "tags": [
+        "war",
+        "memory",
+        "filo-lana",
+        "body",
+        "care"
+      ],
+      "link": "/lavori/maglioni-bianchi/"
+    },
+    {
+      "id": "revesso",
+      "title": "Я3VE3S0",
+      "year": "2024",
+      "medium": "human neural network · 12 performers",
+      "tags": [
+        "ai",
+        "neural",
+        "collective",
+        "body",
+        "language",
+        "authorship"
+      ],
+      "link": "/lavori/revesso/"
+    },
+    {
+      "id": "dna-dance-needs-action",
+      "title": "D.N.A. — Dance Needs Action",
+      "year": "2026",
+      "medium": "contemporary dance · genetic score",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "music",
+        "neural"
+      ],
+      "link": "/lavori/dna-dance-needs-action/"
+    },
+    {
+      "id": "still-silent-dance",
+      "title": "Still Silent Dance",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "labor",
+        "economy",
+        "care",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/still-silent-dance/"
+    },
+    {
+      "id": "genofish",
+      "title": "Genofish & Flips",
+      "year": "2025",
+      "medium": "performance · genetic data",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "environment"
+      ],
+      "link": "/lavori/genofish/"
+    },
+    {
+      "id": "tracing",
+      "title": "Tracing",
+      "year": "2026",
+      "medium": "performance · pigment",
+      "tags": [
+        "body",
+        "memory",
+        "heritage",
+        "language"
+      ],
+      "link": "/lavori/tracing/"
+    },
+    {
+      "id": "tressa",
+      "title": "Tressa",
+      "year": "2025",
+      "medium": "performance · hair · shampoo",
+      "tags": [
+        "body",
+        "surveillance",
+        "care",
+        "language"
+      ],
+      "link": "/lavori/tressa/"
+    },
+    {
+      "id": "satellite-aste-telescopiche",
+      "title": "SATELLITE Aste Telescopiche",
+      "year": "2026",
+      "medium": "choreography · picosatellite",
+      "tags": [
+        "environment",
+        "earth",
+        "body",
+        "neural",
+        "music"
+      ],
+      "link": "/lavori/satellite-aste-telescopiche/"
+    },
+    {
+      "id": "satellite-bussola-tappeto",
+      "title": "SATELLITE Bussola Tappeto",
+      "year": "2026",
+      "medium": "choreography",
+      "tags": [
+        "environment",
+        "earth",
+        "body",
+        "neural"
+      ],
+      "link": "/lavori/satellite-bussola-tappeto/"
+    },
+    {
+      "id": "satellite-colonna-nastrini",
+      "title": "SATELLITE Colonna Nastrini",
+      "year": "2026",
+      "medium": "choreography",
+      "tags": [
+        "environment",
+        "earth",
+        "body",
+        "neural"
+      ],
+      "link": "/lavori/satellite-colonna-nastrini/"
+    },
+    {
+      "id": "satellite-pila-foam",
+      "title": "SATELLITE Pila di Foam",
+      "year": "2026",
+      "medium": "choreography",
+      "tags": [
+        "environment",
+        "earth",
+        "body",
+        "neural"
+      ],
+      "link": "/lavori/satellite-pila-foam/"
+    },
+    {
+      "id": "occhi-eye-code-agency",
+      "title": "OCCHI — Eye Code Agency",
+      "year": "2025",
+      "medium": "performance · eye-tracking",
+      "tags": [
+        "body",
+        "surveillance",
+        "ai"
+      ],
+      "link": "/lavori/occhi-eye-code-agency/"
+    },
+    {
+      "id": "biofeedback-vegetale",
+      "title": "Without Plan_ts",
+      "year": "2026",
+      "medium": "biofeedback · vegetal signals",
+      "tags": [
+        "body",
+        "environment",
+        "ecology",
+        "neural"
+      ],
+      "link": "/lavori/biofeedback-vegetale/"
+    },
+    {
+      "id": "stoffe",
+      "title": "Blind Triggers (STOFFE)",
+      "year": "2026",
+      "medium": "aerial dance · 5 fabrics · stand-alone controllers",
+      "tags": [
+        "body",
+        "surveillance",
+        "preparedness"
+      ],
+      "link": "/lavori/stoffe/"
+    },
+    {
+      "id": "memory-foam",
+      "title": "Memory Foam",
+      "year": "2026",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "memory",
+        "care"
+      ],
+      "link": "/lavori/memory-foam/"
+    },
+    {
+      "id": "cilindri-plexiglas",
+      "title": "Cilindri Plexiglas",
+      "year": "2026",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language"
+      ],
+      "link": "/lavori/cilindri-plexiglas/"
+    },
+    {
+      "id": "progetto-generativo-unwritten",
+      "title": "Unwritten — studio per campo, corpo e algoritmo",
+      "year": "2026",
+      "medium": "performance · generative",
+      "tags": [
+        "ai",
+        "body",
+        "language",
+        "neural"
+      ],
+      "link": "/lavori/progetto-generativo-unwritten/"
+    },
+    {
+      "id": "skin-to-skin",
+      "title": "Skin to Skin",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "care",
+        "collective"
+      ],
+      "link": "/lavori/skin-to-skin/"
+    },
+    {
+      "id": "lipogesture",
+      "title": "LIPOGESTURE",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language"
+      ],
+      "link": "/lavori/lipogesture/"
+    },
+    {
+      "id": "moving-around-skin",
+      "title": "Moving Around the Skin",
+      "year": "2023",
+      "medium": "performance · biofeedback",
+      "tags": [
+        "body",
+        "neural",
+        "collective"
+      ],
+      "link": "/lavori/moving-around-skin/"
+    },
+    {
+      "id": "tote",
+      "title": "TOTE",
+      "year": "2023",
+      "medium": "performance · GSR sensor",
+      "tags": [
+        "body",
+        "neural",
+        "surveillance"
+      ],
+      "link": "/lavori/tote/"
+    },
+    {
+      "id": "stretching-the-life",
+      "title": "Stretching the Life",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "care"
+      ],
+      "link": "/lavori/stretching-the-life/"
+    },
+    {
+      "id": "symbiotic-resonance",
+      "title": "Symbiotic Resonance",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "neural",
+        "collective"
+      ],
+      "link": "/lavori/symbiotic-resonance/"
+    },
+    {
+      "id": "plus-size",
+      "title": "Plus Size",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "economy",
+        "care"
+      ],
+      "link": "/lavori/plus-size/"
+    },
+    {
+      "id": "body-of-words",
+      "title": "Body of Words",
+      "year": "2023",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language"
+      ],
+      "link": "/lavori/body-of-words/"
+    },
+    {
+      "id": "puppet-tragedy-2023",
+      "title": "The Puppet's Tragedy (2023)",
+      "year": "2023",
+      "medium": "musical theatre · loop 900s",
+      "tags": [
+        "body",
+        "memory",
+        "language"
+      ],
+      "link": "/lavori/puppet-tragedy-2023/"
+    },
+    {
+      "id": "puppet-tragedy-2024",
+      "title": "The Puppet's Tragedy (2024)",
+      "year": "2024",
+      "medium": "musical theatre · loop 900s",
+      "tags": [
+        "body",
+        "memory",
+        "language"
+      ],
+      "link": "/lavori/puppet-tragedy-2024/"
+    },
+    {
+      "id": "barren-abode",
+      "title": "Barren Abode",
+      "year": "2023",
+      "medium": "3D rendering · live music",
+      "tags": [
+        "memory",
+        "language"
+      ],
+      "link": "/lavori/barren-abode/"
+    },
+    {
+      "id": "deriva",
+      "title": "DERIVA",
+      "year": "2024",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "memory",
+        "language"
+      ],
+      "link": "/lavori/deriva/"
+    },
+    {
+      "id": "escape-from-the-cave",
+      "title": "How to Escape from the Cave",
+      "year": "2024",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language",
+        "memory"
+      ],
+      "link": "/lavori/escape-from-the-cave/"
+    },
+    {
+      "id": "novellae",
+      "title": "Novellae",
+      "year": "2024",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language"
+      ],
+      "link": "/lavori/novellae/"
+    },
+    {
+      "id": "ode-al-fallimento",
+      "title": "Ode al Fallimento",
+      "year": "2024",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language",
+        "economy"
+      ],
+      "link": "/lavori/ode-al-fallimento/"
+    },
+    {
+      "id": "dynamic-equilibrium",
+      "title": "Dynamic Equilibrium",
+      "year": "2024",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "environment"
+      ],
+      "link": "/lavori/dynamic-equilibrium/"
+    },
+    {
+      "id": "infiltr-azioni",
+      "title": "Infiltr'Azioni",
+      "year": "2025",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "surveillance",
+        "collective"
+      ],
+      "link": "/lavori/infiltr-azioni/"
+    },
+    {
+      "id": "instant-soluble",
+      "title": "Instant_Soluble",
+      "year": "2025",
+      "medium": "performance",
+      "tags": [
+        "body",
+        "language",
+        "economy"
+      ],
+      "link": "/lavori/instant-soluble/"
+    },
+    {
+      "id": "sway-fune",
+      "title": "SWAY FUNE",
+      "year": "2025",
+      "medium": "aerial dance · genetic",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "music"
+      ],
+      "link": "/lavori/sway-fune/"
+    },
+    {
+      "id": "small-root-plant-space",
+      "title": "A Small Root for a Plant in Space",
+      "year": "2019",
+      "medium": "installation",
+      "tags": [
+        "environment",
+        "earth",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/small-root-plant-space/"
+    },
+    {
+      "id": "analog-ondograph",
+      "title": "Analog Ondograph",
+      "year": "2019",
+      "medium": "environmental installation",
+      "tags": [
+        "environment",
+        "water",
+        "seismic",
+        "earth"
+      ],
+      "link": "/lavori/analog-ondograph/"
+    },
+    {
+      "id": "sneak-peek",
+      "title": "Sneak Peek",
+      "year": "2020",
+      "medium": "interactive kinetic sculpture",
+      "tags": [
+        "surveillance",
+        "body",
+        "neural"
+      ],
+      "link": "/lavori/sneak-peek/"
+    },
+    {
+      "id": "autarchic-iron",
+      "title": "Autarchic Iron",
+      "year": "2019-20",
+      "medium": "performing installation",
+      "tags": [
+        "labor",
+        "economy",
+        "memory"
+      ],
+      "link": "/lavori/autarchic-iron/"
+    },
+    {
+      "id": "monument-unknown-animals",
+      "title": "Monument to the Unknown Animals",
+      "year": "2019-20",
+      "medium": "sculpture installation",
+      "tags": [
+        "environment",
+        "memory",
+        "body",
+        "ecology"
+      ],
+      "link": "/lavori/monument-unknown-animals/"
+    },
+    {
+      "id": "binding-or-not-binding",
+      "title": "Binding or not Binding Commitments",
+      "year": "2019",
+      "medium": "performance · neurofeedback",
+      "tags": [
+        "body",
+        "neural",
+        "surveillance",
+        "collective"
+      ],
+      "link": "/lavori/binding-or-not-binding/"
+    },
+    {
+      "id": "bluemoon-operation",
+      "title": "Bluemoon Operation",
+      "year": "2019",
+      "medium": "perforated teaspoons",
+      "tags": [
+        "memory",
+        "surveillance",
+        "economy"
+      ],
+      "link": "/lavori/bluemoon-operation/"
+    },
+    {
+      "id": "absorption",
+      "title": "Absorption",
+      "year": "2018",
+      "medium": "floating kinetic sculpture",
+      "tags": [
+        "environment",
+        "water",
+        "tiber",
+        "memory"
+      ],
+      "link": "/lavori/absorption/"
+    },
+    {
+      "id": "hidden-in-plain-sight",
+      "title": "Hidden in Plain Sight",
+      "year": "2018",
+      "medium": "performance",
+      "tags": [
+        "surveillance",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/hidden-in-plain-sight/"
+    },
+    {
+      "id": "myim",
+      "title": "Myim",
+      "year": "2018",
+      "medium": "telescopic umbrellas",
+      "tags": [
+        "body",
+        "surveillance",
+        "environment"
+      ],
+      "link": "/lavori/myim/"
+    },
+    {
+      "id": "pseudomonas-aeruginosa",
+      "title": "Pseudomonas aeruginosa",
+      "year": "2018",
+      "medium": "mixed media installation",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "environment",
+        "pandemic"
+      ],
+      "link": "/lavori/pseudomonas-aeruginosa/"
+    },
+    {
+      "id": "signum-monitorium",
+      "title": "Signum Monitorium",
+      "year": "2018",
+      "medium": "floating installation",
+      "tags": [
+        "environment",
+        "water",
+        "tiber",
+        "preparedness"
+      ],
+      "link": "/lavori/signum-monitorium/"
+    },
+    {
+      "id": "deepest-point-tiber",
+      "title": "The Deepest Point of the Tiber",
+      "year": "2018",
+      "medium": "mixed media installation",
+      "tags": [
+        "environment",
+        "water",
+        "tiber",
+        "memory"
+      ],
+      "link": "/lavori/deepest-point-tiber/"
+    },
+    {
+      "id": "ruet-moles-machina-mundi",
+      "title": "…Ruet Moles et Machina Mundi…",
+      "year": "2017",
+      "medium": "kinetic sculpture",
+      "tags": [
+        "environment",
+        "earth",
+        "language",
+        "memory"
+      ],
+      "link": "/lavori/ruet-moles-machina-mundi/"
+    },
+    {
+      "id": "disoccupazione-suolo-pubblico",
+      "title": "Disoccupazione del suolo pubblico",
+      "year": "2017",
+      "medium": "advertising board · cardboard banquet",
+      "tags": [
+        "labor",
+        "economy",
+        "language",
+        "body"
+      ],
+      "link": "/lavori/disoccupazione-suolo-pubblico/"
+    },
+    {
+      "id": "repubblica-del-fare",
+      "title": "Repubblica del fare",
+      "year": "2017",
+      "medium": "performance",
+      "tags": [
+        "labor",
+        "economy",
+        "care",
+        "collective"
+      ],
+      "link": "/lavori/repubblica-del-fare/"
+    },
+    {
+      "id": "lumpenwringer",
+      "title": "Lumpenwringer",
+      "year": "2013-14",
+      "medium": "kinetic sculpture",
+      "tags": [
+        "labor",
+        "economy",
+        "care",
+        "body"
+      ],
+      "link": "/lavori/lumpenwringer/"
+    },
+    {
+      "id": "soglie",
+      "title": "Soglie",
+      "year": "2013-14",
+      "medium": "installation",
+      "tags": [
+        "body",
+        "surveillance",
+        "language",
+        "memory"
+      ],
+      "link": "/lavori/soglie/"
+    },
+    {
+      "id": "soft-hard",
+      "title": "Soft Hard",
+      "year": "2015",
+      "medium": "silicone sculpture",
+      "tags": [
+        "body",
+        "language"
+      ],
+      "link": "/lavori/soft-hard/"
+    },
+    {
+      "id": "braccio",
+      "title": "Braccio",
+      "year": "2011",
+      "medium": "animatronic drawing · HOXA1",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "neural"
+      ],
+      "link": "/lavori/braccio/"
+    },
+    {
+      "id": "clothing",
+      "title": "Clothing",
+      "year": "2011",
+      "medium": "digital print · MC1R",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "surveillance"
+      ],
+      "link": "/lavori/clothing/"
+    },
+    {
+      "id": "laniccia",
+      "title": "Laniccia",
+      "year": "2011",
+      "medium": "mixed media · MC1R",
+      "tags": [
+        "body",
+        "dna",
+        "genetics"
+      ],
+      "link": "/lavori/laniccia/"
+    },
+    {
+      "id": "piedi",
+      "title": "Piedi",
+      "year": "2011",
+      "medium": "plaster casts · calipers",
+      "tags": [
+        "body",
+        "surveillance",
+        "memory"
+      ],
+      "link": "/lavori/piedi/"
+    },
+    {
+      "id": "nilanka",
+      "title": "Nilanka",
+      "year": "2011",
+      "medium": "drawing",
+      "tags": [
+        "migration",
+        "language",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/nilanka/"
+    },
+    {
+      "id": "io-nel-progetto-di-un-altro",
+      "title": "Io_nel_progetto_di_un_altro",
+      "year": "2011",
+      "medium": "diagram sculpture",
+      "tags": [
+        "body",
+        "surveillance",
+        "ai",
+        "language"
+      ],
+      "link": "/lavori/io-nel-progetto-di-un-altro/"
+    },
+    {
+      "id": "day-doesnt-know-night",
+      "title": "Day doesn't know night, thirst pursues water",
+      "year": "2011",
+      "medium": "performative installation",
+      "tags": [
+        "language",
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/day-doesnt-know-night/"
+    },
+    {
+      "id": "natura-morta",
+      "title": "Natura Morta",
+      "year": "2011",
+      "medium": "installation · fruit · calipers",
+      "tags": [
+        "environment",
+        "ecology",
+        "economy",
+        "body"
+      ],
+      "link": "/lavori/natura-morta/"
+    },
+    {
+      "id": "apaf1-bcl2",
+      "title": "Apaf1_Bcl2",
+      "year": "2012",
+      "medium": "kinetic sculpture · DNA",
+      "tags": [
+        "body",
+        "dna",
+        "genetics",
+        "neural"
+      ],
+      "link": "/lavori/apaf1-bcl2/"
+    },
+    {
+      "id": "nice-to-meet-me",
+      "title": "Nice to Meet Me",
+      "year": "2012-13",
+      "medium": "theatrical performance",
+      "tags": [
+        "body",
+        "language",
+        "ai",
+        "surveillance"
+      ],
+      "link": "/lavori/nice-to-meet-me/"
+    },
+    {
+      "id": "veto-l",
+      "title": "Veto_L",
+      "year": "2011",
+      "medium": "sound sculpture · neural",
+      "tags": [
+        "neural",
+        "music",
+        "ai",
+        "body"
+      ],
+      "link": "/lavori/veto-l/"
+    },
+    {
+      "id": "veto-a",
+      "title": "Veto_A",
+      "year": "2009",
+      "medium": "electronic kinetic sculpture",
+      "tags": [
+        "neural",
+        "music",
+        "ai"
+      ],
+      "link": "/lavori/veto-a/"
+    },
+    {
+      "id": "agon",
+      "title": "Agòn",
+      "year": "2018",
+      "medium": "kinetic sculpture",
+      "tags": [
+        "labor",
+        "body",
+        "economy"
+      ],
+      "link": "/lavori/agon/"
+    },
+    {
+      "id": "seismic-noise",
+      "title": "Seismic Noise",
+      "year": "2020",
+      "medium": "kinetic sculpture",
+      "tags": [
+        "environment",
+        "seismic",
+        "earth",
+        "preparedness"
+      ],
+      "link": "/lavori/seismic-noise/"
+    },
+    {
+      "id": "aulos",
+      "title": "Aulos",
+      "year": "2020",
+      "medium": "sound sculpture · Etruscan DNA",
+      "tags": [
+        "music",
+        "dna",
+        "genetics",
+        "heritage",
+        "body"
+      ],
+      "link": "/lavori/aulos/"
+    },
+    {
+      "id": "pentagono",
+      "title": "Pentagono",
+      "year": "2020",
+      "medium": "kinetic sculpture",
+      "tags": [
+        "body",
+        "language",
+        "memory"
+      ],
+      "link": "/lavori/pentagono/"
+    },
+    {
+      "id": "lanterne",
+      "title": "Lanterne",
+      "year": "2019-20",
+      "medium": "video",
+      "tags": [
+        "memory",
+        "language",
+        "body"
+      ],
+      "link": "/lavori/lanterne/"
+    },
+    {
+      "id": "tanato",
+      "title": "Tanato",
+      "year": "2009",
+      "medium": "overpainted photographs",
+      "tags": [
+        "body",
+        "memory"
+      ],
+      "link": "/lavori/tanato/"
+    },
+    {
+      "id": "flusso",
+      "title": "Flusso",
+      "year": "2009",
+      "medium": "interactive installation",
+      "tags": [
+        "body",
+        "water",
+        "language"
+      ],
+      "link": "/lavori/flusso/"
+    },
+    {
+      "id": "conosci-no",
+      "title": "Conosci…? No",
+      "year": "2007",
+      "medium": "performance",
+      "tags": [
+        "language",
+        "surveillance",
+        "body",
+        "authorship"
+      ],
+      "link": "/lavori/conosci-no/"
+    },
+    {
+      "id": "ordinateur",
+      "title": "Ordinateur",
+      "year": "2005",
+      "medium": "video",
+      "tags": [
+        "body",
+        "language",
+        "ai"
+      ],
+      "link": "/lavori/ordinateur/"
+    }
+  ]
+}
