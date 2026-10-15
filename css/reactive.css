@@ -1,0 +1,279 @@
+/* ============================================================
+   carlocaloro.com — Homepage reattiva
+   Sostituisce qualsiasi stile della home precedente.
+   Solo su body.is-home.
+   ============================================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,400;1,500&family=Inter:wght@400;500&display=swap");
+
+body.is-home {
+  background: #ffffff;
+  color: #111;
+  font-family: "EB Garamond", Georgia, serif;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* La home è autonoma: nasconde header/footer del tema */
+body.is-home > .home-header,
+body.is-home > .page-header,
+body.is-home > .site-footer {
+  display: none !important;
+}
+
+body.is-home main#main {
+  margin: 0;
+  padding: 0;
+}
+
+/* ============================================================
+   Barra notizia in alto
+   ============================================================ */
+
+.news-bar {
+  position: fixed;
+  top: 32px;
+  left: 40px;
+  right: 40px;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-bottom: 16px;
+  border-bottom: 0.5px solid #ececec;
+  font-style: normal;
+}
+
+.news-tag {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 9px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #aaa;
+  text-transform: uppercase;
+}
+
+.news-headline {
+  font-family: "EB Garamond", Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  color: #111;
+  line-height: 1.35;
+  transition: opacity 1.5s ease;
+  max-width: 90%;
+}
+.news-headline.fade-out { opacity: 0; }
+
+.news-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 9px;
+  color: #888;
+  font-style: italic;
+}
+
+.news-lang {
+  font-style: normal;
+  border: 0.5px solid #ddd;
+  padding: 1px 6px;
+  font-size: 8px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #555;
+}
+
+.news-source { color: #888; }
+
+/* ============================================================
+   Stage reattivo (dove appaiono le opere)
+   ============================================================ */
+
+.reactive-stage {
+  position: absolute;
+  top: 110px;
+  left: 60px;
+  right: 60px;
+  bottom: 80px;
+  pointer-events: none;
+  /* I figli (opere) hanno pointer-events:auto loro stessi */
+}
+
+.reactive-stage > * { pointer-events: auto; }
+
+.work-node {
+  position: absolute;
+  font-family: "EB Garamond", Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #111;
+  text-decoration: none;
+  line-height: 1.15;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 2.4s ease, transform 2.6s cubic-bezier(0.2, 0.8, 0.3, 1), color 0.2s;
+  max-width: 360px;
+}
+
+.work-node.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.work-node:hover {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 0.5px;
+}
+
+.work-node .w-title {
+  display: block;
+  font-size: inherit;
+}
+
+.work-node .w-meta {
+  display: block;
+  font-family: "Inter", system-ui, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  color: #888;
+  margin-top: 2px;
+  letter-spacing: 0.5px;
+}
+
+/* ============================================================
+   Frase di silenzio (centro)
+   ============================================================ */
+
+.silence-phrase {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "EB Garamond", Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  color: #cccccc;
+  margin: 0;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 1.5s ease;
+  pointer-events: none;
+}
+
+.silence-phrase.is-visible { opacity: 1; }
+
+/* ============================================================
+   Voci fluttuanti — works/about/contact
+   Posizioni asimmetriche stabili (non si muovono nelle rotazioni)
+   ============================================================ */
+
+.floating-menu {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  pointer-events: none;
+}
+
+.float-link {
+  position: fixed;
+  font-family: "EB Garamond", Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  color: #555;
+  text-decoration: none;
+  pointer-events: auto;
+  transition: color 0.2s ease;
+}
+.float-link:hover {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 0.5px;
+}
+
+.float-works   { top: 38%;  right: 14%; }
+.float-about   { bottom: 30%; left: 12%; }
+.float-contact { top: 62%;  right: 25%; }
+
+/* ============================================================
+   Timbro in basso
+   ============================================================ */
+
+.stamp {
+  position: fixed;
+  bottom: 24px;
+  left: 40px;
+  right: 40px;
+  z-index: 40;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  pointer-events: none;
+  font-style: normal;
+}
+
+.stamp-name {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 10px;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #111;
+}
+
+.stamp-status {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  color: #bbb;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-transform: uppercase;
+}
+
+.pulse-dot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: #111;
+  display: inline-block;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.25; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse-dot { animation: none; }
+  .work-node { transition: opacity 0.4s ease, transform 0.4s ease; }
+  .news-headline { transition: opacity 0.4s ease; }
+  .silence-phrase { transition: opacity 0.4s ease; }
+}
+
+/* ============================================================
+   Mobile
+   ============================================================ */
+
+@media (max-width: 720px) {
+  .news-bar { left: 16px; right: 16px; top: 20px; }
+  .news-headline { font-size: 14px; }
+  .reactive-stage { top: 96px; left: 16px; right: 16px; bottom: 70px; }
+  .stamp { left: 16px; right: 16px; bottom: 16px; }
+  .stamp-status { font-size: 7px; letter-spacing: 1px; }
+  .float-works   { top: auto; bottom: 50%; right: 8%; }
+  .float-about   { top: 30%;  left: 8%;  bottom: auto; }
+  .float-contact { top: 70%;  right: 12%; }
+  .work-node { max-width: 200px; font-size: 16px !important; }
+}

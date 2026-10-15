@@ -1,0 +1,263 @@
+# Dizionario multilingua dei tag tematici
+# Ogni tema ha keyword nelle 10 lingue principali coperte da GDELT.
+# Lo script di matching cerca queste keyword nei titoli degli articoli.
+
+themes:
+
+  war:
+    keywords:
+      en: [war, warfare, military, conflict, troops, missile, drone, naval drill, weapons, army, ceasefire, frontline, invasion, bombardment, hostilities, airstrike]
+      it: [guerra, conflitto, militare, missile, drone, esercito, tregua, fronte, invasione, bombardamento, armi, ostilità, raid]
+      fr: [guerre, militaire, conflit, missile, troupes, armée, cessez-le-feu, invasion, bombardement, hostilités]
+      de: [Krieg, Militär, Konflikt, Truppen, Waffen, Armee, Waffenstillstand, Invasion, Feindseligkeiten]
+      es: [guerra, militar, conflicto, tropas, ejército, alto el fuego, invasión, bombardeo, hostilidades]
+      pt: [guerra, militar, conflito, tropas, exército, cessar-fogo, invasão, bombardeio, hostilidades]
+      ar: [حرب, جيش, صراع, قصف, هجوم, جنود, أسلحة]
+      ru: [война, военный, конфликт, войска, армия, перемирие, вторжение]
+      sw: [vita, kijeshi, mzozo, askari, silaha]
+      zh: [战争, 军事, 冲突, 部队, 武器, 入侵]
+
+  preparedness:
+    keywords:
+      en: [civil defence, civil defense, emergency, preparedness, shelter, evacuation, drill, alarm, siren, bunker, doomsday]
+      it: [protezione civile, emergenza, rifugio, evacuazione, esercitazione, allarme, sirena, bunker]
+      fr: [protection civile, urgence, abri, évacuation, alerte, sirène]
+      de: [Zivilschutz, Notfall, Schutzraum, Evakuierung, Sirene, Alarm]
+      es: [protección civil, emergencia, refugio, evacuación, sirena, alerta]
+      ar: [دفاع مدني, طوارئ, إخلاء, ملجأ, إنذار]
+      ru: [гражданская оборона, эвакуация, убежище, тревога]
+
+  environment:
+    keywords:
+      en: [environment, ecology, climate, biodiversity, ecosystem, pollution, deforestation, conservation, climate crisis]
+      it: [ambiente, ecologia, clima, biodiversità, ecosistema, inquinamento, deforestazione, crisi climatica]
+      fr: [environnement, écologie, climat, biodiversité, écosystème, pollution]
+      de: [Umwelt, Ökologie, Klima, Biodiversität, Ökosystem, Verschmutzung]
+      es: [medio ambiente, ecología, clima, biodiversidad, ecosistema, contaminación]
+      pt: [meio ambiente, ecologia, clima, biodiversidade, poluição]
+      ar: [بيئة, مناخ, تنوع بيولوجي, تلوث]
+      ru: [окружающая среда, экология, климат, биоразнообразие]
+      sw: [mazingira, mabadiliko ya tabianchi, viumbe hai]
+      zh: [环境, 气候, 生态, 污染, 生物多样性]
+
+  extraction:
+    keywords:
+      en: [mining, quarry, extraction, marble, drilling, oil, gas, lithium, copper, mineral, raw materials]
+      it: [estrazione, miniera, cava, marmo, trivellazione, petrolio, gas, litio, materie prime]
+      fr: [extraction, mine, carrière, marbre, forage, pétrole, lithium]
+      de: [Bergbau, Steinbruch, Marmor, Bohrung, Erdöl, Lithium]
+      es: [minería, cantera, mármol, perforación, petróleo, litio]
+      pt: [mineração, pedreira, mármore, perfuração, petróleo]
+      ar: [تعدين, محجر, رخام, نفط]
+      ru: [добыча, карьер, бурение, нефть, литий]
+
+  mountains:
+    keywords:
+      en: [mountain, alps, apennines, glacier, peak, summit, range]
+      it: [montagna, alpi, appennini, ghiacciaio, vetta, alpi apuane, apuane]
+      fr: [montagne, alpes, glacier, sommet]
+      de: [Berg, Alpen, Gletscher, Gipfel]
+      es: [montaña, alpes, glaciar, cumbre]
+
+  water:
+    keywords:
+      en: [river, flood, tiber, drought, sea, ocean, coast, water crisis, tsunami]
+      it: [fiume, alluvione, tevere, siccità, mare, costa, crisi idrica, maremoto]
+      fr: [fleuve, inondation, sécheresse, mer, côte]
+      de: [Fluss, Überschwemmung, Dürre, Meer, Küste]
+      es: [río, inundación, sequía, mar, costa]
+      sw: [mto, mafuriko, ukame, bahari]
+      ar: [نهر, فيضان, جفاف, بحر]
+      ru: [река, наводнение, засуха, море]
+
+  tiber:
+    keywords:
+      en: [tiber, rome flood]
+      it: [tevere, alluvione roma]
+
+  seismic:
+    keywords:
+      en: [earthquake, seismic, tremor, magnitude, fault, geology, aftershock]
+      it: [terremoto, sisma, scossa, magnitudo, faglia, geologia, replica sismica]
+      fr: [séisme, tremblement, magnitude, géologie]
+      de: [Erdbeben, Magnitude, Geologie]
+      es: [terremoto, sismo, magnitud, geología]
+      pt: [terremoto, sismo, geologia]
+      ja: [地震]
+      zh: [地震, 余震]
+      ar: [زلزال, هزة]
+      ru: [землетрясение]
+
+  earth:
+    keywords:
+      en: [planet earth, geophysics, geology, magnetic field, ionosphere]
+      it: [pianeta terra, geofisica, geologia, campo magnetico, ionosfera]
+
+  ai:
+    keywords:
+      en: [artificial intelligence, AI, machine learning, large language model, LLM, chatbot, generative AI, deepfake, AI act, neural network]
+      it: [intelligenza artificiale, IA, modello linguistico, chatbot, generativa, deepfake, rete neurale]
+      fr: [intelligence artificielle, IA, apprentissage automatique, modèle de langage, réseau neuronal]
+      de: [künstliche Intelligenz, KI, maschinelles Lernen, Sprachmodell, neuronales Netz]
+      es: [inteligencia artificial, IA, aprendizaje automático, red neuronal]
+      pt: [inteligência artificial, IA, aprendizado de máquina, rede neural]
+      ar: [ذكاء اصطناعي, تعلم الآلة, شبكة عصبية]
+      ru: [искусственный интеллект, ИИ, машинное обучение, нейронная сеть]
+      zh: [人工智能, 机器学习, 大语言模型, 神经网络]
+
+  language:
+    keywords:
+      en: [language, linguistics, translation, poetry, literature, authorship]
+      it: [linguaggio, linguistica, traduzione, poesia, letteratura, autore]
+      fr: [langue, linguistique, traduction, poésie, littérature, auteur]
+      de: [Sprache, Linguistik, Übersetzung, Poesie, Literatur, Urheberrecht]
+
+  authorship:
+    keywords:
+      en: [authorship, copyright, plagiarism, attribution, intellectual property]
+      it: [autorialità, diritto d'autore, plagio, attribuzione, proprietà intellettuale]
+      fr: [paternité, droit d'auteur, plagiat, propriété intellectuelle]
+      de: [Urheberschaft, Urheberrecht, Plagiat]
+
+  neural:
+    keywords:
+      en: [neural network, brain, neuroscience, cognition, neurons, connectome, synapse]
+      it: [rete neurale, cervello, neuroscienze, cognizione, neuroni, connettoma, sinapsi]
+      fr: [réseau neuronal, cerveau, neurosciences, cognition]
+      de: [neuronales Netz, Gehirn, Neurowissenschaft, Kognition]
+      es: [red neuronal, cerebro, neurociencia]
+
+  collective:
+    keywords:
+      en: [collective, swarm, crowd, community, network, commons]
+      it: [collettivo, sciame, folla, comunità, rete, comune]
+      fr: [collectif, essaim, foule, communauté]
+      de: [Kollektiv, Schwarm, Gemeinschaft]
+
+  surveillance:
+    keywords:
+      en: [surveillance, spying, biometric, facial recognition, data harvesting, privacy, monitoring, tracking]
+      it: [sorveglianza, spionaggio, biometrico, riconoscimento facciale, privacy, monitoraggio, tracciamento]
+      fr: [surveillance, espionnage, biométrique, reconnaissance faciale, vie privée]
+      de: [Überwachung, Spionage, biometrisch, Gesichtserkennung, Datenschutz]
+      es: [vigilancia, espionaje, biométrico, reconocimiento facial, privacidad]
+      ar: [مراقبة, تجسس, خصوصية]
+      ru: [слежка, наблюдение, конфиденциальность]
+      zh: [监控, 监视, 隐私]
+
+  body:
+    keywords:
+      en: [body, embodiment, gesture, movement, dance, somatic, corporeal]
+      it: [corpo, gesto, movimento, danza, somatico, incarnato, corporeo]
+      fr: [corps, geste, mouvement, danse, somatique]
+      de: [Körper, Geste, Bewegung, Tanz]
+
+  dna:
+    keywords:
+      en: [DNA, gene, genome, genetic, chromosome, mutation, hereditary, sequencing]
+      it: [DNA, gene, genoma, genetica, cromosoma, mutazione, ereditario, sequenziamento]
+      fr: [ADN, gène, génome, génétique, chromosome, mutation]
+      de: [DNA, Gen, Genom, Genetik, Chromosom, Mutation]
+      es: [ADN, gen, genoma, genética, cromosoma]
+      pt: [DNA, gene, genoma, genética]
+
+  genetics:
+    keywords:
+      en: [genetics, gene editing, CRISPR, hereditary disease, gene therapy]
+      it: [genetica, modifica genetica, CRISPR, terapia genica, malattia ereditaria]
+      fr: [génétique, modification génétique, thérapie génique]
+      de: [Genetik, Gentechnik, Genetische Therapie]
+
+  connectome:
+    keywords:
+      en: [connectome, neural map, brain mapping, drosophila, neural circuit]
+      it: [connettoma, mappatura cerebrale, drosophila, circuito neurale]
+
+  music:
+    keywords:
+      en: [music, sound art, composition, instrument, score, sonic]
+      it: [musica, arte sonora, composizione, strumento, partitura, sonoro]
+      fr: [musique, art sonore, composition, instrument, partition]
+      de: [Musik, Klangkunst, Komposition, Instrument]
+
+  heritage:
+    keywords:
+      en: [heritage, archaeology, ancient, etruscan, roman, archaeological]
+      it: [patrimonio, archeologia, antico, etrusco, romano, archeologico]
+      fr: [patrimoine, archéologie, antique, étrusque]
+      de: [Kulturerbe, Archäologie, Antike, Etrusker]
+
+  labor:
+    keywords:
+      en: [labor, work, employment, strike, union, gig economy, exploitation, wage]
+      it: [lavoro, occupazione, sciopero, sindacato, sfruttamento, salario]
+      fr: [travail, emploi, grève, syndicat, exploitation, salaire]
+      de: [Arbeit, Beschäftigung, Streik, Gewerkschaft, Ausbeutung, Lohn]
+      es: [trabajo, empleo, huelga, sindicato, explotación, salario]
+      pt: [trabalho, emprego, greve, sindicato, exploração]
+
+  economy:
+    keywords:
+      en: [economy, market, capitalism, inflation, recession, wages, inequality]
+      it: [economia, mercato, capitalismo, inflazione, recessione, salari, disuguaglianza]
+      fr: [économie, marché, capitalisme, inflation, récession]
+      de: [Wirtschaft, Markt, Kapitalismus, Inflation, Rezession]
+
+  care:
+    keywords:
+      en: [care work, caregiver, domestic labor, unpaid work, nursing]
+      it: [lavoro di cura, badante, lavoro domestico, lavoro non retribuito, assistenza]
+      fr: [travail de soin, aidant, travail domestique]
+      de: [Pflegearbeit, häusliche Arbeit, unbezahlte Arbeit]
+      pt: [trabalho de cuidado, trabalho doméstico]
+
+  memory:
+    keywords:
+      en: [memory, archive, trauma, history, monument, commemoration]
+      it: [memoria, archivio, trauma, storia, monumento, commemorazione]
+      fr: [mémoire, archive, trauma, histoire, monument]
+      de: [Gedächtnis, Archiv, Trauma, Geschichte, Denkmal]
+
+  kharkiv:
+    keywords:
+      en: [kharkiv, ukraine, donbas, kyiv]
+      it: [kharkiv, ucraina, donbas, kiev]
+      fr: [kharkiv, ukraine, donbas, kiev]
+      de: [Charkiw, Ukraine, Donbas, Kiew]
+      ru: [Харьков, Украина, Донбас, Киев]
+      uk: [Харків, Україна, Київ]
+
+  filo-lana:
+    keywords:
+      en: [wool, sweater, knitting, white sweaters, civilian protest]
+      it: [lana, maglione, maglia, maglioni bianchi, protesta civile]
+
+  migration:
+    keywords:
+      en: [migration, refugee, asylum, border, displacement, deportation]
+      it: [migrazione, rifugiato, asilo, frontiera, deportazione]
+      fr: [migration, réfugié, asile, frontière, expulsion]
+      de: [Migration, Flüchtling, Asyl, Grenze, Abschiebung]
+      es: [migración, refugiado, asilo, frontera]
+      ar: [هجرة, لاجئ, لجوء, حدود]
+      sw: [uhamiaji, mkimbizi, mpaka]
+
+  pandemic:
+    keywords:
+      en: [pandemic, virus, outbreak, contagion, epidemic, vaccine]
+      it: [pandemia, virus, contagio, epidemia, vaccino]
+      fr: [pandémie, virus, contagion, épidémie, vaccin]
+      de: [Pandemie, Virus, Epidemie, Impfstoff]
+
+  ecology:
+    keywords:
+      en: [ecology, ecosystem, species extinction, wildlife, fauna, flora, intensive farming, livestock]
+      it: [ecologia, ecosistema, estinzione, fauna selvatica, flora, allevamento intensivo, bestiame]
+      fr: [écologie, écosystème, extinction, faune sauvage]
+      de: [Ökologie, Ökosystem, Aussterben, Wildtiere]
+
+  civil-defense:
+    keywords:
+      en: [civil defense, civil defence, emergency procedures, panic, alarm system]
+      it: [protezione civile, difesa civile, allarme, panico, procedure di emergenza]
+      de: [Zivilschutz, Notfallverfahren]

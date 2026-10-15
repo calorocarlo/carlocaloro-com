@@ -1,0 +1,93 @@
+# Fonti di notizie per il dispositivo reattivo carlocaloro.com
+# Strategia: GDELT 2.0 come fonte primaria multilingue + RSS culturali specifici
+
+# === FONTE PRIMARIA: GDELT 2.0 ===
+# Database globale di notizie multilingue, free API, aggiornato ogni 15 min.
+# Documentazione: https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/
+gdelt:
+  enabled: true
+  endpoint: https://api.gdeltproject.org/api/v2/doc/doc
+  # Lingue da interrogare in giri separati per garantire diversità
+  languages:
+    - eng         # inglese
+    - ita         # italiano
+    - deu         # tedesco
+    - fra         # francese
+    - spa         # spagnolo
+    - por         # portoghese
+    - rus         # russo
+    - ara         # arabo
+    - zho         # cinese mandarino
+    - swa         # swahili
+  # Massimo articoli per query
+  maxrecords: 50
+  # Finestra temporale (ultime 6 ore)
+  timespan: 6h
+
+# === RSS CULTURALI (editoriali, non sostituibili da GDELT) ===
+rss:
+  - id: e-flux
+    name: e-flux Announcements
+    url: https://www.e-flux.com/announcements/feed/
+    lang: en
+    category: art
+
+  - id: frieze
+    name: Frieze
+    url: https://www.frieze.com/rss.xml
+    lang: en
+    category: art
+
+  - id: artforum
+    name: Artforum
+    url: https://www.artforum.com/rss.xml
+    lang: en
+    category: art
+
+  - id: hyperallergic
+    name: Hyperallergic
+    url: https://hyperallergic.com/feed/
+    lang: en
+    category: art
+
+  - id: domus
+    name: Domus
+    url: https://www.domusweb.it/it/rss.xml
+    lang: it
+    category: art
+
+  - id: artribune
+    name: Artribune
+    url: https://www.artribune.com/feed/
+    lang: it
+    category: art
+
+  - id: nature-news
+    name: Nature briefing
+    url: https://www.nature.com/nature.rss
+    lang: en
+    category: science
+
+  - id: science-news
+    name: Science Magazine
+    url: https://www.science.org/rss/news_current.xml
+    lang: en
+    category: science
+
+  - id: arxiv-cs
+    name: arXiv cs.CL (computational linguistics)
+    url: https://export.arxiv.org/rss/cs.CL
+    lang: en
+    category: science
+
+# === COMPORTAMENTO ===
+behavior:
+  # Numero massimo di voci nella rotation finale
+  max_rotation_entries: 80
+  # Articoli "vuoti" (silenzio) inseriti in rotation per ricordare che il mondo
+  # non parla sempre dei temi dell'archivio. Proporzione: 1 ogni N voci con match.
+  silence_ratio: 6
+  # Finestra temporale (ore) — articoli più vecchi vengono scartati
+  freshness_hours: 24
+  # User-Agent per le richieste HTTP
+  user_agent: "carlocaloro.com/1.0 (artist archive reactive feed; +https://www.carlocaloro.com)"
