@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T05:34:07.669631+00:00",
-  "rotation_size": 27,
+  "generated_at": "2026-10-17T10:35:25.248897+00:00",
+  "rotation_size": 15,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,70 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "In Abruzzo 10 anni dopo il terremoto del 2016: visite guidate gratuite nei cantieri di restauro ancora aperti",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/architettura/2026/10/visite-gratuite-cantieri-restauro-abruzzo-terremoto-2016/",
-      "timestamp": "2026-10-16T11:00:00+00:00",
-      "themes": [
-        "seismic"
-      ],
-      "works": [
-        "analog-ondograph",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Meta updates business terms , sparking AI training fears among news outlets",
-      "lang": "en",
-      "source": "eastbaytimes.com",
-      "url": "https://www.eastbaytimes.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-16T23:45:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
     {
       "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
       "lang": "en",
@@ -105,11 +41,103 @@
       ]
     },
     {
-      "headline": "La Marvel torna a raccontare la storia di Visione tra intelligenza artificiale e design",
+      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03247-0",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Mountaintop microwave observatory will peer into the infant universe",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "timestamp": "2026-10-14T05:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "labor",
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "A Bologna puoi registrare la tua musica direttamente in biblioteca. Lo studio aperto a tutta la città",
       "lang": "it",
       "source": "Artribune",
-      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/visionquest-serie-marvel-disney/",
-      "timestamp": "2026-10-16T13:00:00+00:00",
+      "url": "https://www.artribune.com/progettazione/2026/10/spazio-culturale-oarecords-biblioteca-salaborsa-bologna/",
+      "timestamp": "2026-10-16T18:00:00+00:00",
+      "themes": [
+        "music"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "sway-fune",
+        "veto-l",
+        "veto-a",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "timestamp": "2026-10-16",
       "themes": [
         "memory",
         "ai"
@@ -151,20 +179,95 @@
       ]
     },
     {
-      "headline": "10 / 3 Podcast : What driving Alberta separatists ?",
+      "headline": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
       "lang": "en",
-      "source": "edmontonjournal.com",
-      "url": "https://edmontonjournal.com:443/news/10-3-podcast-whats-driving-alberta-separatists",
-      "timestamp": "2026-10-17T00:00:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4",
+      "timestamp": "2026-10-16",
       "themes": [],
       "works": []
     },
     {
-      "headline": "Meta updates business terms , sparking AI training fears among content creators",
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
       "lang": "en",
-      "source": "mcall.com",
-      "url": "https://www.mcall.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-17T00:15:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Memory stays strong in old age when this brain enzyme is active",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03303-9",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "neural",
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "tracing",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "memory-foam",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "sneak-peek",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "braccio",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "timestamp": "2026-10-13T04:00:00+00:00",
       "themes": [
         "ai"
       ],
@@ -217,79 +320,6 @@
       ]
     },
     {
-      "headline": "A Bologna puoi registrare la tua musica direttamente in biblioteca. Lo studio aperto a tutta la città",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/2026/10/spazio-culturale-oarecords-biblioteca-salaborsa-bologna/",
-      "timestamp": "2026-10-16T18:00:00+00:00",
-      "themes": [
-        "music"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "sway-fune",
-        "veto-l",
-        "veto-a",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Memory stays strong in old age when this brain enzyme is active",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03303-9",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "memory",
-        "neural"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "dna-dance-needs-action",
-        "still-silent-dance",
-        "tracing",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "sneak-peek",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "binding-or-not-binding",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "braccio",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
       "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
       "lang": "en",
       "source": "Nature briefing",
@@ -310,201 +340,33 @@
       ]
     },
     {
-      "headline": "Mark Carney makes case against Alberta separatism to his boomer base",
-      "lang": "en",
-      "source": "edmontonjournal.com",
-      "url": "https://edmontonjournal.com:443/news/mark-carney-alberta-separatism/wcm/b8a8c7a9-9a5d-4147-8820-4a8482b44868",
-      "timestamp": "2026-10-17T00:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Meta updates business terms , sparking AI training fears among content creators",
-      "lang": "en",
-      "source": "citizensvoice.com",
-      "url": "https://www.citizensvoice.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-17T00:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "url": "https://www.nature.com/articles/d41586-026-03081-4",
       "timestamp": "2026-10-14",
       "themes": [
-        "labor"
+        "environment"
       ],
       "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "memory",
-        "ai"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
         "small-root-plant-space",
-        "autarchic-iron",
+        "analog-ondograph",
         "monument-unknown-animals",
-        "bluemoon-operation",
         "absorption",
-        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
         "deepest-point-tiber",
         "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
-      "timestamp": "2026-10-15T20:58:56+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Meta updates business terms , sparking AI training fears among content creators",
-      "lang": "en",
-      "source": "marinij.com",
-      "url": "https://www.marinij.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-17T00:30:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "In 2016 , Ed Sheeran bought a former plowed field ; years later , 14 , 000 trees had transformed it into a haven for wildlife",
-      "lang": "en",
-      "source": "hindustantimes.com",
-      "url": "https://www.hindustantimes.com/entertainment/music/in-2016-ed-sheeran-bought-a-former-plowed-field-years-later-14-000-trees-had-transformed-it-into-a-haven-for-wildlife-101791281802566.html",
-      "timestamp": "2026-10-17T04:15:00+00:00",
-      "themes": [
-        "ecology"
-      ],
-      "works": [
-        "biofeedback-vegetale",
-        "monument-unknown-animals",
-        "natura-morta"
-      ]
-    },
-    {
-      "headline": "Nvidia CEO says AI market turmoil will pass | The Straits Times",
-      "lang": "en",
-      "source": "straitstimes.com",
-      "url": "https://www.straitstimes.com/business/all-of-this-is-going-to-pass-nvidia-ceo-jensen-huang-on-ai-market-turmoil",
-      "timestamp": "2026-10-17T04:15:00+00:00",
-      "themes": [
-        "economy",
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "plus-size",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "autarchic-iron",
-        "bluemoon-operation",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
         "natura-morta",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Faith and Its Contradictions in “9 Temples to Heaven”",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/faith-and-its-contradictions-in-9-temples-to-heaven/",
-      "timestamp": "2026-10-16T17:44:17+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Meta updates business terms , sparking AI training fears among content creators",
-      "lang": "en",
-      "source": "pilotonline.com",
-      "url": "https://www.pilotonline.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-17T00:30:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "seismic-noise"
       ]
     },
     {
@@ -542,113 +404,6 @@
         "pentagono",
         "lanterne",
         "tanato"
-      ]
-    },
-    {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "labor",
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Is this idea from AI or humans? A detector claims it can tell",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03247-0",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "timestamp": "2026-10-13T04:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Meta updates business terms , sparking AI training fears among content creators",
-      "lang": "en",
-      "source": "dailylocal.com",
-      "url": "https://www.dailylocal.com/2026/10/16/meta-updates-business-terms-sparking-ai-training-fears-among-news-outlets/",
-      "timestamp": "2026-10-17T00:30:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
       ]
     }
   ]
