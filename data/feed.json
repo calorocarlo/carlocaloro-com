@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T14:12:43.256400+00:00",
-  "rotation_size": 13,
+  "generated_at": "2026-10-17T17:53:17.392584+00:00",
+  "rotation_size": 17,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,6 +10,244 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
+    {
+      "headline": "North Korea Tests AI - Assisted Torpedo System : KCNA",
+      "lang": "en",
+      "source": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/asia/north-korea-tests-ai-assisted-torpedo-system-kcna-1996686",
+      "timestamp": "2026-10-17T12:15:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03307-5",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "timestamp": "2026-10-13T04:00:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "La grafia di Michelangelo ispira un carattere tipografico: il nuovo font Microsoft che tutti possono utilizzare",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/design/2026/10/michelangelo-ispira-font-tipografico-microsoft-studiogusto/",
+      "timestamp": "2026-10-17T07:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Cedar Point Millennium Force ride closes for emergency inspections",
+      "lang": "en",
+      "source": "whio.com",
+      "url": "https://www.whio.com/news/local/millennium-force-ride-cedar-point-shuts-down-after-bracket-flies-off-car/HQMSTK4L4VDT7HWR7K4OJO3624/",
+      "timestamp": "2026-10-17T13:00:00+00:00",
+      "themes": [
+        "preparedness"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "stoffe",
+        "signum-monitorium",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "labor",
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Woman murdered at Gurugram home , husband finds body in bathroom with hands tied , mouth taped",
+      "lang": "en",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/india-news/woman-murdered-at-gurugram-home-husband-finds-body-in-bathroom-with-hands-tied-mouth-taped-101792236579588.html",
+      "timestamp": "2026-10-17T13:00:00+00:00",
+      "themes": [
+        "body"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "genofish",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "stoffe",
+        "memory-foam",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "skin-to-skin",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "stretching-the-life",
+        "symbiotic-resonance",
+        "plus-size",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "dynamic-equilibrium",
+        "infiltr-azioni",
+        "instant-soluble",
+        "sway-fune",
+        "small-root-plant-space",
+        "sneak-peek",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "disoccupazione-suolo-pubblico",
+        "lumpenwringer",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "natura-morta",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "agon",
+        "aulos",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
     {
       "headline": "Bonanza of new dates rewrites the history of the Inca",
       "lang": "en",
@@ -48,63 +286,6 @@
       ]
     },
     {
-      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03307-5",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "ai",
-        "labor"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
       "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
       "lang": "en",
       "source": "Nature briefing",
@@ -135,97 +316,29 @@
       ]
     },
     {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "headline": "The worst it ever been : Alberta implements triage liaison physicians as emergency rooms continue to buckle under pressure",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
+      "source": "edmontonjournal.com",
+      "url": "https://edmontonjournal.com/news/local-news/the-worst-its-ever-been-alberta-implements-triage-liaison-physicians-as-emergency-rooms-continue-to-buckle-under-pressure",
+      "timestamp": "2026-10-17T17:30:00+00:00",
       "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Artavazd Pelechian’s Distant Connections",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
-      "timestamp": "2026-10-16T20:38:30+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai",
-        "memory"
+        "preparedness"
       ],
       "works": [
         "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "ordinateur"
+        "stoffe",
+        "signum-monitorium",
+        "seismic-noise"
       ]
     },
     {
-      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "headline": "Mountaintop microwave observatory will peer into the infant universe",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "timestamp": "2026-10-14T05:00:00+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "Is this idea from AI or humans? A detector claims it can tell",
@@ -303,35 +416,6 @@
       ]
     },
     {
-      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "timestamp": "2026-10-13T04:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Ah, the Many Smells of Frieze London",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
-      "timestamp": "2026-10-15T19:08:04+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
       "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
       "lang": "en",
       "source": "Nature briefing",
@@ -348,6 +432,52 @@
         "nice-to-meet-me",
         "veto-l",
         "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "memory",
+        "ai"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "still-silent-dance",
+        "tracing",
+        "occhi-eye-code-agency",
+        "memory-foam",
+        "progetto-generativo-unwritten",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "tanato",
         "ordinateur"
       ]
     }
