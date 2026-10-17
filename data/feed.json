@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T10:35:25.248897+00:00",
-  "rotation_size": 15,
+  "generated_at": "2026-10-17T14:12:43.256400+00:00",
+  "rotation_size": 13,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,6 +10,43 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
+    {
+      "headline": "Bonanza of new dates rewrites the history of the Inca",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "timestamp": "2026-10-15T02:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
     {
       "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
       "lang": "en",
@@ -38,6 +75,138 @@
         "ruet-moles-machina-mundi",
         "natura-morta",
         "seismic-noise"
+      ]
+    },
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai",
+        "labor"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03081-4",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Artavazd Pelechian’s Distant Connections",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
+      "timestamp": "2026-10-16T20:38:30+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai",
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "still-silent-dance",
+        "tracing",
+        "occhi-eye-code-agency",
+        "memory-foam",
+        "progetto-generativo-unwritten",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "ordinateur"
       ]
     },
     {
@@ -79,143 +248,14 @@
       ]
     },
     {
-      "headline": "Mountaintop microwave observatory will peer into the infant universe",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "labor",
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "A Bologna puoi registrare la tua musica direttamente in biblioteca. Lo studio aperto a tutta la città",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/2026/10/spazio-culturale-oarecords-biblioteca-salaborsa-bologna/",
-      "timestamp": "2026-10-16T18:00:00+00:00",
-      "themes": [
-        "music"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "sway-fune",
-        "veto-l",
-        "veto-a",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "memory",
-        "ai"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03308-4",
-      "timestamp": "2026-10-16",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
       "headline": "Memory stays strong in old age when this brain enzyme is active",
       "lang": "en",
       "source": "Nature briefing",
       "url": "https://www.nature.com/articles/d41586-026-03303-9",
       "timestamp": "2026-10-16",
       "themes": [
-        "neural",
-        "memory"
+        "memory",
+        "neural"
       ],
       "works": [
         "be-prepared-be-safe",
@@ -283,41 +323,13 @@
       ]
     },
     {
-      "headline": "È morto Enrico Lombardi, il gallerista che ha attraversato la storia dell’arte tra Roma e Milano",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/morto-enrico-lombardi-gallerista/",
-      "timestamp": "2026-10-16T14:30:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
+      "headline": "Ah, the Many Smells of Frieze London",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
+      "timestamp": "2026-10-15T19:08:04+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
@@ -337,73 +349,6 @@
         "veto-l",
         "veto-a",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Bonanza of new dates rewrites the history of the Inca",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "timestamp": "2026-10-15T02:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
       ]
     }
   ]
