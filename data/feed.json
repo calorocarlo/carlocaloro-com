@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T20:32:33.392879+00:00",
-  "rotation_size": 13,
+  "generated_at": "2026-10-17T23:05:37.410606+00:00",
+  "rotation_size": 12,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,120 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "labor",
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Bonanza of new dates rewrites the history of the Inca",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "timestamp": "2026-10-15T02:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
     {
       "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
       "lang": "en",
@@ -155,61 +41,14 @@
       ]
     },
     {
-      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "Give me the good news: four science stories to brighten your day",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03152-6",
-      "timestamp": "2026-10-15",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Is this idea from AI or humans? A detector claims it can tell",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03247-0",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
       "headline": "Memory stays strong in old age when this brain enzyme is active",
       "lang": "en",
       "source": "Nature briefing",
       "url": "https://www.nature.com/articles/d41586-026-03303-9",
       "timestamp": "2026-10-16",
       "themes": [
-        "neural",
-        "memory"
+        "memory",
+        "neural"
       ],
       "works": [
         "be-prepared-be-safe",
@@ -257,11 +96,41 @@
       ]
     },
     {
-      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "timestamp": "2026-10-15",
+      "url": "https://www.nature.com/articles/d41586-026-03081-4",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
       "themes": [
         "ai"
       ],
@@ -277,33 +146,50 @@
       ]
     },
     {
-      "headline": "“L’arte esiste quando la crei o quando l’esponi?”. Un ricordo dell’artista Marisa Merz (che ha due mostre a Torino)",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/10/marisa-merz-ricordo-mostre/",
-      "timestamp": "2026-10-17T14:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "headline": "Bonanza of new dates rewrites the history of the Inca",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "timestamp": "2026-10-13T04:00:00+00:00",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "timestamp": "2026-10-15T02:00:00+00:00",
       "themes": [
-        "ai"
+        "memory"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
+    },
+    {
+      "headline": "Tanya Merrill's Animal Instinct",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/tanya-merrills-animal-instinct/",
+      "timestamp": "2026-10-16T20:11:17+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "History’s long-secret codes are being cracked by amateurs using AI",
@@ -312,8 +198,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03338-y",
       "timestamp": "2026-10-16",
       "themes": [
-        "memory",
-        "ai"
+        "ai",
+        "memory"
       ],
       "works": [
         "be-prepared-be-safe",
@@ -348,6 +234,111 @@
         "pentagono",
         "lanterne",
         "tanato",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "timestamp": "2026-10-13T04:00:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai",
+        "labor"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03247-0",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
         "ordinateur"
       ]
     }
