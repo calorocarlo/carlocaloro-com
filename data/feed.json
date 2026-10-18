@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:33:35.853385+00:00",
+  "generated_at": "2026-10-18T18:04:42.687319+00:00",
   "rotation_size": 16,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -10,6 +10,33 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai",
+        "labor"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
     {
       "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
       "lang": "en",
@@ -41,11 +68,170 @@
       ]
     },
     {
-      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "timestamp": "2026-10-15",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai",
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "still-silent-dance",
+        "tracing",
+        "occhi-eye-code-agency",
+        "memory-foam",
+        "progetto-generativo-unwritten",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03307-5",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "In Francia le proteste degenerano e si dà fuoco ai monumenti: storia del Municipio di Limoges distrutto da un incendio",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/10/municipio-di-limoges-incendio-manifestazione/",
+      "timestamp": "2026-10-18T09:30:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Mountaintop microwave observatory will peer into the infant universe",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "timestamp": "2026-10-14T05:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Bonanza of new dates rewrites the history of the Inca",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "timestamp": "2026-10-15T02:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "timestamp": "2026-10-13T04:00:00+00:00",
       "themes": [
         "ai"
       ],
@@ -67,8 +253,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03303-9",
       "timestamp": "2026-10-16",
       "themes": [
-        "neural",
-        "memory"
+        "memory",
+        "neural"
       ],
       "works": [
         "be-prepared-be-safe",
@@ -116,11 +302,11 @@
       ]
     },
     {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "headline": "Is this idea from AI or humans? A detector claims it can tell",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
+      "url": "https://www.nature.com/articles/d41586-026-03247-0",
+      "timestamp": "2026-10-14",
       "themes": [
         "ai"
       ],
@@ -136,11 +322,29 @@
       ]
     },
     {
-      "headline": "Bonanza of new dates rewrites the history of the Inca",
+      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "timestamp": "2026-10-15T02:00:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Da Morandi ai cimiteri svizzeri: 6 nuovi libri tra immagini e memoria",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/editoria/2026/10/6-libri-arte-2/",
+      "timestamp": "2026-10-18T12:00:00+00:00",
       "themes": [
         "memory"
       ],
@@ -173,11 +377,20 @@
       ]
     },
     {
-      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "headline": "How scientists domesticated a killer bacterium",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
+      "timestamp": "2026-10-17T12:15:44+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03247-0",
-      "timestamp": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
+      "timestamp": "2026-10-15",
       "themes": [
         "ai"
       ],
@@ -189,61 +402,6 @@
         "nice-to-meet-me",
         "veto-l",
         "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Large blind test of methane-detecting satellites lends credibility to emissions data",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03075-2",
-      "timestamp": "2026-10-14",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai",
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
         "ordinateur"
       ]
     },
@@ -326,121 +484,11 @@
       ]
     },
     {
-      "headline": "In Francia le proteste degenerano e si dà fuoco ai monumenti: storia del Municipio di Limoges distrutto da un incendio",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/architettura/2026/10/municipio-di-limoges-incendio-manifestazione/",
-      "timestamp": "2026-10-18T09:30:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "ai",
-        "labor"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Da Morandi ai cimiteri svizzeri: 6 nuovi libri tra immagini e memoria",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/2026/10/6-libri-arte-2/",
-      "timestamp": "2026-10-18T12:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
-      "timestamp": "2026-10-15T20:58:56+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "timestamp": "2026-10-13T04:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
       "themes": [
         "ai"
       ],
@@ -453,54 +501,6 @@
         "veto-l",
         "veto-a",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03307-5",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
       ]
     }
   ]
