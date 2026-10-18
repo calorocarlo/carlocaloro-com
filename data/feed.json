@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T05:49:43.372747+00:00",
-  "rotation_size": 12,
+  "generated_at": "2026-10-18T10:57:21.059653+00:00",
+  "rotation_size": 14,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,33 +11,60 @@
   ],
   "rotation": [
     {
-      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4",
-      "timestamp": "2026-10-14",
+      "headline": "In Francia le proteste degenerano e si dà fuoco ai monumenti: storia del Municipio di Limoges distrutto da un incendio",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/10/municipio-di-limoges-incendio-manifestazione/",
+      "timestamp": "2026-10-18T09:30:00+00:00",
       "themes": [
-        "environment"
+        "memory"
       ],
       "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
         "small-root-plant-space",
-        "analog-ondograph",
+        "autarchic-iron",
         "monument-unknown-animals",
+        "bluemoon-operation",
         "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
+        "hidden-in-plain-sight",
         "deepest-point-tiber",
         "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -78,90 +105,11 @@
       ]
     },
     {
-      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
-      "timestamp": "2026-10-13T04:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
+      "headline": "Is this idea from AI or humans? A detector claims it can tell",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03307-5",
+      "url": "https://www.nature.com/articles/d41586-026-03247-0",
       "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "In un paesino sardo c’è un museo che fa dialogare da anni l’arte tessile con l’arte contemporanea",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/10/museo-murats-arte-tessile-samugheo-sardegna/",
-      "timestamp": "2026-10-17T21:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "timestamp": "2026-10-15",
       "themes": [
         "ai"
       ],
@@ -232,42 +180,13 @@
       ]
     },
     {
-      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "headline": "Orangutan mothers arrange play dates for their babies",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03247-0",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
+      "url": "https://www.nature.com/articles/d41586-026-03238-1",
+      "timestamp": "2026-10-15",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "History’s long-secret codes are being cracked by amateurs using AI",
@@ -314,6 +233,133 @@
         "tanato",
         "ordinateur"
       ]
+    },
+    {
+      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03307-5",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02442-3",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "timestamp": "2026-10-13T04:00:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03081-4",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "USDA scientists get reprieve from lab closures, but for how long?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/usda-scientists-get-reprieve-lab-closures-how-long",
+      "timestamp": "2026-10-16T03:50:00+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
