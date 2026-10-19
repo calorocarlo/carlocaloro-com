@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:05:19.696408+00:00",
+  "generated_at": "2026-10-19T01:11:20.795651+00:00",
   "rotation_size": 17,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -11,61 +11,11 @@
   ],
   "rotation": [
     {
-      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03081-4",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Da Morandi ai cimiteri svizzeri: 6 nuovi libri tra immagini e memoria",
+      "headline": "In Francia le proteste degenerano e si dà fuoco ai monumenti: storia del Municipio di Limoges distrutto da un incendio",
       "lang": "it",
       "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/2026/10/6-libri-arte-2/",
-      "timestamp": "2026-10-18T12:00:00+00:00",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/10/municipio-di-limoges-incendio-manifestazione/",
+      "timestamp": "2026-10-18T09:30:00+00:00",
       "themes": [
         "memory"
       ],
@@ -176,147 +126,6 @@
       ]
     },
     {
-      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03194-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "ai",
-        "labor"
-      ],
-      "works": [
-        "revesso",
-        "still-silent-dance",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "agon",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03307-5",
-      "timestamp": "2026-10-14",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03233-6",
-      "timestamp": "2026-10-15",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai",
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Diaries of a Primitive Man",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
-      "timestamp": "2026-10-17T10:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
       "headline": "Memory stays strong in old age when this brain enzyme is active",
       "lang": "en",
       "source": "Nature briefing",
@@ -372,11 +181,77 @@
       ]
     },
     {
-      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "headline": "<b>The world is closer to a major conservation target than scientists thought</b>",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03247-0",
+      "url": "https://www.nature.com/articles/d41586-026-03307-5",
       "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03194-w",
+      "timestamp": "2026-10-15",
+      "themes": [
+        "ai",
+        "labor"
+      ],
+      "works": [
+        "revesso",
+        "still-silent-dance",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "agon",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Raccontare l’Iran attraverso le piante. Ali Asgari lo fa nel film “Un po’ di luce”",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/ali-asgari-iran-film-un-po-di-luce/",
+      "timestamp": "2026-10-18T19:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03178-w",
+      "timestamp": "2026-10-15",
       "themes": [
         "ai"
       ],
@@ -429,6 +304,102 @@
       ]
     },
     {
+      "headline": "PhD students who write dissertation with AI less likely to stay in academia",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03253-2",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03081-4",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "timestamp": "2026-10-16",
+      "themes": [
+        "ai",
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "still-silent-dance",
+        "tracing",
+        "occhi-eye-code-agency",
+        "memory-foam",
+        "progetto-generativo-unwritten",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "ordinateur"
+      ]
+    },
+    {
       "headline": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "lang": "en",
       "source": "Nature briefing",
@@ -447,11 +418,40 @@
       ]
     },
     {
-      "headline": "In Francia le proteste degenerano e si dà fuoco ai monumenti: storia del Municipio di Limoges distrutto da un incendio",
+      "headline": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+      "timestamp": "2026-10-15T20:10:18+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Is this idea from AI or humans? A detector claims it can tell",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03247-0",
+      "timestamp": "2026-10-14",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Da Morandi ai cimiteri svizzeri: 6 nuovi libri tra immagini e memoria",
       "lang": "it",
       "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/architettura/2026/10/municipio-di-limoges-incendio-manifestazione/",
-      "timestamp": "2026-10-18T09:30:00+00:00",
+      "url": "https://www.artribune.com/editoria/2026/10/6-libri-arte-2/",
+      "timestamp": "2026-10-18T12:00:00+00:00",
       "themes": [
         "memory"
       ],
