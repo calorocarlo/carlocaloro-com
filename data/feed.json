@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T11:28:03.133871+00:00",
-  "rotation_size": 21,
+  "generated_at": "2026-10-20T16:54:34.907453+00:00",
+  "rotation_size": 19,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,11 +11,81 @@
   ],
   "rotation": [
     {
+      "headline": "Three reasons why AI is not conscious and perhaps never will be",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03313-7",
+      "timestamp": "2026-10-19",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
       "headline": "Bonanza of new dates rewrites the history of the Inca",
       "lang": "en",
       "source": "Science Magazine",
       "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
       "timestamp": "2026-10-15T02:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
+      "timestamp": "2026-10-19T15:00:00+00:00",
+      "themes": [
+        "migration"
+      ],
+      "works": [
+        "nilanka"
+      ]
+    },
+    {
+      "headline": "Rosana Paulino Reads the Archive Against Those Who Made It",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
+      "timestamp": "2026-10-19T16:15:51+00:00",
       "themes": [
         "memory"
       ],
@@ -78,25 +148,13 @@
       ]
     },
     {
-      "headline": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11290-0",
-      "timestamp": "2026-10-19",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
+      "headline": "Lucio Fontana guida le aste d’inverno alla casa d’aste Grisebach di Berlino (che compie 40 anni)",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/professioni-e-professionisti/mercato/2026/10/aste-grisebach-berlino-26-27-novembre-lucio-fontana/",
+      "timestamp": "2026-10-20T11:00:00+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "Daily briefing: We’re close to reaching a 30% land-conservation target",
@@ -129,110 +187,41 @@
       ]
     },
     {
-      "headline": "PhD students who write dissertations with AI less likely to stay in academia",
+      "headline": "The 2010 <em>Deepwater Horizon</em> oil spill devastated deep-sea life—and it hasn’t recovered",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03253-2",
-      "timestamp": "2026-10-16",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
+      "timestamp": "2026-10-19T06:10:00+00:00",
       "themes": [
-        "ai"
+        "extraction",
+        "water"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Diaries of a Primitive Man",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
-      "timestamp": "2026-10-17T10:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "History’s long-secret codes are being cracked by amateurs using AI",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03338-y",
-      "timestamp": "2026-10-16",
-      "themes": [
-        "memory",
-        "ai"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
+        "analog-ondograph",
         "absorption",
-        "hidden-in-plain-sight",
+        "signum-monitorium",
         "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03228-3",
+      "timestamp": "2026-10-19",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
         "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
         "nice-to-meet-me",
         "veto-l",
         "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "Quando il disagio sociale diventa conflitto ci sono responsabilità della cultura (che non se ne accorge)",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/attualita/2026/10/disagio-sociale-responsabilita-cultura/",
-      "timestamp": "2026-10-20T10:00:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "A Roma arte, illustrazione e nuovi progetti di condivisione fanno rivivere Palazzo Nardini (50 anni dopo l’occupazione femminista)",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/grafica-illustrazione/2026/10/palazzo-nardini-50-anni-occupazione-femminista-graphic-novel/",
-      "timestamp": "2026-10-19T21:00:00+00:00",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
       ]
     },
     {
@@ -314,72 +303,68 @@
       ]
     },
     {
-      "headline": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
+      "headline": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
-      "timestamp": "2026-10-19T15:00:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11290-0",
+      "timestamp": "2026-10-19",
       "themes": [
-        "migration"
+        "dna"
       ],
       "works": [
-        "nilanka"
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     },
     {
-      "headline": "How pregnancy reshapes the brain throughout life",
+      "headline": "Conservation planning should follow animal clocks",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03312-8",
-      "timestamp": "2026-10-19",
+      "url": "https://www.nature.com/articles/d41586-026-03354-y",
+      "timestamp": "2026-10-20",
       "themes": [
-        "neural"
+        "environment"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
+        "genofish",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
       ]
     },
     {
-      "headline": "Let’s Give a Round of A-Paws to These Tompkins Dog Parade Participants",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/lets-give-a-round-of-a-paws-to-these-tompkins-dog-parade-participants/",
-      "timestamp": "2026-10-19T18:16:53+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "The 2010 <em>Deepwater Horizon</em> oil spill devastated deep-sea life—and it hasn’t recovered",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
-      "timestamp": "2026-10-19T06:10:00+00:00",
+      "headline": "Conflitto come performance: non possiamo leggere le proteste di Milano con le categorie del passato",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/attualita/2026/10/proteste-milano-performance/",
+      "timestamp": "2026-10-20T08:00:00+00:00",
       "themes": [
-        "extraction",
-        "water"
+        "war"
       ],
       "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
       ]
     },
     {
@@ -438,31 +423,25 @@
       ]
     },
     {
-      "headline": "Three reasons why AI is not conscious and perhaps never will be",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03313-7",
-      "timestamp": "2026-10-19",
+      "headline": "Quando il disagio sociale diventa conflitto ci sono responsabilità della cultura (che non se ne accorge)",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/attualita/2026/10/disagio-sociale-responsabilita-cultura/",
+      "timestamp": "2026-10-20T10:00:00+00:00",
       "themes": [
-        "ai"
+        "war"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
       ]
     },
     {
-      "headline": "Rosana Paulino Reads the Archive Against Those Who Made It",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
-      "timestamp": "2026-10-19T16:15:51+00:00",
+      "headline": "Trentatré anni in carcere da innocente: la storia di Beniamino Zuncheddu diventa un film",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/10/beniamino-zuncheddu-zustissia/",
+      "timestamp": "2026-10-20T12:00:00+00:00",
       "themes": [
         "memory"
       ],
@@ -495,88 +474,79 @@
       ]
     },
     {
-      "headline": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
+      "headline": "How pregnancy reshapes the brain throughout life",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03228-3",
+      "url": "https://www.nature.com/articles/d41586-026-03312-8",
       "timestamp": "2026-10-19",
       "themes": [
-        "ai"
+        "neural"
       ],
       "works": [
         "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Conflitto come performance: non possiamo leggere le proteste di Milano con le categorie del passato",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/attualita/2026/10/proteste-milano-performance/",
-      "timestamp": "2026-10-20T08:00:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Is AI eroding PhD students’ critical thinking and analysis skills?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03178-w",
-      "timestamp": "2026-10-15",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Conservation planning should follow animal clocks",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03354-y",
-      "timestamp": "2026-10-20",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
+        "dna-dance-needs-action",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "biofeedback-vegetale",
-        "dynamic-equilibrium",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Le donne sono sempre state presenti nei quadri ma assenti nella storia. Una mostra a Parma aiuta a riflettere",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/10/mostra-lei-parma/",
+      "timestamp": "2026-10-20T16:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
         "small-root-plant-space",
-        "analog-ondograph",
+        "autarchic-iron",
         "monument-unknown-animals",
+        "bluemoon-operation",
         "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
+        "hidden-in-plain-sight",
         "deepest-point-tiber",
         "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
+    },
+    {
+      "headline": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4",
+      "timestamp": "2026-10-16",
+      "themes": [],
+      "works": []
     }
   ]
 }
