@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T20:44:53.581858+00:00",
-  "rotation_size": 31,
+  "generated_at": "2026-10-24T23:09:42.268748+00:00",
+  "rotation_size": 25,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,86 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03371-x",
-      "timestamp": "2026-10-22",
-      "themes": [
-        "body",
-        "dna",
-        "genetics"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "dna-dance-needs-action",
-        "still-silent-dance",
-        "genofish",
-        "tracing",
-        "tressa",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "occhi-eye-code-agency",
-        "biofeedback-vegetale",
-        "stoffe",
-        "memory-foam",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "skin-to-skin",
-        "lipogesture",
-        "moving-around-skin",
-        "tote",
-        "stretching-the-life",
-        "symbiotic-resonance",
-        "plus-size",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "dynamic-equilibrium",
-        "infiltr-azioni",
-        "instant-soluble",
-        "sway-fune",
-        "small-root-plant-space",
-        "sneak-peek",
-        "monument-unknown-animals",
-        "binding-or-not-binding",
-        "hidden-in-plain-sight",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "disoccupazione-suolo-pubblico",
-        "lumpenwringer",
-        "soglie",
-        "soft-hard",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "natura-morta",
-        "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "agon",
-        "aulos",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
     {
       "headline": "An AI tool improves weather forecasts up to a month ahead",
       "lang": "en",
@@ -108,214 +28,6 @@
         "veto-l",
         "veto-a",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "Villa Adriana celebra la scrittrice Marguerite Yourcenar tra archeologia e mito",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/10/marguerite-yourcenari-tivoli/",
-      "timestamp": "2026-10-24T08:00:00+00:00",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Using AI to offer personalized health advice",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03065-4",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03417-0",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Perché il lavoro di cura è tema culturale e cosa ha a che vedere con genere e razza. Se ne parla in un festival a Caserta",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/10/sabrina-efionayi-nadeesha-uyangoda-intervista-chimera-fest/",
-      "timestamp": "2026-10-24T14:00:00+00:00",
-      "themes": [
-        "care",
-        "labor"
-      ],
-      "works": [
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tressa",
-        "memory-foam",
-        "skin-to-skin",
-        "stretching-the-life",
-        "plus-size",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "The first dinos that only ate fruit munched like parrots",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/first-dinos-only-ate-fruit-munched-parrots",
-      "timestamp": "2026-10-23T04:30:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "This Is Class War",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/this-is-class-war/",
-      "timestamp": "2026-10-24T10:00:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Plastics embedded with enzymes degrade readily in the sea",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03282-x",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "Elon Musk Invests in Skydance ( CNN ): Liberal Media Panic Ensues",
-      "lang": "en",
-      "source": "newsbusters.org",
-      "url": "https://www.newsbusters.org/blogs/nb/jeffrey-lord/2026/10/24/elon-musk-invests-skydance-cnn-liberal-media-panic-ensues",
-      "timestamp": "2026-10-24T19:00:00+00:00",
-      "themes": [
-        "civil-defense"
-      ],
-      "works": [
-        "be-prepared-be-safe"
-      ]
-    },
-    {
-      "headline": "Di giorno fa il commercialista, di sera fotografa Bob Dylan da 40 anni. Storia di Paolo Brillo",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/fotografia/2026/10/paolo-brillo-fotografo-bob-dylan/",
-      "timestamp": "2026-10-24T13:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Can dogs smell cancer in humans ? Bengaluru founders says with AI , dogs can detect seven cancer symptoms with 90 % accuracy",
-      "lang": "en",
-      "source": "economictimes.indiatimes.com",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/can-dogs-smell-cancer-in-humans-bengaluru-founders-says-with-ai-dogs-can-detect-seven-cancer-symptoms-with-90-accuracy/articleshow/135172765.cms",
-      "timestamp": "2026-10-24T16:15:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Can plants defend coasts against storms?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03063-6",
-      "timestamp": "2026-10-21",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Indian River State College Kalaa Hall Speaks on Program Being in Danger of Elimination",
-      "lang": "en",
-      "source": "swimswam.com",
-      "url": "https://swimswam.com/indian-river-state-colleges-kalaa-hall-speaks-on-program-being-in-danger-of-elimination/",
-      "timestamp": "2026-10-24T15:45:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
       ]
     },
     {
@@ -348,19 +60,21 @@
       ]
     },
     {
-      "headline": "JUST IN : Anxiety As Air Peace Flight To Asaba Reportedly Makes Emergency Landing In Lagos",
+      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
       "lang": "en",
-      "source": "leadership.ng",
-      "url": "https://leadership.ng/anxiety-as-air-peace-flight-to-asaba-reportedly-makes-emergency-landing-in-lagos/",
-      "timestamp": "2026-10-24T14:45:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02582-6",
+      "timestamp": "2026-10-23",
       "themes": [
-        "preparedness"
+        "labor"
       ],
       "works": [
-        "be-prepared-be-safe",
-        "stoffe",
-        "signum-monitorium",
-        "seismic-noise"
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
       ]
     },
     {
@@ -444,6 +158,146 @@
       ]
     },
     {
+      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11303-y",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03417-0",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Arte e scienza nella pittura di Ako Atikossie: la mostra negli spazi di Volvo Studio a Milano",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/volvo-studio-milano-mostra-ako-atikossie-propulsioni/",
+      "timestamp": "2026-10-24T11:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Plastics embedded with enzymes degrade readily in the sea",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03282-x",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03371-x",
+      "timestamp": "2026-10-22",
+      "themes": [
+        "body",
+        "genetics",
+        "dna"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "genofish",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "stoffe",
+        "memory-foam",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "skin-to-skin",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "stretching-the-life",
+        "symbiotic-resonance",
+        "plus-size",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "dynamic-equilibrium",
+        "infiltr-azioni",
+        "instant-soluble",
+        "sway-fune",
+        "small-root-plant-space",
+        "sneak-peek",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "disoccupazione-suolo-pubblico",
+        "lumpenwringer",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "natura-morta",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "agon",
+        "aulos",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
       "headline": "To heal sick cities, scientists and residents must work together",
       "lang": "en",
       "source": "Nature briefing",
@@ -459,46 +313,6 @@
         "repubblica-del-fare",
         "lumpenwringer",
         "agon"
-      ]
-    },
-    {
-      "headline": "Meet the former FBI agent behind NIH’s targeting of Chinese scientists",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/meet-former-fbi-agent-behind-nih-s-targeting-chinese-scientists",
-      "timestamp": "2026-10-22T02:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "NKorea Kim calls for training world  strongest  military",
-      "lang": "en",
-      "source": "manilatimes.net",
-      "url": "https://www.manilatimes.net/2026/10/25/world/asia-oceania/nkoreas-kim-calls-for-training-worlds-strongest-military/2453261",
-      "timestamp": "2026-10-24T17:15:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "First human death linked to recently discovered livestock virus in Europe",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
-      "timestamp": "2026-10-22T02:55:37+00:00",
-      "themes": [
-        "pandemic",
-        "ecology"
-      ],
-      "works": [
-        "biofeedback-vegetale",
-        "monument-unknown-animals",
-        "pseudomonas-aeruginosa",
-        "natura-morta"
       ]
     },
     {
@@ -519,6 +333,69 @@
         "veto-l",
         "veto-a",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Di giorno fa il commercialista, di sera fotografa Bob Dylan da 40 anni. Storia di Paolo Brillo",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/fotografia/2026/10/paolo-brillo-fotografo-bob-dylan/",
+      "timestamp": "2026-10-24T13:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Premio Sulmona 2026. Ecco tutti i vincitori della storica manifestazione d’arte in Abruzzo",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/10/vincitori-premio-sulmona-2026/",
+      "timestamp": "2026-10-24T09:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "First human death linked to recently discovered livestock virus in Europe",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
+      "timestamp": "2026-10-22T02:55:37+00:00",
+      "themes": [
+        "ecology",
+        "pandemic"
+      ],
+      "works": [
+        "biofeedback-vegetale",
+        "monument-unknown-animals",
+        "pseudomonas-aeruginosa",
+        "natura-morta"
       ]
     },
     {
@@ -559,33 +436,59 @@
       ]
     },
     {
-      "headline": "Surprise! White dwarf stars come in a rainbow of colours",
+      "headline": "First person infected with rare Shamonda virus: what we know",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03319-1",
-      "timestamp": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "This Is Class War",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "timestamp": "2026-10-24T10:00:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Meet the former FBI agent behind NIH’s targeting of Chinese scientists",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/meet-former-fbi-agent-behind-nih-s-targeting-chinese-scientists",
+      "timestamp": "2026-10-22T02:00:00+00:00",
       "themes": [],
       "works": []
     },
     {
-      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "headline": "Using AI to offer personalized health advice",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11303-y",
-      "timestamp": "2026-10-23",
+      "url": "https://www.nature.com/articles/d41586-026-03065-4",
+      "timestamp": "2026-10-21",
       "themes": [
-        "dna"
+        "ai"
       ],
       "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -669,51 +572,6 @@
       ]
     },
     {
-      "headline": "German drone maker Quantum Systems claims 483 - mph speed for battery - powered experimental aircraft",
-      "lang": "en",
-      "source": "livemint.com",
-      "url": "https://www.livemint.com/companies/news/german-drone-maker-quantum-systems-claims-483-mph-speed-for-battery-powered-experimental-aircraft-11792849691817.html",
-      "timestamp": "2026-10-24T15:30:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "First person infected with rare Shamonda virus: what we know",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03416-1",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02582-6",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
       "headline": "AI doctors’ orders come with a sky-high bill",
       "lang": "en",
       "source": "Nature briefing",
@@ -732,6 +590,70 @@
         "veto-a",
         "ordinateur"
       ]
+    },
+    {
+      "headline": "Come si fotografa una soluzione alla crisi climatica? Una mostra a Milano prova a rispondere",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/fotografia/2026/10/mostra-future-studies-luca-locatelli-leica-milano/",
+      "timestamp": "2026-10-24T21:00:00+00:00",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Perché il lavoro di cura è tema culturale e cosa ha a che vedere con genere e razza. Se ne parla in un festival a Caserta",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/10/sabrina-efionayi-nadeesha-uyangoda-intervista-chimera-fest/",
+      "timestamp": "2026-10-24T14:00:00+00:00",
+      "themes": [
+        "care",
+        "labor"
+      ],
+      "works": [
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tressa",
+        "memory-foam",
+        "skin-to-skin",
+        "stretching-the-life",
+        "plus-size",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
+      "timestamp": "2026-10-23T19:14:00+00:00",
+      "themes": [],
+      "works": []
     }
   ]
 }
