@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:45:32.450489+00:00",
+  "generated_at": "2026-10-24T10:52:24.848208+00:00",
   "rotation_size": 20,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -10,148 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "Pasolini in un inedito di Morricone alla Biennale Musica 2026: report e intervista da Venezia",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-performative/musica/2026/10/biennale-musica-venezia-report-intervista-inedito-morricone/",
-      "timestamp": "2026-10-23T15:00:00+00:00",
-      "themes": [
-        "music"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "sway-fune",
-        "veto-l",
-        "veto-a",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03389-1",
-      "timestamp": "2026-10-22",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Storia di Rammellzee, il graffitista che da New York arrivò in Puglia (ora in mostra a Bolzano)",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/10/rammellzee-mostra-bolzano/",
-      "timestamp": "2026-10-23T18:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "An AI tool improves weather forecasts up to a month ahead",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03077-0",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02582-6",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "Using AI to offer personalized health advice",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03065-4",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
-      "timestamp": "2026-10-23T16:55:26+00:00",
-      "themes": [],
-      "works": []
-    },
     {
       "headline": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
       "lang": "en",
@@ -164,253 +22,6 @@
       "works": [
         "pseudomonas-aeruginosa"
       ]
-    },
-    {
-      "headline": "AI doctors’ orders come with a sky-high bill",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03320-8",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "First person infected with rare Shamonda virus: what we know",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03416-1",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Teen depression and anxiety predicted by childhood brain development",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03357-9",
-      "timestamp": "2026-10-22",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "First human death linked to recently discovered livestock virus in Europe",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
-      "timestamp": "2026-10-22T02:55:37+00:00",
-      "themes": [
-        "pandemic",
-        "ecology"
-      ],
-      "works": [
-        "biofeedback-vegetale",
-        "monument-unknown-animals",
-        "pseudomonas-aeruginosa",
-        "natura-morta"
-      ]
-    },
-    {
-      "headline": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
-      "timestamp": "2026-10-22T17:58:11+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "The War on Art Is Repeating Itself",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
-      "timestamp": "2026-10-23T19:24:34+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03371-x",
-      "timestamp": "2026-10-22",
-      "themes": [
-        "genetics",
-        "dna",
-        "body"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "dna-dance-needs-action",
-        "still-silent-dance",
-        "genofish",
-        "tracing",
-        "tressa",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "occhi-eye-code-agency",
-        "biofeedback-vegetale",
-        "stoffe",
-        "memory-foam",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "skin-to-skin",
-        "lipogesture",
-        "moving-around-skin",
-        "tote",
-        "stretching-the-life",
-        "symbiotic-resonance",
-        "plus-size",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "dynamic-equilibrium",
-        "infiltr-azioni",
-        "instant-soluble",
-        "sway-fune",
-        "small-root-plant-space",
-        "sneak-peek",
-        "monument-unknown-animals",
-        "binding-or-not-binding",
-        "hidden-in-plain-sight",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "disoccupazione-suolo-pubblico",
-        "lumpenwringer",
-        "soglie",
-        "soft-hard",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "natura-morta",
-        "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "agon",
-        "aulos",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "To heal sick cities, scientists and residents must work together",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03161-5",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11303-y",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Plastics embedded with enzymes degrade readily in the sea",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03282-x",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "The Bursar",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03110-2",
-      "timestamp": "2026-10-21",
-      "themes": [],
-      "works": []
     },
     {
       "headline": "Huge mapping study reveals how your brain tracks what your body is feeling",
@@ -490,6 +101,396 @@
         "flusso",
         "conosci-no",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11303-y",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Teen depression and anxiety predicted by childhood brain development",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03357-9",
+      "timestamp": "2026-10-22",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "This Is Class War",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "timestamp": "2026-10-24T10:00:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Plastics embedded with enzymes degrade readily in the sea",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03282-x",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "AI doctors’ orders come with a sky-high bill",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03320-8",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Storia di Rammellzee, il graffitista che da New York arrivò in Puglia (ora in mostra a Bolzano)",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/10/rammellzee-mostra-bolzano/",
+      "timestamp": "2026-10-23T18:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03389-1",
+      "timestamp": "2026-10-22",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "First human death linked to recently discovered livestock virus in Europe",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
+      "timestamp": "2026-10-22T02:55:37+00:00",
+      "themes": [
+        "pandemic",
+        "ecology"
+      ],
+      "works": [
+        "biofeedback-vegetale",
+        "monument-unknown-animals",
+        "pseudomonas-aeruginosa",
+        "natura-morta"
+      ]
+    },
+    {
+      "headline": "Using AI to offer personalized health advice",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03065-4",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "To heal sick cities, scientists and residents must work together",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03161-5",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Flickering signals in monkey brains hint at how we become conscious of what we see",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/flickering-signals-monkey-brains-hint-how-we-become-conscious-what-we-see",
+      "timestamp": "2026-10-23T01:30:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02582-6",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "The War on Art Is Repeating Itself",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
+      "timestamp": "2026-10-23T19:24:34+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "An AI tool improves weather forecasts up to a month ahead",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03077-0",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "First person infected with rare Shamonda virus: what we know",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03371-x",
+      "timestamp": "2026-10-22",
+      "themes": [
+        "body",
+        "genetics",
+        "dna"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "genofish",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "stoffe",
+        "memory-foam",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "skin-to-skin",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "stretching-the-life",
+        "symbiotic-resonance",
+        "plus-size",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "dynamic-equilibrium",
+        "infiltr-azioni",
+        "instant-soluble",
+        "sway-fune",
+        "small-root-plant-space",
+        "sneak-peek",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "disoccupazione-suolo-pubblico",
+        "lumpenwringer",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "natura-morta",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "agon",
+        "aulos",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
+      "timestamp": "2026-10-22T18:03:47+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Villa Adriana celebra la scrittrice Marguerite Yourcenar tra archeologia e mito",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/10/marguerite-yourcenari-tivoli/",
+      "timestamp": "2026-10-24T08:00:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
       ]
     }
   ]
