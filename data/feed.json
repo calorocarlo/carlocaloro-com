@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T21:44:00.268548+00:00",
-  "rotation_size": 19,
+  "generated_at": "2026-10-26T00:14:08.557157+00:00",
+  "rotation_size": 23,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,10 +11,47 @@
   ],
   "rotation": [
     {
-      "headline": "AI doctors’ orders come with a sky-high bill",
+      "headline": "Intervista allo stilista Giuseppe Di Morabito. Una ricerca tra storia dell’arte e tecnologia",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/moda/2026/10/intervista-giuseppe-di-morabito/",
+      "timestamp": "2026-10-25T09:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "An AI tool improves weather forecasts up to a month ahead",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03320-8",
+      "url": "https://www.nature.com/articles/d41586-026-03077-0",
       "timestamp": "2026-10-21",
       "themes": [
         "ai"
@@ -31,11 +68,126 @@
       ]
     },
     {
-      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
+      "headline": "Teen depression and anxiety predicted by childhood brain development",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02582-6",
+      "url": "https://www.nature.com/articles/d41586-026-03357-9",
+      "timestamp": "2026-10-22",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "First person infected with rare Shamonda virus: what we know",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1",
       "timestamp": "2026-10-23",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Trump talks midterm issues , praises first lady on securing ceasefire after casting early vote in Florida",
+      "lang": "en",
+      "source": "fox7austin.com",
+      "url": "https://www.fox7austin.com/news/trump-casts-his-midterm-ballot-early-florida",
+      "timestamp": "2026-10-25T19:15:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Using AI to offer personalized health advice",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03065-4",
+      "timestamp": "2026-10-21",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Studio Museum Announces New Artists-in-Residence",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
+      "timestamp": "2026-10-22T22:08:23+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Flood Threat Moves Into Plains With Severe Storms",
+      "lang": "en",
+      "source": "wgiram.iheart.com",
+      "url": "https://wgiram.iheart.com/content/2026-10-25-flood-threat-moves-into-plains-with-severe-storms/",
+      "timestamp": "2026-10-25T19:15:00+00:00",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03417-0",
+      "timestamp": "2026-10-23",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "To heal sick cities, scientists and residents must work together",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03161-5",
+      "timestamp": "2026-10-21",
       "themes": [
         "labor"
       ],
@@ -129,54 +281,21 @@
       ]
     },
     {
-      "headline": "This Is Class War",
+      "headline": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/this-is-class-war/",
-      "timestamp": "2026-10-24T10:00:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-02582-6",
+      "timestamp": "2026-10-23",
       "themes": [
-        "war"
+        "labor"
       ],
       "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Intervista allo stilista Giuseppe Di Morabito. Una ricerca tra storia dell’arte e tecnologia",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/moda/2026/10/intervista-giuseppe-di-morabito/",
-      "timestamp": "2026-10-25T09:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
         "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
         "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
       ]
     },
     {
@@ -200,94 +319,40 @@
       ]
     },
     {
-      "headline": "This is what the mysterious Denisovans looked like",
+      "headline": "Plastics embedded with enzymes degrade readily in the sea",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03360-0",
-      "timestamp": "2026-10-21",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "To heal sick cities, scientists and residents must work together",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03161-5",
+      "url": "https://www.nature.com/articles/d41586-026-03282-x",
       "timestamp": "2026-10-21",
       "themes": [
-        "labor"
+        "water"
       ],
       "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
       ]
     },
     {
-      "headline": "The War on Art Is Repeating Itself",
+      "headline": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns report outlines how rising token costs threaten to squeeze corporate profit margins",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
-      "timestamp": "2026-10-23T19:24:34+00:00",
+      "source": "tomshardware.com",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+      "timestamp": "2026-10-25T19:15:00+00:00",
       "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11303-y",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Teen depression and anxiety predicted by childhood brain development",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03357-9",
-      "timestamp": "2026-10-22",
-      "themes": [
-        "neural"
+        "ai"
       ],
       "works": [
         "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
+        "occhi-eye-code-agency",
         "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
         "veto-l",
-        "veto-a"
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -371,59 +436,6 @@
       ]
     },
     {
-      "headline": "Using AI to offer personalized health advice",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03065-4",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03417-0",
-      "timestamp": "2026-10-23",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "An AI tool improves weather forecasts up to a month ahead",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03077-0",
-      "timestamp": "2026-10-21",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
       "headline": "First human death linked to recently discovered livestock virus in Europe",
       "lang": "en",
       "source": "Science Magazine",
@@ -441,63 +453,104 @@
       ]
     },
     {
-      "headline": "Come si fotografa una soluzione alla crisi climatica? Una mostra a Milano prova a rispondere",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/fotografia/2026/10/mostra-future-studies-luca-locatelli-leica-milano/",
-      "timestamp": "2026-10-24T21:00:00+00:00",
+      "headline": "The War on Art Is Repeating Itself",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
+      "timestamp": "2026-10-23T19:24:34+00:00",
       "themes": [
-        "environment"
+        "war"
       ],
       "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
       ]
     },
     {
-      "headline": "Plastics embedded with enzymes degrade readily in the sea",
+      "headline": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03282-x",
+      "url": "https://www.nature.com/articles/d41586-026-03418-z",
+      "timestamp": "2026-10-23",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "lang": "en",
+      "source": "thedailytimes.com",
+      "url": "http://www.thedailytimes.com/ap/business/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_3bf3cb94-c108-5cbd-9d8f-507c92597a73.html",
+      "timestamp": "2026-10-25T19:15:00+00:00",
+      "themes": [
+        "economy"
+      ],
+      "works": [
+        "still-silent-dance",
+        "plus-size",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "autarchic-iron",
+        "bluemoon-operation",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "natura-morta",
+        "agon"
+      ]
+    },
+    {
+      "headline": "AI doctors’ orders come with a sky-high bill",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03320-8",
       "timestamp": "2026-10-21",
       "themes": [
-        "water"
+        "ai"
       ],
       "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
-      "headline": "First person infected with rare Shamonda virus: what we know",
+      "headline": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03416-1",
+      "url": "https://www.nature.com/articles/s41586-026-11303-y",
       "timestamp": "2026-10-23",
       "themes": [
-        "pandemic"
+        "dna"
       ],
       "works": [
-        "pseudomonas-aeruginosa"
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "This Is Class War",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "timestamp": "2026-10-24T10:00:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
       ]
     }
   ]
