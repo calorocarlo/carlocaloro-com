@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T00:52:52.559798+00:00",
-  "rotation_size": 22,
+  "generated_at": "2026-10-30T07:04:09.749158+00:00",
+  "rotation_size": 20,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,118 +11,38 @@
   ],
   "rotation": [
     {
-      "headline": "Vatican Exhibition Series Centers \"Fundamentally Human\" Art Over AI",
+      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
-      "timestamp": "2026-10-28T15:45:00+00:00",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "timestamp": "2026-10-27T04:50:00+00:00",
       "themes": [
-        "ai"
+        "water"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "<i>Clostridium perfringens</i> Delta toxin targets CD9 to drive NEC and brain injury",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11211-1",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Viaggio, memoria e gioco. La grande mostra su Alberto Savinio alla Pinacoteca Agnelli di Torino",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/10/alberto-savinio-torino/",
-      "timestamp": "2026-10-29T15:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
+        "analog-ondograph",
         "absorption",
-        "hidden-in-plain-sight",
+        "signum-monitorium",
         "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
+        "flusso"
       ]
     },
     {
-      "headline": "300 anni dei Viaggi di Gulliver. Tour in Irlanda tra letteratura e luoghi da scoprire",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/turismo/2026/10/itinerario-irlanda-300-anni-viaggi-di-gulliver/",
-      "timestamp": "2026-10-29T22:00:00+00:00",
+      "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
+      "timestamp": "2026-10-29T11:55:00+00:00",
       "themes": [
+        "authorship",
+        "ai",
         "language"
       ],
       "works": [
         "revesso",
         "tracing",
         "tressa",
+        "occhi-eye-code-agency",
         "cilindri-plexiglas",
         "progetto-generativo-unwritten",
         "lipogesture",
@@ -143,6 +63,8 @@
         "io-nel-progetto-di-un-altro",
         "day-doesnt-know-night",
         "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
         "pentagono",
         "lanterne",
         "flusso",
@@ -170,171 +92,11 @@
       ]
     },
     {
-      "headline": "A Lucca nascerà un nuovo Museo del Fumetto (per il momento apre uno spazio per le mostre)",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/fumetti/2026/10/lucca-nuovo-museo-fumetto/",
-      "timestamp": "2026-10-29T13:30:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "timestamp": "2026-10-27T04:50:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "How the pandemic changed trust in science — in four charts",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03248-z",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Why did ancient humans avoid this lush paradise",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Genetic variants that alter gene regulation in specific cell types are closely tied to disease",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03067-2",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Lisa Sanditz’s Seismic Sublime",
+      "headline": "Vatican Exhibition Series Centers \"Fundamentally Human\" Art Over AI",
       "lang": "en",
       "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/lisa-sanditzs-seismic-sublime/",
-      "timestamp": "2026-10-28T15:35:00+00:00",
-      "themes": [
-        "seismic"
-      ],
-      "works": [
-        "analog-ondograph",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Tethered to stone: how rock and water availability shaped early desert occupation",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03263-0",
-      "timestamp": "2026-10-28",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Tandem repeat variation shapes immune cell type-specific gene expression",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-10438-2",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03444-x",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
-      "timestamp": "2026-10-26T05:25:00+00:00",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "AI is shaking up math. But can its proofs be trusted?",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
-      "timestamp": "2026-10-27T04:10:00+00:00",
+      "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
+      "timestamp": "2026-10-28T15:45:00+00:00",
       "themes": [
         "ai"
       ],
@@ -387,30 +149,66 @@
       ]
     },
     {
-      "headline": "Wind turbines kill ‘shocking’ number of bats each year",
+      "headline": "How the pandemic changed trust in science — in four charts",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/wind-turbines-kill-shocking-number-bats-each-year",
-      "timestamp": "2026-10-26T03:45:00+00:00",
-      "themes": [],
-      "works": []
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03248-z",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
     },
     {
-      "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
+      "headline": "Lisa Sanditz’s Seismic Sublime",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
-      "timestamp": "2026-10-29T11:55:00+00:00",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/lisa-sanditzs-seismic-sublime/",
+      "timestamp": "2026-10-28T15:35:00+00:00",
       "themes": [
-        "ai",
-        "authorship",
+        "seismic"
+      ],
+      "works": [
+        "analog-ondograph",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Tandem repeat variation shapes immune cell type-specific gene expression",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-10438-2",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "300 anni dei Viaggi di Gulliver. Tour in Irlanda tra letteratura e luoghi da scoprire",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/turismo/2026/10/itinerario-irlanda-300-anni-viaggi-di-gulliver/",
+      "timestamp": "2026-10-29T22:00:00+00:00",
+      "themes": [
         "language"
       ],
       "works": [
         "revesso",
         "tracing",
         "tressa",
-        "occhi-eye-code-agency",
         "cilindri-plexiglas",
         "progetto-generativo-unwritten",
         "lipogesture",
@@ -431,13 +229,25 @@
         "io-nel-progetto-di-un-altro",
         "day-doesnt-know-night",
         "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
         "pentagono",
         "lanterne",
         "flusso",
         "conosci-no",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03484-3",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
       ]
     },
     {
@@ -461,6 +271,48 @@
       ]
     },
     {
+      "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03444-x",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+      "timestamp": "2026-10-26T05:25:00+00:00",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
       "headline": "Before AI There Was the Octopus",
       "lang": "en",
       "source": "Hyperallergic",
@@ -478,6 +330,136 @@
         "veto-l",
         "veto-a",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Viaggio, memoria e gioco. La grande mostra su Alberto Savinio alla Pinacoteca Agnelli di Torino",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/10/alberto-savinio-torino/",
+      "timestamp": "2026-10-29T15:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "timestamp": "2026-10-27T04:10:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Why did ancient humans avoid this lush paradise",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Genetic variants that alter gene regulation in specific cell types are closely tied to disease",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03067-2",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Accounting of Africa’s water reveals a management gap",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03260-3",
+      "timestamp": "2026-10-28",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "<i>Clostridium perfringens</i> Delta toxin targets CD9 to drive NEC and brain injury",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11211-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
       ]
     }
   ]
