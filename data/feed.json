@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T14:04:33.147201+00:00",
-  "rotation_size": 16,
+  "generated_at": "2026-10-30T19:17:32.597473+00:00",
+  "rotation_size": 13,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,17 +11,16 @@
   ],
   "rotation": [
     {
-      "headline": "Lisa Sanditz’s Seismic Sublime",
+      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/lisa-sanditzs-seismic-sublime/",
-      "timestamp": "2026-10-28T15:35:00+00:00",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+      "timestamp": "2026-10-26T05:25:00+00:00",
       "themes": [
-        "seismic"
+        "pandemic"
       ],
       "works": [
-        "analog-ondograph",
-        "seismic-noise"
+        "pseudomonas-aeruginosa"
       ]
     },
     {
@@ -54,14 +53,112 @@
       ]
     },
     {
+      "headline": "How the pandemic changed trust in science — in four charts",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03248-z",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Why did ancient humans avoid this lush paradise",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Vatican Exhibition Series Centers \"Fundamentally Human\" Art Over AI",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
+      "timestamp": "2026-10-28T15:45:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Quattrocento artisti invadono un antico collegio piemontese. Le opere più interessanti della fiera Paratissima a Moncalieri",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/professioni-e-professionisti/fiere/2026/10/paratissima-2026/",
+      "timestamp": "2026-10-30T13:30:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "timestamp": "2026-10-27T04:10:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "timestamp": "2026-10-27T04:50:00+00:00",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
       "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
       "lang": "en",
       "source": "Science Magazine",
       "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
       "timestamp": "2026-10-29T11:55:00+00:00",
       "themes": [
-        "ai",
         "language",
+        "ai",
         "authorship"
       ],
       "works": [
@@ -99,84 +196,11 @@
       ]
     },
     {
-      "headline": "Why did ancient humans avoid this lush paradise",
+      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "url": "https://www.nature.com/articles/d41586-026-03484-3",
       "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "timestamp": "2026-10-27T04:50:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "How the pandemic changed trust in science — in four charts",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03248-z",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Preprint-centric publishing model gets major boost",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03445-w",
-      "timestamp": "2026-10-28",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "timestamp": "2026-10-28T05:25:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Quattrocento artisti invadono un antico collegio piemontese. Le opere più interessanti della fiera Paratissima a Moncalieri",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/professioni-e-professionisti/fiere/2026/10/paratissima-2026/",
-      "timestamp": "2026-10-30T13:30:00+00:00",
       "themes": [
         "heritage"
       ],
@@ -206,32 +230,20 @@
       ]
     },
     {
-      "headline": "Genetic variants that alter gene regulation in specific cell types are closely tied to disease",
+      "headline": "These three red flags could unmask dodgy journals",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03067-2",
+      "url": "https://www.nature.com/articles/d41586-026-03325-3",
       "timestamp": "2026-10-28",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
+      "themes": [],
+      "works": []
     },
     {
-      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
-      "timestamp": "2026-10-27T04:10:00+00:00",
+      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "timestamp": "2026-10-28T05:25:00+00:00",
       "themes": [
         "ai"
       ],
@@ -244,90 +256,6 @@
         "veto-l",
         "veto-a",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "Cici Wu's Memory Lanterns",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/cici-wus-memory-lanterns/",
-      "timestamp": "2026-10-28T15:30:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Vatican Exhibition Series Centers \"Fundamentally Human\" Art Over AI",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
-      "timestamp": "2026-10-28T15:45:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
-      "timestamp": "2026-10-26T05:25:00+00:00",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
       ]
     }
   ]
