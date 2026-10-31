@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T05:28:26.945732+00:00",
-  "rotation_size": 11,
+  "generated_at": "2026-10-31T12:16:43.449458+00:00",
+  "rotation_size": 10,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,16 +11,57 @@
   ],
   "rotation": [
     {
-      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
+      "headline": "AI is shaking up math. But can its proofs be trusted?",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
-      "timestamp": "2026-10-26T05:25:00+00:00",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "timestamp": "2026-10-27T04:10:00+00:00",
       "themes": [
-        "pandemic"
+        "ai"
       ],
       "works": [
-        "pseudomonas-aeruginosa"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Why did ancient humans avoid this lush paradise",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "timestamp": "2026-10-28T05:25:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -67,67 +108,30 @@
       ]
     },
     {
-      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
-      "timestamp": "2026-10-27T04:10:00+00:00",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "timestamp": "2026-10-27T04:50:00+00:00",
       "themes": [
-        "ai"
+        "water"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
       ]
     },
     {
-      "headline": "Clues about complex life come from freshly cultivated archaea",
+      "headline": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03294-7",
-      "timestamp": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03543-9",
+      "timestamp": "2026-10-30",
       "themes": [],
       "works": []
-    },
-    {
-      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "timestamp": "2026-10-28T05:25:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Why did ancient humans avoid this lush paradise",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
     },
     {
       "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
@@ -136,9 +140,9 @@
       "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
       "timestamp": "2026-10-29T11:55:00+00:00",
       "themes": [
+        "ai",
         "authorship",
-        "language",
-        "ai"
+        "language"
       ],
       "works": [
         "revesso",
@@ -175,54 +179,53 @@
       ]
     },
     {
-      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "timestamp": "2026-10-27T04:50:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "Quattrocento artisti invadono un antico collegio piemontese. Le opere più interessanti della fiera Paratissima a Moncalieri",
+      "headline": "In Puglia un ex frantoio diventa uno spazio per l’arte e la cultura contemporanea. La storia",
       "lang": "it",
       "source": "Artribune",
-      "url": "https://www.artribune.com/professioni-e-professionisti/fiere/2026/10/paratissima-2026/",
-      "timestamp": "2026-10-30T13:30:00+00:00",
+      "url": "https://www.artribune.com/arti-visive/2026/10/frantoio-damato-rutigliano-spazio-espositivo/",
+      "timestamp": "2026-10-31T10:00:00+00:00",
       "themes": [
-        "heritage"
+        "memory"
       ],
       "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
         "tracing",
-        "aulos"
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     },
     {
-      "headline": "Before AI There Was the Octopus",
+      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
-      "timestamp": "2026-10-29T17:06:36+00:00",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+      "timestamp": "2026-10-26T05:25:00+00:00",
       "themes": [
-        "ai"
+        "pandemic"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "pseudomonas-aeruginosa"
       ]
     }
   ]
