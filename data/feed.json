@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:04:42.392660+00:00",
+  "generated_at": "2026-11-01T07:28:12.771969+00:00",
   "rotation_size": 11,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -10,70 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "Why did ancient humans avoid this lush paradise",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "AI is shaking up math. But can its proofs be trusted?",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
-      "timestamp": "2026-10-27T04:10:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
-      "timestamp": "2026-10-26T05:25:00+00:00",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "timestamp": "2026-10-27T04:50:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
     {
       "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
       "lang": "en",
@@ -89,42 +25,17 @@
       ]
     },
     {
-      "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
+      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03444-x",
-      "timestamp": "2026-10-28",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+      "timestamp": "2026-10-26T05:25:00+00:00",
       "themes": [
-        "neural"
+        "pandemic"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "pseudomonas-aeruginosa"
       ]
-    },
-    {
-      "headline": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
-      "timestamp": "2026-10-30T15:42:05+00:00",
-      "themes": [],
-      "works": []
     },
     {
       "headline": "In Puglia un ex frantoio diventa uno spazio per l’arte e la cultura contemporanea. La storia",
@@ -164,6 +75,123 @@
       ]
     },
     {
+      "headline": "Why did ancient humans avoid this lush paradise",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
+      "timestamp": "2026-10-29T11:55:00+00:00",
+      "themes": [
+        "language",
+        "authorship",
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "occhi-eye-code-agency",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Continua l’evoluzoine del museo MAUTO di Torino. “Arte, archivi aperti e officine didattiche”: intervista alla direttrice",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/10/mauto-torino-intervista-direttrice-lorenza-bravetta/",
+      "timestamp": "2026-10-31T12:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "timestamp": "2026-10-27T04:10:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03444-x",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
       "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
       "lang": "en",
       "source": "Science Magazine",
@@ -181,6 +209,23 @@
         "veto-l",
         "veto-a",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "timestamp": "2026-10-27T04:50:00+00:00",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
       ]
     },
     {
@@ -256,51 +301,6 @@
         "pentagono",
         "lanterne",
         "tanato",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
-      "timestamp": "2026-10-29T11:55:00+00:00",
-      "themes": [
-        "ai",
-        "authorship",
-        "language"
-      ],
-      "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "occhi-eye-code-agency",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
         "flusso",
         "conosci-no",
         "ordinateur"
