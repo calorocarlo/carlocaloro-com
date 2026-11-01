@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:36:24.663205+00:00",
+  "generated_at": "2026-11-01T23:33:10.753939+00:00",
   "rotation_size": 10,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -11,68 +11,16 @@
   ],
   "rotation": [
     {
-      "headline": "AI is shaking up math. But can its proofs be trusted?",
+      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
-      "timestamp": "2026-10-27T04:10:00+00:00",
+      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+      "timestamp": "2026-10-26T05:25:00+00:00",
       "themes": [
-        "ai"
+        "pandemic"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
-      "timestamp": "2026-10-27T04:50:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "Why did ancient humans avoid this lush paradise",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
+        "pseudomonas-aeruginosa"
       ]
     },
     {
@@ -113,26 +61,24 @@
       ]
     },
     {
-      "headline": "Milestone cancer vaccine success leaves hard questions unanswered",
+      "headline": "AI is shaking up math. But can its proofs be trusted?",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
-      "timestamp": "2026-10-26T05:25:00+00:00",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "timestamp": "2026-10-27T04:10:00+00:00",
       "themes": [
-        "pandemic"
+        "ai"
       ],
       "works": [
-        "pseudomonas-aeruginosa"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
-    },
-    {
-      "headline": "Lactate takes a shortcut into mitochondria to power the heart",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03261-2",
-      "timestamp": "2026-10-28",
-      "themes": [],
-      "works": []
     },
     {
       "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
@@ -164,6 +110,80 @@
       ]
     },
     {
+      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+      "timestamp": "2026-10-28T05:25:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03484-3",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "How personalization and psychedelics are revitalizing psychiatry",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03402-7",
+      "timestamp": "2026-10-28",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Why did ancient humans avoid this lush paradise",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "timestamp": "2026-10-28",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "timestamp": "2026-10-27T04:50:00+00:00",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
       "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
       "lang": "en",
       "source": "Science Magazine",
@@ -171,8 +191,8 @@
       "timestamp": "2026-10-29T11:55:00+00:00",
       "themes": [
         "authorship",
-        "language",
-        "ai"
+        "ai",
+        "language"
       ],
       "works": [
         "revesso",
@@ -205,26 +225,6 @@
         "lanterne",
         "flusso",
         "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "timestamp": "2026-10-28T05:25:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
         "ordinateur"
       ]
     }
