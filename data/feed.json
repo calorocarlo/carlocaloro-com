@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T06:39:01.544237+00:00",
-  "rotation_size": 9,
+  "generated_at": "2026-11-03T15:03:12.136700+00:00",
+  "rotation_size": 7,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,60 +11,23 @@
   ],
   "rotation": [
     {
-      "headline": "Why did ancient humans avoid this lush paradise",
+      "headline": "Universities must measure learning, both with and without AI assistance",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03486-1",
-      "timestamp": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03559-1",
+      "timestamp": "2026-11-03",
       "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "The brain liquidates billions of mutant neurons around the time we’re born",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03444-x",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "neural"
+        "ai"
       ],
       "works": [
         "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
+        "occhi-eye-code-agency",
         "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
         "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03484-3",
-      "timestamp": "2026-10-28",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -87,9 +50,9 @@
       "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
       "timestamp": "2026-10-29T11:55:00+00:00",
       "themes": [
+        "ai",
         "authorship",
-        "language",
-        "ai"
+        "language"
       ],
       "works": [
         "revesso",
@@ -126,93 +89,6 @@
       ]
     },
     {
-      "headline": "Una rider in monopattino e un computer fatto a pezzi. Tutta la danza contemporanea che abbiamo visto al Danae Festival di Milano",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-performative/2026/11/danae-festival-danza-contemporanea-milano-2026/",
-      "timestamp": "2026-11-02T12:00:00+00:00",
-      "themes": [
-        "body"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "dna-dance-needs-action",
-        "still-silent-dance",
-        "genofish",
-        "tracing",
-        "tressa",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "occhi-eye-code-agency",
-        "biofeedback-vegetale",
-        "stoffe",
-        "memory-foam",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "skin-to-skin",
-        "lipogesture",
-        "moving-around-skin",
-        "tote",
-        "stretching-the-life",
-        "symbiotic-resonance",
-        "plus-size",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "dynamic-equilibrium",
-        "infiltr-azioni",
-        "instant-soluble",
-        "sway-fune",
-        "small-root-plant-space",
-        "sneak-peek",
-        "monument-unknown-animals",
-        "binding-or-not-binding",
-        "hidden-in-plain-sight",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "disoccupazione-suolo-pubblico",
-        "lumpenwringer",
-        "soglie",
-        "soft-hard",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "natura-morta",
-        "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "agon",
-        "aulos",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "What students think about my teaching doesn’t matter. Am I wrong?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-02202-3",
-      "timestamp": "2026-10-28",
-      "themes": [],
-      "works": []
-    },
-    {
       "headline": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
       "lang": "en",
       "source": "Nature briefing",
@@ -240,6 +116,35 @@
         "veto-l",
         "veto-a"
       ]
+    },
+    {
+      "headline": "Will AI grant reviews make science more conservative?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03340-4",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Chinese doctoral students in clinical medicine can graduate without a thesis — more degrees to follow",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03480-7",
+      "timestamp": "2026-11-03",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
