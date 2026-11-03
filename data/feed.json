@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T15:03:12.136700+00:00",
-  "rotation_size": 7,
+  "generated_at": "2026-11-03T21:04:14.235139+00:00",
+  "rotation_size": 10,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,84 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "Universities must measure learning, both with and without AI assistance",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03559-1",
-      "timestamp": "2026-11-03",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Measles made a stealthy return as another virus took the spotlight",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03387-3",
-      "timestamp": "2026-11-02",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "Who wrote that paper? AI use spurs debate over scientific authorship",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
-      "timestamp": "2026-10-29T11:55:00+00:00",
-      "themes": [
-        "ai",
-        "authorship",
-        "language"
-      ],
-      "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "occhi-eye-code-agency",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
     {
       "headline": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
       "lang": "en",
@@ -118,6 +40,70 @@
       ]
     },
     {
+      "headline": "Measles made a stealthy return as another virus took the spotlight",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03387-3",
+      "timestamp": "2026-11-02",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Molte luci e qualche ombra nel nostro report musica dai 25 anni di C2C Festival di Torino",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-performative/musica/2026/11/torino-25-anni-c2c-festival-report/",
+      "timestamp": "2026-11-03T14:00:00+00:00",
+      "themes": [
+        "music"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "sway-fune",
+        "veto-l",
+        "veto-a",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Universities must measure learning, both with and without AI assistance",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03559-1",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Historic Marburg outbreak hints at long-term viral hideout",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03538-6",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
       "headline": "Will AI grant reviews make science more conservative?",
       "lang": "en",
       "source": "Nature briefing",
@@ -138,32 +124,86 @@
       ]
     },
     {
-      "headline": "Chinese doctoral students in clinical medicine can graduate without a thesis — more degrees to follow",
+      "headline": "French Galleries Accuse Art Basel Paris of \"Disrespect, Even Contempt\"",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03480-7",
-      "timestamp": "2026-11-03",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/french-galleries-accuse-art-basel-paris-of-disrespect-even-contempt/",
+      "timestamp": "2026-11-02T20:04:22+00:00",
       "themes": [],
       "works": []
     },
     {
-      "headline": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "headline": "European scientists face uncertainty as pandemic recovery fund winds down",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
-      "timestamp": "2026-10-28T05:25:00+00:00",
+      "url": "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
+      "timestamp": "2026-11-03T11:45:00+00:00",
       "themes": [
-        "ai"
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Layli Long Soldier’s Quilted Poetry",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/layli-long-soldiers-quilted-poetry/",
+      "timestamp": "2026-11-03T19:22:12+00:00",
+      "themes": [
+        "language"
       ],
       "works": [
         "revesso",
-        "occhi-eye-code-agency",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
         "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
         "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
         "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03554-6",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     }
   ]
