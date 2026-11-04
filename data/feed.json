@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T21:04:14.235139+00:00",
-  "rotation_size": 10,
+  "generated_at": "2026-11-04T01:19:18.274735+00:00",
+  "rotation_size": 15,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,45 +11,22 @@
   ],
   "rotation": [
     {
-      "headline": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+      "headline": "Fernando Calvillo, Beloved Fixture of Oklahoma's Art Community, Dies in Train Crash in Spain",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03511-3",
-      "timestamp": "2026-11-02",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/fernando-calvillo-beloved-fixture-of-oklahomas-art-community-dies-in-train-crash-in-spain/",
+      "timestamp": "2026-11-03T22:05:07+00:00",
       "themes": [
-        "neural"
+        "collective"
       ],
       "works": [
         "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
+        "skin-to-skin",
         "moving-around-skin",
-        "tote",
         "symbiotic-resonance",
-        "sneak-peek",
+        "infiltr-azioni",
         "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Measles made a stealthy return as another virus took the spotlight",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03387-3",
-      "timestamp": "2026-11-02",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
+        "repubblica-del-fare"
       ]
     },
     {
@@ -71,31 +48,48 @@
       ]
     },
     {
-      "headline": "Universities must measure learning, both with and without AI assistance",
+      "headline": "Exhibition as Living Archive: the 1950s Baghdad Modern Art Group in the UAE Today",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03559-1",
-      "timestamp": "2026-11-03",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/exhibition-as-living-archive-the-1950s-baghdad-modern-art-group-in-the-uae-today/",
+      "timestamp": "2026-11-03T21:53:14+00:00",
       "themes": [
-        "ai"
+        "memory"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     },
     {
-      "headline": "Historic Marburg outbreak hints at long-term viral hideout",
+      "headline": "Measles made a stealthy return as another virus took the spotlight",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03538-6",
-      "timestamp": "2026-11-03",
+      "url": "https://www.nature.com/articles/d41586-026-03387-3",
+      "timestamp": "2026-11-02",
       "themes": [
         "pandemic"
       ],
@@ -124,25 +118,62 @@
       ]
     },
     {
-      "headline": "French Galleries Accuse Art Basel Paris of \"Disrespect, Even Contempt\"",
+      "headline": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/french-galleries-accuse-art-basel-paris-of-disrespect-even-contempt/",
-      "timestamp": "2026-11-02T20:04:22+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03554-6",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Trump’s executive order on women’s health feels like déjà vu",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03503-3",
+      "timestamp": "2026-11-03",
       "themes": [],
       "works": []
     },
     {
-      "headline": "European scientists face uncertainty as pandemic recovery fund winds down",
+      "headline": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
-      "timestamp": "2026-11-03T11:45:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03511-3",
+      "timestamp": "2026-11-02",
       "themes": [
-        "pandemic"
+        "neural"
       ],
       "works": [
-        "pseudomonas-aeruginosa"
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
       ]
     },
     {
@@ -186,24 +217,115 @@
       ]
     },
     {
-      "headline": "Biotech firms are meant to pay to use Earth’s genetic data. They’re not.",
+      "headline": "For early-career scientists, the cost of AI can be a problem",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03554-6",
-      "timestamp": "2026-11-03",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/early-career-scientists-cost-ai-can-be-problem",
+      "timestamp": "2026-11-03T04:25:00+00:00",
       "themes": [
-        "dna"
+        "ai"
       ],
       "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Guadalupe Rosales’s Portable Archive of East LA",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/guadalupe-rosaless-portable-archive-of-east-la/",
+      "timestamp": "2026-11-03T21:42:59+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Universities must measure learning, both with and without AI assistance",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03559-1",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Whence dragons?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03277-8",
+      "timestamp": "2026-11-03",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Historic Marburg outbreak hints at long-term viral hideout",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03538-6",
+      "timestamp": "2026-11-03",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "European scientists face uncertainty as pandemic recovery fund winds down",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
+      "timestamp": "2026-11-03T11:45:00+00:00",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
       ]
     }
   ]
