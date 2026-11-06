@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T02:19:39.371508+00:00",
-  "rotation_size": 38,
+  "generated_at": "2026-11-06T10:45:11.007214+00:00",
+  "rotation_size": 39,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,197 +11,31 @@
   ],
   "rotation": [
     {
-      "headline": "Human-like cross-language generalisation in deep neural speaker embeddings and its acoustic foundations",
+      "headline": "Stress Testing Chain-of-Thought Monitoring Against Covert Misalignment",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05384",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07586",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
-        "language"
+        "surveillance"
       ],
       "works": [
-        "revesso",
-        "tracing",
         "tressa",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Learning When Human Decisions Matter: Executor-Relative Consultation Value for LLM Agents",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05814",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
         "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Rise of Germanic and Celtic languages is written in ancient DNA",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03581-3",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "heritage",
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "tracing",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Prospective Memory for Proactive LLM Agents",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05731",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "memory",
-        "ai"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "still-silent-dance",
-        "tracing",
-        "occhi-eye-code-agency",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
+        "stoffe",
+        "tote",
+        "infiltr-azioni",
+        "sneak-peek",
+        "binding-or-not-binding",
         "bluemoon-operation",
-        "absorption",
         "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
+        "myim",
         "soglie",
-        "piedi",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "pentagono",
-        "lanterne",
-        "tanato",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03566-2",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "genetics",
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
         "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "France Opens War Crimes Investigation Into Israeli Airstrike That Killed Artist Ali Cherri's Parents",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/france-opens-war-crimes-investigation-into-israeli-airstrike-that-killed-artist-ali-cherris-parents/",
-      "timestamp": "2026-11-04T20:26:25+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Cutting-edge technique uncovers how the spine’s shock absorbers bear load",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03264-z",
-      "timestamp": "2026-11-04",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI-Driven SaaS Platform Integration: AI Express for Unified Generative AI Services with Pay-As-You-Go Credit Systems and Scalable Microservice Architecture",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05389",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
+        "piedi",
         "io-nel-progetto-di-un-altro",
         "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "conosci-no"
       ]
     },
     {
@@ -242,11 +76,11 @@
       ]
     },
     {
-      "headline": "AI agents enter the ‘wet lab’",
+      "headline": "Interactive Backdoor Attacks in LLM-Based Proactive Dialogue Systems",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03270-1",
-      "timestamp": "2026-11-04",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.06969",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
         "ai"
       ],
@@ -262,186 +96,85 @@
       ]
     },
     {
-      "headline": "How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05771",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "language"
-      ],
-      "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Cognitive Bias Signatures in Search-Equipped LLM Agents: A Stage-Resolved Analysis",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05720",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "At MoMA, Brancusi Is Lost in Space",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/at-moma-brancusi-is-lost-in-space/",
-      "timestamp": "2026-11-05T15:45:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Holistic Parallel Supervision for Expressive Speech to Speech Translation",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.06010",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "language"
-      ],
-      "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "AI agents run this automated biology lab that sequences DNA and more",
+      "headline": "Ancient DNA charts spread of Celtic and Germanic languages",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "url": "https://www.nature.com/articles/d41586-026-03582-2",
       "timestamp": "2026-11-04",
       "themes": [
-        "ai",
-        "dna"
+        "dna",
+        "heritage"
       ],
       "works": [
-        "revesso",
         "dna-dance-needs-action",
         "genofish",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
+        "tracing",
         "sway-fune",
         "pseudomonas-aeruginosa",
         "braccio",
         "clothing",
         "laniccia",
-        "io-nel-progetto-di-un-altro",
         "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "aulos",
-        "ordinateur"
+        "aulos"
       ]
     },
     {
-      "headline": "In Umbria la mostra diffusa sul Rinascimento in Valnerina racconta la grande operazione di tutela dopo il terremoto",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/11/mostra-diffusa-rinascimento-valnerina-terremoto-2016/",
-      "timestamp": "2026-11-05T22:00:00+00:00",
-      "themes": [
-        "seismic"
-      ],
-      "works": [
-        "analog-ondograph",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Wearable device makers are harvesting brain data to train AI—without telling users",
+      "headline": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
-      "timestamp": "2026-11-04T01:40:00+00:00",
+      "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
+      "timestamp": "2026-11-05T10:00:00+00:00",
       "themes": [
-        "neural",
-        "ai"
+        "surveillance",
+        "neural"
       ],
       "works": [
         "revesso",
         "dna-dance-needs-action",
+        "tressa",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "occhi-eye-code-agency",
         "biofeedback-vegetale",
+        "stoffe",
         "progetto-generativo-unwritten",
         "moving-around-skin",
         "tote",
         "symbiotic-resonance",
+        "infiltr-azioni",
         "sneak-peek",
         "binding-or-not-binding",
+        "bluemoon-operation",
+        "hidden-in-plain-sight",
+        "myim",
+        "soglie",
         "braccio",
+        "clothing",
+        "piedi",
         "io-nel-progetto-di-un-altro",
         "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "conosci-no"
+      ]
+    },
+    {
+      "headline": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07126",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
         "nice-to-meet-me",
         "veto-l",
         "veto-a",
@@ -449,11 +182,101 @@
       ]
     },
     {
-      "headline": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
+      "headline": "What Patients Say They Can't Access: Mining Cancer Screening Barriers from Online Communities",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05386",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07113",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "extraction"
+      ],
+      "works": []
+    },
+    {
+      "headline": "Archetypal contexts in the neurons of language models: an architecture for intelligence?",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07234",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "language",
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
+      "timestamp": "2026-11-05T20:59:11+00:00",
+      "themes": [
+        "economy"
+      ],
+      "works": [
+        "still-silent-dance",
+        "plus-size",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "autarchic-iron",
+        "bluemoon-operation",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "natura-morta",
+        "agon"
+      ]
+    },
+    {
+      "headline": "The Memory Trap: Language Agents Overgeneralize from Benign Interactions",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07554",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
         "memory",
         "language"
@@ -503,69 +326,163 @@
       ]
     },
     {
-      "headline": "Fruit, flies and getting frisky: how food odours trigger sexual arousal",
+      "headline": "Si conclude l’infinito cantiere del Salinas di Palermo. Il museo pubblico più antico di Sicilia torna alla città",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/2026/11/museo-salinas-palermo-riapertura-nuovo-allestimento/",
+      "timestamp": "2026-11-05T17:00:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03271-0",
-      "timestamp": "2026-11-04",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07558",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "ai",
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "occhi-eye-code-agency",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Vienna Art Week 2026: tutto quello che c’è da vedere durante la settimana dell’arte in Austria",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/vienna-art-week-2026-programma/",
+      "timestamp": "2026-11-05T20:00:00+00:00",
       "themes": [],
       "works": []
     },
     {
-      "headline": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
+      "headline": "Consistent yet Contextual: Learning Author-Level Mixtures of Style for Authorship Attribution",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.06065",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07111",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
-        "ai"
+        "language",
+        "authorship"
       ],
       "works": [
         "revesso",
-        "occhi-eye-code-agency",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
         "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
         "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
         "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
         "ordinateur"
       ]
     },
     {
-      "headline": "Why not to wait even a few minutes before fleeing a tsunami",
+      "headline": "Parkinson’s: beyond the brain",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03539-5",
+      "url": "https://www.nature.com/articles/d41586-026-03173-1",
       "timestamp": "2026-11-04",
       "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.06116",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "ai"
+        "neural"
       ],
       "works": [
         "revesso",
-        "occhi-eye-code-agency",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
         "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
         "veto-l",
-        "veto-a",
-        "ordinateur"
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Rise of Germanic and Celtic languages is written in ancient DNA",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03581-3",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "dna",
+        "heritage"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "tracing",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     },
     {
@@ -598,129 +515,57 @@
       ]
     },
     {
-      "headline": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
+      "headline": "HyFlash: A Prefix-Memory Prior for On-Device Speculative Decoding",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
-      "timestamp": "2026-11-05T20:59:11+00:00",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07263",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
-        "economy"
+        "memory"
       ],
       "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
         "still-silent-dance",
-        "plus-size",
-        "ode-al-fallimento",
-        "instant-soluble",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
         "autarchic-iron",
+        "monument-unknown-animals",
         "bluemoon-operation",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "natura-morta",
-        "agon"
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     },
     {
-      "headline": "When Does Better Confidence Improve a Knowledge-Graph Audit?",
+      "headline": "ReviewMap: Mapping Evaluative Acts and Automation Boundaries in Peer-Review Comments",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05877",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07489",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [],
       "works": []
     },
     {
-      "headline": "Parkinson’s: beyond the brain",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03173-1",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Si conclude l’infinito cantiere del Salinas di Palermo. Il museo pubblico più antico di Sicilia torna alla città",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/2026/11/museo-salinas-palermo-riapertura-nuovo-allestimento/",
-      "timestamp": "2026-11-05T17:00:00+00:00",
-      "themes": [
-        "heritage"
-      ],
-      "works": [
-        "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
-      "timestamp": "2026-11-05T10:00:00+00:00",
-      "themes": [
-        "neural",
-        "surveillance"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "tressa",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "occhi-eye-code-agency",
-        "biofeedback-vegetale",
-        "stoffe",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "infiltr-azioni",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "bluemoon-operation",
-        "hidden-in-plain-sight",
-        "myim",
-        "soglie",
-        "braccio",
-        "clothing",
-        "piedi",
-        "io-nel-progetto-di-un-altro",
-        "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "conosci-no"
-      ]
-    },
-    {
-      "headline": "When Every Choice Is Correct: A Causal Study of Numerical Preference in Language Models",
+      "headline": "Source-balanced Capped Fisher: Bounded Evidence Aggregation for User Inference in Language Models",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.06025",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07228",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
         "language"
       ],
@@ -756,11 +601,223 @@
       ]
     },
     {
-      "headline": "Rewrite, Then Veto: Rewriter-Agnostic Edit Gating for LLM-Based Post-OCR Correction",
+      "headline": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
+      "timestamp": "2026-11-04T12:45:28+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "France Opens War Crimes Investigation Into Israeli Airstrike That Killed Artist Ali Cherri's Parents",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/france-opens-war-crimes-investigation-into-israeli-airstrike-that-killed-artist-ali-cherris-parents/",
+      "timestamp": "2026-11-04T20:26:25+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "AI agents run this automated biology lab that sequences DNA and more",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "ai",
+        "dna"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "genofish",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "io-nel-progetto-di-un-altro",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "aulos",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Why not to wait even a few minutes before fleeing a tsunami",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03539-5",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "Progress accelerates in Parkinson’s treatments",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03165-1",
+      "timestamp": "2026-11-04",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "English Calibration Erodes Lithuanian in Expert-Pruned Mixture-of-Experts Language Models",
       "lang": "en",
       "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05539",
-      "timestamp": "2026-11-05T05:00:00+00:00",
+      "url": "https://arxiv.org/abs/2611.07654",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "In Umbria la mostra diffusa sul Rinascimento in Valnerina racconta la grande operazione di tutela dopo il terremoto",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/11/mostra-diffusa-rinascimento-valnerina-terremoto-2016/",
+      "timestamp": "2026-11-05T22:00:00+00:00",
+      "themes": [
+        "seismic"
+      ],
+      "works": [
+        "analog-ondograph",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Wearable device makers are harvesting brain data to train AI—without telling users",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+      "timestamp": "2026-11-04T01:40:00+00:00",
+      "themes": [
+        "ai",
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "io-nel-progetto-di-un-altro",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Continued Training of Continuous Language Flows with Token Identity Squared Supervision",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07721",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "How Do AI Agents Waste Your Money?",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07238",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
         "ai"
       ],
@@ -776,27 +833,153 @@
       ]
     },
     {
-      "headline": "Six highlights from Parkinson’s disease research",
+      "headline": "The surprising reason women in academia do more parenting than men",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03172-2",
-      "timestamp": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0",
+      "timestamp": "2026-11-05",
       "themes": [],
       "works": []
     },
     {
-      "headline": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "headline": "SAFE-Teen: Evaluating Chatbot Safety Across Adolescent Mental Health Conversations",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
-      "timestamp": "2026-11-04T12:45:28+00:00",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07218",
+      "timestamp": "2026-11-06T05:00:00+00:00",
       "themes": [
-        "heritage"
+        "ai"
       ],
       "works": [
-        "tracing",
-        "aulos"
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
+    },
+    {
+      "headline": "Noise pollution is causing potentially massive problems for wildlife across the globe",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
+      "timestamp": "2026-11-05T02:20:00+00:00",
+      "themes": [
+        "environment",
+        "ecology"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "AI company’s research deepens mystery of vaults, cells’ strangest particles",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles",
+      "timestamp": "2026-11-04T03:03:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Encoding and Propagation of Grammatical Number in Large Language Models",
+      "lang": "en",
+      "source": "arXiv cs.CL (computational linguistics)",
+      "url": "https://arxiv.org/abs/2611.07283",
+      "timestamp": "2026-11-06T05:00:00+00:00",
+      "themes": [
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "AI agents enter the ‘wet lab’",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03270-1",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "China space experiment creates coldest temperature ever",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever",
+      "timestamp": "2026-11-05T02:00:00+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
@@ -829,19 +1012,18 @@
       ]
     },
     {
-      "headline": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "headline": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03582-2",
+      "url": "https://www.nature.com/articles/d41586-026-03566-2",
       "timestamp": "2026-11-04",
       "themes": [
-        "heritage",
-        "dna"
+        "dna",
+        "genetics"
       ],
       "works": [
         "dna-dance-needs-action",
         "genofish",
-        "tracing",
         "sway-fune",
         "pseudomonas-aeruginosa",
         "braccio",
@@ -849,106 +1031,6 @@
         "laniccia",
         "apaf1-bcl2",
         "aulos"
-      ]
-    },
-    {
-      "headline": "Phonological Knowledge of Chinese Characters in Language Models",
-      "lang": "en",
-      "source": "arXiv cs.CL (computational linguistics)",
-      "url": "https://arxiv.org/abs/2611.05803",
-      "timestamp": "2026-11-05T05:00:00+00:00",
-      "themes": [
-        "language"
-      ],
-      "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "AI company’s research deepens mystery of vaults, cells’ strangest particles",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-company-s-research-deepens-mystery-vaults-cells-strangest-particles",
-      "timestamp": "2026-11-04T03:03:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "U.S. midterm election results brighten prospects for science",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/u-s-midterm-election-results-brighten-prospects-science",
-      "timestamp": "2026-11-04T02:25:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Noise pollution is causing potentially massive problems for wildlife across the globe",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
-      "timestamp": "2026-11-05T02:20:00+00:00",
-      "themes": [
-        "ecology",
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
       ]
     }
   ]
