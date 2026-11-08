@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:15:10.323196+00:00",
+  "generated_at": "2026-11-08T15:05:53.024778+00:00",
   "rotation_size": 21,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -11,69 +11,32 @@
   ],
   "rotation": [
     {
-      "headline": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "headline": "Parkinson’s: beyond the brain",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03582-2",
+      "url": "https://www.nature.com/articles/d41586-026-03173-1",
       "timestamp": "2026-11-04",
       "themes": [
-        "heritage",
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "tracing",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "These AI agents design your perfect robot-powered lab — and run it for you",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03587-x",
-      "timestamp": "2026-11-06",
-      "themes": [
-        "ai"
+        "neural"
       ],
       "works": [
         "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Rise of Germanic and Celtic languages is written in ancient DNA",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03581-3",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "heritage",
-        "dna"
-      ],
-      "works": [
         "dna-dance-needs-action",
-        "genofish",
-        "tracing",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
         "braccio",
-        "clothing",
-        "laniccia",
         "apaf1-bcl2",
-        "aulos"
+        "veto-l",
+        "veto-a"
       ]
     },
     {
@@ -108,40 +71,44 @@
       ]
     },
     {
-      "headline": "Entri nel Cimitero di Verona e scopri un capolavoro. La storia dell’urlo di Ruperto Banterle",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/11/ruperto-banterle-anelito-fuggente/",
-      "timestamp": "2026-11-07T11:00:00+00:00",
+      "headline": "Harvard grad students strike again, citing inadequate harassment protections",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/harvard-grad-students-strike-again-citing-inadequate-harassment-protections",
+      "timestamp": "2026-11-06T03:30:00+00:00",
       "themes": [
-        "memory"
+        "labor"
       ],
       "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
         "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
         "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03582-2",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "dna",
+        "heritage"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "tracing",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     },
     {
@@ -165,163 +132,43 @@
       ]
     },
     {
-      "headline": "Is social media changing children’s brains? Here’s what the science says",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03343-1",
-      "timestamp": "2026-11-04",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI agents run this automated biology lab that sequences DNA and more",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03552-8",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "dna",
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "genofish",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "io-nel-progetto-di-un-altro",
-        "apaf1-bcl2",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "aulos",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
+      "headline": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
       "lang": "en",
       "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
-      "timestamp": "2026-11-05T20:59:11+00:00",
+      "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
+      "timestamp": "2026-11-05T20:19:00+00:00",
       "themes": [
-        "economy"
+        "environment"
       ],
       "works": [
-        "still-silent-dance",
-        "plus-size",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "autarchic-iron",
-        "bluemoon-operation",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "natura-morta",
-        "agon"
-      ]
-    },
-    {
-      "headline": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11233-9",
-      "timestamp": "2026-11-06",
-      "themes": [
-        "genetics"
-      ],
-      "works": [
-        "dna-dance-needs-action",
         "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Parkinson’s: beyond the brain",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03173-1",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
       ]
     },
     {
-      "headline": "Harvard grad students strike again, citing inadequate harassment protections",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/harvard-grad-students-strike-again-citing-inadequate-harassment-protections",
-      "timestamp": "2026-11-06T03:30:00+00:00",
-      "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
-      "timestamp": "2026-11-06T19:24:39+00:00",
+      "headline": "Tutti i mondi di Matisse nella nuova puntata di Artbox",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-performative/cinema/2026/11/tutti-i-mondi-di-matisse-nella-nuova-puntata-di-artbox/",
+      "timestamp": "2026-11-08T10:00:00+00:00",
       "themes": [],
       "works": []
-    },
-    {
-      "headline": "AI agents enter the ‘wet lab’",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03270-1",
-      "timestamp": "2026-11-04",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
     },
     {
       "headline": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
@@ -330,8 +177,8 @@
       "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
       "timestamp": "2026-11-05T10:00:00+00:00",
       "themes": [
-        "neural",
-        "surveillance"
+        "surveillance",
+        "neural"
       ],
       "works": [
         "revesso",
@@ -367,80 +214,34 @@
       ]
     },
     {
-      "headline": "MFA Boston to Allow Visitors to Watch Live Conservation of Dutch Painting",
+      "headline": "AI agents run this automated biology lab that sequences DNA and more",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
-      "timestamp": "2026-11-05T20:19:00+00:00",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "timestamp": "2026-11-04",
       "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
-      "timestamp": "2026-11-06T04:00:43+00:00",
-      "themes": [
-        "neural",
         "dna",
-        "genetics"
+        "ai"
       ],
       "works": [
         "revesso",
         "dna-dance-needs-action",
         "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
+        "occhi-eye-code-agency",
         "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
         "sway-fune",
-        "sneak-peek",
-        "binding-or-not-binding",
         "pseudomonas-aeruginosa",
         "braccio",
         "clothing",
         "laniccia",
+        "io-nel-progetto-di-un-altro",
         "apaf1-bcl2",
+        "nice-to-meet-me",
         "veto-l",
         "veto-a",
-        "aulos"
+        "aulos",
+        "ordinateur"
       ]
-    },
-    {
-      "headline": "Shape Your Artistic Future at UC Davis: The Maria Manetti Shrem Art Studio MFA Program",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/shape-your-artistic-future-at-uc-davis-the-maria-manetti-shrem-art-studio-mfa-program/",
-      "timestamp": "2026-11-05T15:25:00+00:00",
-      "themes": [],
-      "works": []
     },
     {
       "headline": "How the brain protects itself from Parkinson’s disease",
@@ -472,6 +273,196 @@
       ]
     },
     {
+      "headline": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
+      "timestamp": "2026-11-04T12:45:28+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "La sorella di Moravia era una pittrice. Tutta la storia di Adriana Pincherle",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/2026/11/adriana-pincherle-pittrice/",
+      "timestamp": "2026-11-08T15:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "A Roma la nuova opera dello street artist Ortro è durata meno di due giorni. Poi distrutta",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/street-urban-art/2026/11/roma-murale-ortro-urbanmixedmedia/",
+      "timestamp": "2026-11-07T22:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
+      "timestamp": "2026-11-06T04:00:43+00:00",
+      "themes": [
+        "dna",
+        "neural",
+        "genetics"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sway-fune",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "These AI agents design your perfect robot-powered lab — and run it for you",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03587-x",
+      "timestamp": "2026-11-06",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Rise of Germanic and Celtic languages is written in ancient DNA",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03581-3",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "dna",
+        "heritage"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "tracing",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "AI agents enter the ‘wet lab’",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03270-1",
+      "timestamp": "2026-11-04",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11233-9",
+      "timestamp": "2026-11-06",
+      "themes": [
+        "genetics"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03630-x",
+      "timestamp": "2026-11-06",
+      "themes": [],
+      "works": []
+    },
+    {
       "headline": "Why not to wait even a few minutes before fleeing a tsunami",
       "lang": "en",
       "source": "Nature briefing",
@@ -489,17 +480,26 @@
       ]
     },
     {
-      "headline": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "headline": "Met Gala's New Theme Is the Biggest Recession Indicator Yet",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
-      "timestamp": "2026-11-04T12:45:28+00:00",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
+      "timestamp": "2026-11-05T20:59:11+00:00",
       "themes": [
-        "heritage"
+        "economy"
       ],
       "works": [
-        "tracing",
-        "aulos"
+        "still-silent-dance",
+        "plus-size",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "autarchic-iron",
+        "bluemoon-operation",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "natura-morta",
+        "agon"
       ]
     }
   ]
