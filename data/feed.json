@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:57:20.012715+00:00",
+  "generated_at": "2026-11-12T18:52:26.631285+00:00",
   "rotation_size": 20,
   "silence_phrases": [
     "the world is silent on this archive for now",
@@ -11,90 +11,45 @@
   ],
   "rotation": [
     {
-      "headline": "La Quadriennale di Roma prepara il centenario e aspetta la sua nuova casa sul Tevere: intervista al presidente",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/intervista-andrea-lombardinilo-quadriennale/",
-      "timestamp": "2026-11-11T15:00:00+00:00",
-      "themes": [
-        "tiber",
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "U.S. crop genome sequencing gets $180 million boost",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
-      "timestamp": "2026-10-09T03:43:00+00:00",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "In una mostra a Torino l’arte è uno strumento di cura che si può indossare",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/raffaella-baldassarre-mostra-torino/",
-      "timestamp": "2026-11-12T09:00:00+00:00",
-      "themes": [
-        "music"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "sway-fune",
-        "veto-l",
-        "veto-a",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
+      "headline": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03673-0",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "timestamp": "2026-11-12",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03655-2",
       "timestamp": "2026-11-11",
       "themes": [
-        "ai",
-        "dna"
+        "neural"
       ],
       "works": [
         "revesso",
         "dna-dance-needs-action",
-        "genofish",
-        "occhi-eye-code-agency",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
         "progetto-generativo-unwritten",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
         "braccio",
-        "clothing",
-        "laniccia",
-        "io-nel-progetto-di-un-altro",
         "apaf1-bcl2",
-        "nice-to-meet-me",
         "veto-l",
-        "veto-a",
-        "aulos",
-        "ordinateur"
+        "veto-a"
       ]
     },
     {
@@ -112,6 +67,133 @@
         "signum-monitorium",
         "deepest-point-tiber",
         "flusso"
+      ]
+    },
+    {
+      "headline": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03565-3",
+      "timestamp": "2026-11-12",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03412-5",
+      "timestamp": "2026-11-11",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Getting a grasp on the global wildlife trade",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03591-1",
+      "timestamp": "2026-11-11",
+      "themes": [
+        "ecology"
+      ],
+      "works": [
+        "biofeedback-vegetale",
+        "monument-unknown-animals",
+        "natura-morta"
+      ]
+    },
+    {
+      "headline": "Proteins that form the nuclear pore barrier move like liquids",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03428-x",
+      "timestamp": "2026-11-11",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Fanno la guerra ai ragazzini. Questione generazionale e genesi culturale del termine “maranza”",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/attualita/2026/11/questione-generazionale-scontri-milano/",
+      "timestamp": "2026-11-12T11:00:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Daily briefing: Should old, bad science be culled from the literature?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03675-y",
+      "timestamp": "2026-11-11",
+      "themes": [
+        "language"
+      ],
+      "works": [
+        "revesso",
+        "tracing",
+        "tressa",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "lipogesture",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "ruet-moles-machina-mundi",
+        "disoccupazione-suolo-pubblico",
+        "soglie",
+        "soft-hard",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "nice-to-meet-me",
+        "pentagono",
+        "lanterne",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
       ]
     },
     {
@@ -135,13 +217,33 @@
       ]
     },
     {
-      "headline": "Honey bees inject venom with a two-stroke stinger",
+      "headline": "Celebrity psychiatrist who performs brain scans tapped for NIH’s mental health council",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
-      "timestamp": "2026-10-12T03:00:00+00:00",
-      "themes": [],
-      "works": []
+      "url": "https://www.science.org/content/article/celebrity-psychiatrist-who-performs-brain-scans-tapped-nih-s-mental-health-council",
+      "timestamp": "TZ",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
     },
     {
       "headline": "Biotech innovations are an opportunity to limit climate change",
@@ -174,34 +276,21 @@
       ]
     },
     {
-      "headline": "La Russia della guerra e l’Iran delle proteste vincono il premio fotografico più importante d’Italia",
+      "headline": "In una mostra a Torino l’arte è uno strumento di cura che si può indossare",
       "lang": "it",
       "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/fotografia/2026/11/progetti-fotografici-vincitori-deloitte-photo-grant-triennale-milano/",
-      "timestamp": "2026-11-12T08:00:00+00:00",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/raffaella-baldassarre-mostra-torino/",
+      "timestamp": "2026-11-12T09:00:00+00:00",
       "themes": [
-        "war"
+        "music"
       ],
       "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03637-4",
-      "timestamp": "2026-11-11",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "sway-fune",
+        "veto-l",
+        "veto-a",
+        "aulos"
       ]
     },
     {
@@ -242,121 +331,58 @@
       ]
     },
     {
-      "headline": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
-      "timestamp": "2026-10-09T11:35:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Art Basel Paris to Give Galleries a 20% Discount After Early Closure",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/",
-      "timestamp": "2026-11-11T16:20:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "A Roma c’è una mostra sul cibo nella storia dell’arte. Intervista a chi l’ha ideata",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/11/food-roma-chiostro-del-bramante/",
-      "timestamp": "2026-11-11T13:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
+      "headline": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03655-2",
+      "url": "https://www.nature.com/articles/d41586-026-03673-0",
       "timestamp": "2026-11-11",
       "themes": [
-        "neural"
+        "dna",
+        "ai"
       ],
       "works": [
         "revesso",
         "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
+        "genofish",
+        "occhi-eye-code-agency",
         "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
         "braccio",
+        "clothing",
+        "laniccia",
+        "io-nel-progetto-di-un-altro",
         "apaf1-bcl2",
+        "nice-to-meet-me",
         "veto-l",
-        "veto-a"
+        "veto-a",
+        "aulos",
+        "ordinateur"
       ]
     },
     {
-      "headline": "Getting a grasp on the global wildlife trade",
+      "headline": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03591-1",
+      "url": "https://www.nature.com/articles/d41586-026-03637-4",
       "timestamp": "2026-11-11",
       "themes": [
-        "ecology"
+        "water"
       ],
       "works": [
-        "biofeedback-vegetale",
-        "monument-unknown-animals",
-        "natura-morta"
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
       ]
     },
     {
-      "headline": "Did an AI or a human write that paper? New detector decides by examining its ideas",
+      "headline": "Can researchers bring order to the confusing world of AI ‘benchmarks’?",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
-      "timestamp": "2026-10-12T02:05:00+00:00",
+      "url": "https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks",
+      "timestamp": "2026-11-10T10:55:00+00:00",
       "themes": [
         "ai"
       ],
@@ -372,40 +398,41 @@
       ]
     },
     {
-      "headline": "Major employer of archaeologists shuts down, leaving workers in the lurch",
+      "headline": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/major-employer-archaeologists-shuts-down-leaving-workers-lurch",
-      "timestamp": "2026-10-09T03:20:00+00:00",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "timestamp": "2026-11-09T03:30:00+00:00",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03660-5",
+      "timestamp": "2026-11-11",
       "themes": [],
       "works": []
     },
     {
-      "headline": "Department of Energy expands ‘Genesis Mission’ to boost AI, awarding larger grants",
+      "headline": "AI rivals tackle one of physics’ deepest mathematical challenges",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants",
-      "timestamp": "2026-10-09T03:21:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03412-5",
-      "timestamp": "2026-11-11",
+      "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+      "timestamp": "TZ",
       "themes": [
         "ai"
       ],
