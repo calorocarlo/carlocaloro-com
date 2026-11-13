@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T18:52:26.631285+00:00",
-  "rotation_size": 20,
+  "generated_at": "2026-11-13T00:13:46.156555+00:00",
+  "rotation_size": 21,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,16 +11,133 @@
   ],
   "rotation": [
     {
-      "headline": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "headline": "Earth’s early history told by 3.9-billion-year-old rocks from northern China",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03573-3",
-      "timestamp": "2026-11-12",
+      "url": "https://www.nature.com/articles/d41586-026-03499-w",
+      "timestamp": "2026-11-11",
       "themes": [
-        "pandemic"
+        "memory"
       ],
       "works": [
-        "pseudomonas-aeruginosa"
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Fanno la guerra ai ragazzini. Questione generazionale e genesi culturale del termine “maranza”",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/attualita/2026/11/questione-generazionale-scontri-milano/",
+      "timestamp": "2026-11-12T11:00:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03705-9",
+      "timestamp": "2026-11-12",
+      "themes": [
+        "body",
+        "genetics"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "genofish",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "stoffe",
+        "memory-foam",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "skin-to-skin",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "stretching-the-life",
+        "symbiotic-resonance",
+        "plus-size",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "dynamic-equilibrium",
+        "infiltr-azioni",
+        "instant-soluble",
+        "sway-fune",
+        "small-root-plant-space",
+        "sneak-peek",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "disoccupazione-suolo-pubblico",
+        "lumpenwringer",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "natura-morta",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "agon",
+        "aulos",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
       ]
     },
     {
@@ -99,11 +216,49 @@
       ]
     },
     {
-      "headline": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "headline": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03412-5",
+      "url": "https://www.nature.com/articles/d41586-026-03637-4",
       "timestamp": "2026-11-11",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "timestamp": "2026-11-09T03:30:00+00:00",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "AI rivals tackle one of physics’ deepest mathematical challenges",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+      "timestamp": "TZ",
       "themes": [
         "ai"
       ],
@@ -119,41 +274,21 @@
       ]
     },
     {
-      "headline": "Getting a grasp on the global wildlife trade",
+      "headline": "After the Midterms, the Real Work for Arts and Culture Begins",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03591-1",
-      "timestamp": "2026-11-11",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
+      "timestamp": "2026-11-12T21:05:18+00:00",
       "themes": [
-        "ecology"
+        "labor"
       ],
       "works": [
-        "biofeedback-vegetale",
-        "monument-unknown-animals",
-        "natura-morta"
-      ]
-    },
-    {
-      "headline": "Proteins that form the nuclear pore barrier move like liquids",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03428-x",
-      "timestamp": "2026-11-11",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Fanno la guerra ai ragazzini. Questione generazionale e genesi culturale del termine “maranza”",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/attualita/2026/11/questione-generazionale-scontri-milano/",
-      "timestamp": "2026-11-12T11:00:00+00:00",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
       ]
     },
     {
@@ -217,6 +352,15 @@
       ]
     },
     {
+      "headline": "Betsy James Wyeth’s Placemaking Prowess",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/betsy-james-wyeths-placemaking-prowess/",
+      "timestamp": "2026-11-11T19:09:29+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
       "headline": "Celebrity psychiatrist who performs brain scans tapped for NIH’s mental health council",
       "lang": "en",
       "source": "Science Magazine",
@@ -243,6 +387,52 @@
         "apaf1-bcl2",
         "veto-l",
         "veto-a"
+      ]
+    },
+    {
+      "headline": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03666-z",
+      "timestamp": "2026-11-12",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "Can researchers bring order to the confusing world of AI ‘benchmarks’?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks",
+      "timestamp": "2026-11-10T10:55:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "timestamp": "2026-11-12",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
       ]
     },
     {
@@ -276,59 +466,13 @@
       ]
     },
     {
-      "headline": "In una mostra a Torino l’arte è uno strumento di cura che si può indossare",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/raffaella-baldassarre-mostra-torino/",
-      "timestamp": "2026-11-12T09:00:00+00:00",
-      "themes": [
-        "music"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "sway-fune",
-        "veto-l",
-        "veto-a",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Earth’s early history told by 3.9-billion-year-old rocks from northern China",
+      "headline": "Human Rights Orgs Denounce Egypt's Arrest of Mada Masr Editor Lina Attalah",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03499-w",
-      "timestamp": "2026-11-11",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
+      "timestamp": "2026-11-12T20:46:03+00:00",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
@@ -337,8 +481,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03673-0",
       "timestamp": "2026-11-11",
       "themes": [
-        "dna",
-        "ai"
+        "ai",
+        "dna"
       ],
       "works": [
         "revesso",
@@ -361,90 +505,18 @@
       ]
     },
     {
-      "headline": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "headline": "Getting a grasp on the global wildlife trade",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03637-4",
+      "url": "https://www.nature.com/articles/d41586-026-03591-1",
       "timestamp": "2026-11-11",
       "themes": [
-        "water"
+        "ecology"
       ],
       "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "Can researchers bring order to the confusing world of AI ‘benchmarks’?",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks",
-      "timestamp": "2026-11-10T10:55:00+00:00",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "timestamp": "2026-11-09T03:30:00+00:00",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Even giant anteaters in remote Brazil have microplastics in their blood",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03660-5",
-      "timestamp": "2026-11-11",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI rivals tackle one of physics’ deepest mathematical challenges",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-      "timestamp": "TZ",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "biofeedback-vegetale",
+        "monument-unknown-animals",
+        "natura-morta"
       ]
     }
   ]
