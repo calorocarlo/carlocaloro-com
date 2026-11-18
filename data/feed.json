@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T22:15:24.132394+00:00",
-  "rotation_size": 23,
+  "generated_at": "2026-11-18T04:14:18.684923+00:00",
+  "rotation_size": 31,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,97 +11,48 @@
   ],
   "rotation": [
     {
-      "headline": "Chinese gene therapy researchers fired after probe into child’s death",
+      "headline": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death",
-      "timestamp": "2026-11-16\nT02:15:00\nZ",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
+      "timestamp": "2026-11-17T16:15:00+00:00",
       "themes": [
-        "dna",
-        "genetics"
+        "memory"
       ],
       "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "Daily briefing: A worrier’s guide to climate hope",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03769-7",
-      "timestamp": "2026-11-16",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
         "small-root-plant-space",
-        "analog-ondograph",
+        "autarchic-iron",
         "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03744-2",
-      "timestamp": "2026-11-17",
-      "themes": [
-        "surveillance",
-        "water"
-      ],
-      "works": [
-        "tressa",
-        "occhi-eye-code-agency",
-        "stoffe",
-        "tote",
-        "infiltr-azioni",
-        "analog-ondograph",
-        "sneak-peek",
-        "binding-or-not-binding",
         "bluemoon-operation",
         "absorption",
         "hidden-in-plain-sight",
-        "myim",
-        "signum-monitorium",
         "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
         "soglie",
-        "clothing",
         "piedi",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "flusso",
-        "conosci-no"
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     },
     {
-      "headline": "Neanderthal brain gene may lower odds of schizophrenia",
+      "headline": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/neanderthal-brain-gene-may-lower-odds-schizophrenia",
-      "timestamp": "2026-11-16\nT03:00:00\nZ",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03762-0",
+      "timestamp": "2026-11-16",
       "themes": [
         "dna",
         "neural"
@@ -163,225 +114,6 @@
       ]
     },
     {
-      "headline": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03679-8",
-      "timestamp": "2026-11-13",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
-      "timestamp": "2026-11-17T16:15:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "The world’s most precious brain samples — and what they teach us about being human",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03711-x",
-      "timestamp": "2026-11-17",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03712-w",
-      "timestamp": "2026-11-16",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Daily briefing: Huge basal ganglia atlas could transform brain health",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03757-x",
-      "timestamp": "2026-11-13",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Gianni Mazzocchi. Storia di un inventore di giornali",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/2026/11/storia-gianni-mazzocchi-domus/",
-      "timestamp": "2026-11-17T17:00:00+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Chinese scientist sacked after child died in gene-editing trial",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03752-2",
-      "timestamp": "2026-11-16",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "The Met and the Shanghai Museum Sign Collaborative Agreement",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/",
-      "timestamp": "2026-11-17T19:27:56+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
       "headline": "Spettacoli, ma anche corsi, residenze e musica. Storia di un teatro di quartiere a Milano",
       "lang": "it",
       "source": "Artribune",
@@ -426,10 +158,277 @@
       ]
     },
     {
-      "headline": "AI wearables could exploit people’s most vulnerable moments",
+      "headline": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
+      "timestamp": "2026-11-17T21:26:29+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
+      "lang": "en",
+      "source": "ksat.com",
+      "url": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [
+        "preparedness"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "stoffe",
+        "signum-monitorium",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Los Angeles County backs federal film tax credit",
+      "lang": "en",
+      "source": "nbclosangeles.com",
+      "url": "https://www.nbclosangeles.com/news/local/los-angeles-county-backs-federal-film-tax-credit/3972003/",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Chinese scientist sacked after child died in gene-editing trial",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03742-4",
+      "url": "https://www.nature.com/articles/d41586-026-03752-2",
+      "timestamp": "2026-11-16",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "timestamp": "2026-11-13",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Rare Hilma af Klint Work Heads to Auction",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/",
+      "timestamp": "2026-11-17T22:40:09+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Gianni Mazzocchi. Storia di un inventore di giornali",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/editoria/2026/11/storia-gianni-mazzocchi-domus/",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Daily briefing: A worrier’s guide to climate hope",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03769-7",
+      "timestamp": "2026-11-16",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "The psychology of imaginary friends — and why they are good for kids",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03713-9",
+      "timestamp": "2026-11-16",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03744-2",
+      "timestamp": "2026-11-17",
+      "themes": [
+        "surveillance",
+        "water"
+      ],
+      "works": [
+        "tressa",
+        "occhi-eye-code-agency",
+        "stoffe",
+        "tote",
+        "infiltr-azioni",
+        "analog-ondograph",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "myim",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "soglie",
+        "clothing",
+        "piedi",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "flusso",
+        "conosci-no"
+      ]
+    },
+    {
+      "headline": "Energy Department to delay atom smasher and speed AI, quantum, and fusion projects",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/energy-department-delay-atom-smasher-and-speed-ai-quantum-and-fusion-projects",
+      "timestamp": "2026-11-16\nT05:55:00\nZ",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "L’opera d’arte di Natale esposta nel palazzo del Comune di Milano quest’anno arriva dalla Calabria",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/11/mattia-preti-mostra-palazzo-marino-milano-natale/",
+      "timestamp": "2026-11-17T19:00:00+00:00",
+      "themes": [
+        "collective"
+      ],
+      "works": [
+        "revesso",
+        "skin-to-skin",
+        "moving-around-skin",
+        "symbiotic-resonance",
+        "infiltr-azioni",
+        "binding-or-not-binding",
+        "repubblica-del-fare"
+      ]
+    },
+    {
+      "headline": "Man charged in bomb threat at Illinois ethanol plant that prompted evacuation of thousands",
+      "lang": "en",
+      "source": "mcall.com",
+      "url": "https://www.mcall.com/2026/11/17/man-charged-peoria-bomb-threat/",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [
+        "preparedness"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "stoffe",
+        "signum-monitorium",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Should we move from artificial intelligence to artificial life?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03743-3",
       "timestamp": "2026-11-17",
       "themes": [
         "ai"
@@ -446,38 +445,33 @@
       ]
     },
     {
-      "headline": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
+      "headline": "Serious for many reason : National security analyst reacts to widespread tech issues",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03762-0",
-      "timestamp": "2026-11-16",
+      "source": "wjla.com",
+      "url": "https://wjla.com/news/nation-world/serious-for-many-reasons-national-security-analyst-reacts-to-widespread-tech-issues-network-dirty-bomb",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Chinese gene therapy researchers fired after probe into child’s death",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death",
+      "timestamp": "2026-11-16\nT02:15:00\nZ",
       "themes": [
-        "dna",
-        "neural"
+        "genetics",
+        "dna"
       ],
       "works": [
-        "revesso",
         "dna-dance-needs-action",
         "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
         "sway-fune",
-        "sneak-peek",
-        "binding-or-not-binding",
         "pseudomonas-aeruginosa",
         "braccio",
         "clothing",
         "laniccia",
         "apaf1-bcl2",
-        "veto-l",
-        "veto-a",
         "aulos"
       ]
     },
@@ -512,11 +506,40 @@
       ]
     },
     {
-      "headline": "Energy Department to delay atom smasher and speed AI, quantum, and fusion projects",
+      "headline": "Daily briefing: Huge basal ganglia atlas could transform brain health",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/energy-department-delay-atom-smasher-and-speed-ai-quantum-and-fusion-projects",
-      "timestamp": "2026-11-16\nT05:55:00\nZ",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03757-x",
+      "timestamp": "2026-11-13",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Nvidia says its open source AI strategy remains intact after Jensen Huang exit",
+      "lang": "en",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "timestamp": "2026-11-18T01:15:00+00:00",
       "themes": [
         "ai"
       ],
@@ -532,11 +555,40 @@
       ]
     },
     {
-      "headline": "Is academia’s risk-averse culture stifling scientific discovery?",
+      "headline": "The world’s most precious brain samples — and what they teach us about being human",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03772-y",
+      "url": "https://www.nature.com/articles/d41586-026-03711-x",
       "timestamp": "2026-11-17",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "How Should We Memorialize the Trump Era?",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/",
+      "timestamp": "2026-11-17T21:36:07+00:00",
       "themes": [],
       "works": []
     },
@@ -580,47 +632,46 @@
       ]
     },
     {
-      "headline": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
+      "headline": "Neanderthal brain gene may lower odds of schizophrenia",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
-      "timestamp": "2026-11-17T21:26:29+00:00",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/neanderthal-brain-gene-may-lower-odds-schizophrenia",
+      "timestamp": "2026-11-16\nT03:00:00\nZ",
       "themes": [
-        "labor"
-      ],
-      "works": [
-        "still-silent-dance",
-        "autarchic-iron",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "agon"
-      ]
-    },
-    {
-      "headline": "L’opera d’arte di Natale esposta nel palazzo del Comune di Milano quest’anno arriva dalla Calabria",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-moderna/2026/11/mattia-preti-mostra-palazzo-marino-milano-natale/",
-      "timestamp": "2026-11-17T19:00:00+00:00",
-      "themes": [
-        "collective"
+        "dna",
+        "neural"
       ],
       "works": [
         "revesso",
-        "skin-to-skin",
+        "dna-dance-needs-action",
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
         "moving-around-skin",
+        "tote",
         "symbiotic-resonance",
-        "infiltr-azioni",
+        "sway-fune",
+        "sneak-peek",
         "binding-or-not-binding",
-        "repubblica-del-fare"
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a",
+        "aulos"
       ]
     },
     {
-      "headline": "Should we move from artificial intelligence to artificial life?",
+      "headline": "AI wearables could exploit people’s most vulnerable moments",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03743-3",
+      "url": "https://www.nature.com/articles/d41586-026-03742-4",
       "timestamp": "2026-11-17",
       "themes": [
         "ai"
@@ -634,6 +685,89 @@
         "veto-l",
         "veto-a",
         "ordinateur"
+      ]
+    },
+    {
+      "headline": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03712-w",
+      "timestamp": "2026-11-16",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Scarborough : MSM Talks  Litmus Test  Only Regarding Pro - Life Republicans",
+      "lang": "en",
+      "source": "newsbusters.org",
+      "url": "https://newsbusters.org/blogs/nb/mark-finkelstein/2008/04/16/scarborough-msm-talks-litmus-test-only-regarding-pro-life",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Natural History Museum offers discount to Science Center visitors",
+      "lang": "en",
+      "source": "nbclosangeles.com",
+      "url": "https://www.nbclosangeles.com/news/local/natural-history-museum-offers-discount-to-science-center-visitors/3972016/",
+      "timestamp": "2026-11-18T01:15:00+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     }
   ]
