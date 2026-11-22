@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T11:13:15.948069+00:00",
-  "rotation_size": 22,
+  "generated_at": "2026-11-22T19:31:10.488090+00:00",
+  "rotation_size": 21,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,6 +10,281 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
+    {
+      "headline": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03775-9",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Chemists are uncovering a hidden world of pollution",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
+      "timestamp": "2026-11-19\nT02:00:00\nZ",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+      "timestamp": "2026-11-19\nT02:00:00\nZ",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "China is importing thousands of research primates, sparking fears of monkey trade war",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
+      "timestamp": "2026-11-19\nT12:00:00\nZ",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "AI is ditching hallucinated references — and other bad habits",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03753-1",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Sore throat? The brain has surprising control over how ill you feel",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03774-w",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Matera Capitale mediterranea della cultura ad Artbox",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/matera-capitale-mediterranea-artbox/",
+      "timestamp": "2026-11-22T10:00:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
+      "timestamp": "2026-11-20T22:52:02+00:00",
+      "themes": [
+        "economy"
+      ],
+      "works": [
+        "still-silent-dance",
+        "plus-size",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "autarchic-iron",
+        "bluemoon-operation",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "natura-morta",
+        "agon"
+      ]
+    },
+    {
+      "headline": "People entering old age now have better memory than their parents did",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "How AI is affecting science careers",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "timestamp": "2026-11-20",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3",
+      "timestamp": "2026-11-20",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "L’idea di un gigantesco faro in legno sulla costa inglese per illuminare il Mare del Nord",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/2026/11/faro-norfolk-alex-skarshelg/",
+      "timestamp": "2026-11-22T09:00:00+00:00",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "Drawing Center's Laura Hoptman Wins Curatorial Excellence Award",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/drawing-centers-laura-hoptman-wins-curatorial-excellence-award/",
+      "timestamp": "2026-11-19T22:36:49+00:00",
+      "themes": [],
+      "works": []
+    },
     {
       "headline": "Anthropic IPO: four ways the AI giant wants to disrupt science",
       "lang": "en",
@@ -129,178 +404,6 @@
       ]
     },
     {
-      "headline": "Sore throat? The brain has surprising control over how ill you feel",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03774-w",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
-      "timestamp": "2026-11-20\nT07:35:41\nZ",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03789-3",
-      "timestamp": "2026-11-20",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Matera Capitale mediterranea della cultura ad Artbox",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/arte-contemporanea/2026/11/matera-capitale-mediterranea-artbox/",
-      "timestamp": "2026-11-22T10:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "People entering old age now have better memory than their parents did",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03783-9",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Chemists are uncovering a hidden world of pollution",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
-      "timestamp": "2026-11-19\nT02:00:00\nZ",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "L’idea di un gigantesco faro in legno sulla costa inglese per illuminare il Mare del Nord",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/2026/11/faro-norfolk-alex-skarshelg/",
-      "timestamp": "2026-11-22T09:00:00+00:00",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
       "headline": "Scientists control a virtual fruit fly with map of insect’s brain",
       "lang": "en",
       "source": "Science Magazine",
@@ -327,6 +430,26 @@
         "apaf1-bcl2",
         "veto-l",
         "veto-a"
+      ]
+    },
+    {
+      "headline": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w",
+      "timestamp": "2026-11-20",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -367,163 +490,31 @@
       ]
     },
     {
-      "headline": "Magnus: a 30 anni dalla scomparsa del fumettista ecco una mostra a Bologna",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/editoria/fumetti/2026/11/mostra-magnus-bologna/",
-      "timestamp": "2026-11-21T15:00:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI is turbocharging cyberattacks — can computer scientists catch up?",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03775-9",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
-      "timestamp": "2026-11-20T22:52:02+00:00",
-      "themes": [
-        "economy"
-      ],
-      "works": [
-        "still-silent-dance",
-        "plus-size",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "autarchic-iron",
-        "bluemoon-operation",
-        "disoccupazione-suolo-pubblico",
-        "repubblica-del-fare",
-        "lumpenwringer",
-        "natura-morta",
-        "agon"
-      ]
-    },
-    {
-      "headline": "How AI is affecting science careers",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03680-1",
-      "timestamp": "2026-11-20",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "How to turn impostor syndrome into a superpower",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03465-6",
-      "timestamp": "2026-11-20",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "AI is ditching hallucinated references — and other bad habits",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03753-1",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Killing more sea lions won’t help endangered salmon recover, model suggests",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
-      "timestamp": "2026-11-19\nT02:00:00\nZ",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03790-w",
-      "timestamp": "2026-11-20",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "China is importing thousands of research primates, sparking fears of monkey trade war",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
-      "timestamp": "2026-11-19\nT12:00:00\nZ",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
       "headline": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
       "lang": "en",
       "source": "Science Magazine",
       "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
       "timestamp": "2026-11-19\nT04:08:12\nZ",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "timestamp": "2026-11-20\nT07:35:41\nZ",
       "themes": [
         "ai"
       ],
