@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T23:08:16.666656+00:00",
-  "rotation_size": 21,
+  "generated_at": "2026-11-22T03:06:38.101153+00:00",
+  "rotation_size": 34,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,109 +11,104 @@
   ],
   "rotation": [
     {
-      "headline": "Sore throat? The brain has surprising control over how ill you feel",
+      "headline": "Trump says hell work with Democrats to cap credit card interest rates",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03774-w",
-      "timestamp": "2026-11-19",
+      "source": "turnto10.com",
+      "url": "https://turnto10.com/news/nation-world/trump-democrats-cap-credit-card-interest-rates-talarico-warren-hawley-banks-reserve-federal-new-york-congress-republicans",
+      "timestamp": "2026-11-22T00:30:00+00:00",
       "themes": [
-        "neural"
+        "labor"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+      "timestamp": "2026-11-19\nT02:00:00\nZ",
+      "themes": [
+        "water"
+      ],
+      "works": [
+        "analog-ondograph",
+        "absorption",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "flusso"
+      ]
+    },
+    {
+      "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10 %",
+      "lang": "en",
+      "source": "mcall.com",
+      "url": "https://www.mcall.com/2026/11/21/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "COP31 climate talks edging close to final deal",
+      "lang": "en",
+      "source": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9395866/cop31-climate-talks-edging-close-to-final-deal/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "AI is ditching hallucinated references — and other bad habits",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03753-1",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Threading the Names of Alabama’s Black Belt History",
-      "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
-      "timestamp": "2026-11-20T21:47:05+00:00",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
+        "dynamic-equilibrium",
         "small-root-plant-space",
-        "autarchic-iron",
+        "analog-ondograph",
         "monument-unknown-animals",
-        "bluemoon-operation",
         "absorption",
-        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
         "deepest-point-tiber",
         "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
+        "natura-morta",
+        "seismic-noise"
       ]
     },
     {
-      "headline": "How AI is affecting science careers",
+      "headline": "Trump says hell work with Democrats to cap credit card interest rates",
       "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03680-1",
-      "timestamp": "2026-11-20",
+      "source": "kval.com",
+      "url": "https://kval.com/news/nation-world/trump-democrats-cap-credit-card-interest-rates-talarico-warren-hawley-banks-reserve-federal-new-york-congress-republicans",
+      "timestamp": "2026-11-22T00:30:00+00:00",
       "themes": [
-        "ai"
+        "labor"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
       ]
     },
     {
@@ -195,11 +190,317 @@
       ]
     },
     {
-      "headline": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
+      "headline": "Sore throat? The brain has surprising control over how ill you feel",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03774-w",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "As war engulfs the Strait of Hormuz , one swimmer is fighting to protect its wildlife",
+      "lang": "en",
+      "source": "sbs.com.au",
+      "url": "https://www.sbs.com.au/news/article/man-swims-across-the-strait-of-hormuz-to-protect-wildlife/sucyype2c",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "ecology",
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "biofeedback-vegetale",
+        "monument-unknown-animals",
+        "natura-morta"
+      ]
+    },
+    {
+      "headline": "Trump says hell work with Democrats to cap credit card interest rates",
+      "lang": "en",
+      "source": "fox17.com",
+      "url": "https://fox17.com/news/nation-world/trump-democrats-cap-credit-card-interest-rates-talarico-warren-hawley-banks-reserve-federal-new-york-congress-republicans",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "How AI is affecting science careers",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "timestamp": "2026-11-20",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Scientists control a virtual fruit fly with map of insect’s brain",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
-      "timestamp": "2026-11-19\nT04:08:12\nZ",
+      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
+      "timestamp": "2026-11-20\nT04:15:00\nZ",
+      "themes": [
+        "neural"
+      ],
+      "works": [
+        "revesso",
+        "dna-dance-needs-action",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "progetto-generativo-unwritten",
+        "moving-around-skin",
+        "tote",
+        "symbiotic-resonance",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "braccio",
+        "apaf1-bcl2",
+        "veto-l",
+        "veto-a"
+      ]
+    },
+    {
+      "headline": "Threading the Names of Alabama’s Black Belt History",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
+      "timestamp": "2026-11-20T21:47:05+00:00",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
+      "lang": "en",
+      "source": "Hyperallergic",
+      "url": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
+      "timestamp": "2026-11-20T19:42:28+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Desperate appeal after missing man body found in bush",
+      "lang": "en",
+      "source": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9395839/desperate-appeal-after-missing-mans-body-found-in-bush/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "body"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "revesso",
+        "dna-dance-needs-action",
+        "still-silent-dance",
+        "genofish",
+        "tracing",
+        "tressa",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "occhi-eye-code-agency",
+        "biofeedback-vegetale",
+        "stoffe",
+        "memory-foam",
+        "cilindri-plexiglas",
+        "progetto-generativo-unwritten",
+        "skin-to-skin",
+        "lipogesture",
+        "moving-around-skin",
+        "tote",
+        "stretching-the-life",
+        "symbiotic-resonance",
+        "plus-size",
+        "body-of-words",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "deriva",
+        "escape-from-the-cave",
+        "novellae",
+        "ode-al-fallimento",
+        "dynamic-equilibrium",
+        "infiltr-azioni",
+        "instant-soluble",
+        "sway-fune",
+        "small-root-plant-space",
+        "sneak-peek",
+        "monument-unknown-animals",
+        "binding-or-not-binding",
+        "hidden-in-plain-sight",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "disoccupazione-suolo-pubblico",
+        "lumpenwringer",
+        "soglie",
+        "soft-hard",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "piedi",
+        "nilanka",
+        "io-nel-progetto-di-un-altro",
+        "day-doesnt-know-night",
+        "natura-morta",
+        "apaf1-bcl2",
+        "nice-to-meet-me",
+        "veto-l",
+        "agon",
+        "aulos",
+        "pentagono",
+        "lanterne",
+        "tanato",
+        "flusso",
+        "conosci-no",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "timestamp": "2026-11-20\nT07:35:41\nZ",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Trump pledges to work with Democrats to cap credit card interest rates",
+      "lang": "en",
+      "source": "ktvu.com",
+      "url": "https://www.ktvu.com/money/trump-pledges-work-democrats-cap-credit-card-interest-rates",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3",
+      "timestamp": "2026-11-20",
+      "themes": [
+        "environment"
+      ],
+      "works": [
+        "genofish",
+        "satellite-aste-telescopiche",
+        "satellite-bussola-tappeto",
+        "satellite-colonna-nastrini",
+        "satellite-pila-foam",
+        "biofeedback-vegetale",
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise"
+      ]
+    },
+    {
+      "headline": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03775-9",
+      "timestamp": "2026-11-19",
       "themes": [
         "ai"
       ],
@@ -224,34 +525,114 @@
       "works": []
     },
     {
-      "headline": "Chemists are uncovering a hidden world of pollution",
+      "headline": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
-      "timestamp": "2026-11-19\nT02:00:00\nZ",
+      "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
+      "timestamp": "2026-11-19\nT04:08:12\nZ",
       "themes": [
-        "environment"
+        "ai"
       ],
       "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "China is importing thousands of research primates, sparking fears of monkey trade war",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
+      "timestamp": "2026-11-19\nT12:00:00\nZ",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Hayley Atwell Hints at New Avengers : Doomsday Trailer on Monday : Could Her Reveal Cause Trouble for Her ?",
+      "lang": "en",
+      "source": "ibtimes.co.uk",
+      "url": "https://www.ibtimes.co.uk/hayley-atwell-avengers-doomsday-trailer-monday-1833810",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "preparedness"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "stoffe",
         "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
         "seismic-noise"
       ]
+    },
+    {
+      "headline": "Nigerian politicians preparing for war , not election , by Dele Sobowale",
+      "lang": "en",
+      "source": "vanguardngr.com",
+      "url": "https://www.vanguardngr.com/2026/11/nigerian-politicians-preparing-for-war-not-election-by-dele-sobowale/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "People entering old age now have better memory than their parents did",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "timestamp": "2026-11-19",
+      "themes": [
+        "memory"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Are T cell ‘engagers’ the next big thing in autoimmune disease treatment?",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/are-t-cell-engagers-next-big-thing-autoimmune-disease-treatment",
+      "timestamp": "2026-11-18\nT02:45:09\nZ",
+      "themes": [],
+      "works": []
     },
     {
       "headline": "Anthropic IPO: four ways the AI giant wants to disrupt science",
@@ -317,20 +698,32 @@
       ]
     },
     {
-      "headline": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
+      "headline": "Bo Derek and John Corbett adopted Gene Hackman dog",
       "lang": "en",
-      "source": "Hyperallergic",
-      "url": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
-      "timestamp": "2026-11-20T19:42:28+00:00",
-      "themes": [],
-      "works": []
+      "source": "illawarramercury.com.au",
+      "url": "https://www.illawarramercury.com.au/story/9395844/bo-derek-and-john-corbett-adopted-gene-hackmans-dog/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
     },
     {
-      "headline": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "headline": "AI is ditching hallucinated references — and other bad habits",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
-      "timestamp": "2026-11-20\nT07:35:41\nZ",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03753-1",
+      "timestamp": "2026-11-19",
       "themes": [
         "ai"
       ],
@@ -346,40 +739,52 @@
       ]
     },
     {
-      "headline": "Scientists control a virtual fruit fly with map of insect’s brain",
+      "headline": "More EastEnders cast exits confirmed as entire family is wiped",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
-      "timestamp": "2026-11-20\nT04:15:00\nZ",
+      "source": "metro.co.uk",
+      "url": "https://metro.co.uk/2026/11/21/eastenders-cast-exits-entire-family-wiped-29809398/",
+      "timestamp": "2026-11-22T00:30:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Green sea turtles move from  Endangered  to  Least Concern : How decades of conservation efforts helped save the marine species",
+      "lang": "en",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/etimes/animals/green-sea-turtles-move-from-endangered-to-least-concern-how-decades-of-conservation-efforts-helped-save-the-marine-species/articleshow/136065085.cms",
+      "timestamp": "2026-11-22T00:30:00+00:00",
       "themes": [
-        "neural"
+        "environment",
+        "water"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
+        "genofish",
         "satellite-aste-telescopiche",
         "satellite-bussola-tappeto",
         "satellite-colonna-nastrini",
         "satellite-pila-foam",
         "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "dynamic-equilibrium",
+        "small-root-plant-space",
+        "analog-ondograph",
+        "monument-unknown-animals",
+        "absorption",
+        "myim",
+        "pseudomonas-aeruginosa",
+        "signum-monitorium",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "natura-morta",
+        "seismic-noise",
+        "flusso"
       ]
     },
     {
-      "headline": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "headline": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03775-9",
-      "timestamp": "2026-11-19",
+      "url": "https://www.nature.com/articles/d41586-026-03812-7",
+      "timestamp": "2026-11-20",
       "themes": [
         "ai"
       ],
@@ -395,88 +800,11 @@
       ]
     },
     {
-      "headline": "People entering old age now have better memory than their parents did",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03783-9",
-      "timestamp": "2026-11-19",
-      "themes": [
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "still-silent-dance",
-        "tracing",
-        "memory-foam",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "small-root-plant-space",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+      "headline": "Chemists are uncovering a hidden world of pollution",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
       "timestamp": "2026-11-19\nT02:00:00\nZ",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
-      ]
-    },
-    {
-      "headline": "China is importing thousands of research primates, sparking fears of monkey trade war",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
-      "timestamp": "2026-11-19\nT12:00:00\nZ",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "How to turn impostor syndrome into a superpower",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03465-6",
-      "timestamp": "2026-11-20",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03789-3",
-      "timestamp": "2026-11-20",
       "themes": [
         "environment"
       ],
@@ -499,26 +827,6 @@
         "ruet-moles-machina-mundi",
         "natura-morta",
         "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03812-7",
-      "timestamp": "2026-11-20",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
       ]
     }
   ]
