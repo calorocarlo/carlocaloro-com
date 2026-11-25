@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T12:42:50.478631+00:00",
-  "rotation_size": 21,
+  "generated_at": "2026-11-25T22:28:40.261822+00:00",
+  "rotation_size": 15,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -11,32 +11,92 @@
   ],
   "rotation": [
     {
-      "headline": "Mini microscope captures brain activity while mice are on the go",
+      "headline": "Scientists scramble to track lead plume from planned U.S. Army blast",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
+      "timestamp": "2026-11-24\nT06:25:00\nZ",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03380-w",
-      "timestamp": "2026-11-24",
+      "url": "https://www.nature.com/articles/s41586-026-11275-z",
+      "timestamp": "2026-11-25",
       "themes": [
-        "neural"
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "La prossima Seoul Biennale 2027 sarà curata dall’italiano Carlo Ratti e dall’intelligenza artificiale",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/progettazione/architettura/2026/11/carlo-ratti-direttore-seoul-biennale-2027/",
+      "timestamp": "2026-11-25T17:30:00+00:00",
+      "themes": [
+        "ai"
       ],
       "works": [
         "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
+        "occhi-eye-code-agency",
         "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
         "veto-l",
-        "veto-a"
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Riapre dopo 20 anni l’antico Museo dell’Acropoli di Atene. Ora è tutto nuovo tra depositi aperti e arte contemporanea",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/11/riapertura-vecchio-museo-dellacropoli-di-atene/",
+      "timestamp": "2026-11-25T19:00:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03835-0",
+      "timestamp": "2026-11-25",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
       ]
     },
     {
@@ -53,220 +113,33 @@
       ]
     },
     {
-      "headline": "The science on AI consciousness must acknowledge uncertainty",
+      "headline": "The world has a golden chance to improve HIV prevention: don’t squander it",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03822-5",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "The brain keeps the score: how trauma leaves molecular scars in cells",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03821-6",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "neural",
-        "music",
-        "memory"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi",
-        "revesso",
-        "dna-dance-needs-action",
-        "still-silent-dance",
-        "tracing",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "memory-foam",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "sway-fune",
-        "small-root-plant-space",
-        "sneak-peek",
-        "autarchic-iron",
-        "monument-unknown-animals",
-        "binding-or-not-binding",
-        "bluemoon-operation",
-        "absorption",
-        "hidden-in-plain-sight",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "soglie",
-        "braccio",
-        "piedi",
-        "nilanka",
-        "day-doesnt-know-night",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a",
-        "aulos",
-        "pentagono",
-        "lanterne",
-        "tanato"
-      ]
-    },
-    {
-      "headline": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03847-w",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Menopause can speed up brain ageing — hormone therapy might protect it",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03667-y",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "neural"
-      ],
-      "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
-      ]
-    },
-    {
-      "headline": "Architecture of the poxvirus early-transcription machinery and portal complex",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11458-8",
-      "timestamp": "2026-11-23",
+      "url": "https://www.nature.com/articles/d41586-026-03809-2",
+      "timestamp": "2026-11-25",
       "themes": [],
       "works": []
     },
     {
-      "headline": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
+      "headline": "Pockets in compacted DNA tune gene activation",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03719-3",
-      "timestamp": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03492-3",
+      "timestamp": "2026-11-25",
       "themes": [
-        "ai"
+        "dna"
       ],
       "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Scientists scramble to track lead plume from planned U.S. Army blast",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
-      "timestamp": "2026-11-24\nT06:26:28\nZ",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Submission caps aren’t enough to tackle AI slop",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03823-4",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "At both poles, warm water is eating away sea ice from below",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/both-poles-warm-water-eating-away-sea-ice-below",
-      "timestamp": "2026-11-23\nT02:40:00\nZ",
-      "themes": [
-        "water"
-      ],
-      "works": [
-        "analog-ondograph",
-        "absorption",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "flusso"
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     },
     {
@@ -287,36 +160,6 @@
         "veto-l",
         "veto-a",
         "ordinateur"
-      ]
-    },
-    {
-      "headline": "Build for the future climate — or waste trillions of dollars",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03722-8",
-      "timestamp": "2026-11-23",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
       ]
     },
     {
@@ -348,10 +191,10 @@
       ]
     },
     {
-      "headline": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "headline": "China’s AI-powered smart-city model is going global",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03835-0",
+      "url": "https://www.nature.com/articles/d41586-026-03473-6",
       "timestamp": "2026-11-25",
       "themes": [
         "ai"
@@ -368,51 +211,32 @@
       ]
     },
     {
-      "headline": "A Montalto delle Marche c’è una mostra su Sarenco, il pioniere della poesia visiva",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/2026/11/sarenco-montalto-marche-mostre/",
-      "timestamp": "2026-11-24T18:00:00+00:00",
+      "headline": "Rare gene variants can affect a person’s height by up to 17 centimetres",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03872-9",
+      "timestamp": "2026-11-25",
       "themes": [
-        "language"
+        "dna"
       ],
       "works": [
-        "revesso",
-        "tracing",
-        "tressa",
-        "cilindri-plexiglas",
-        "progetto-generativo-unwritten",
-        "lipogesture",
-        "body-of-words",
-        "puppet-tragedy-2023",
-        "puppet-tragedy-2024",
-        "barren-abode",
-        "deriva",
-        "escape-from-the-cave",
-        "novellae",
-        "ode-al-fallimento",
-        "instant-soluble",
-        "ruet-moles-machina-mundi",
-        "disoccupazione-suolo-pubblico",
-        "soglie",
-        "soft-hard",
-        "nilanka",
-        "io-nel-progetto-di-un-altro",
-        "day-doesnt-know-night",
-        "nice-to-meet-me",
-        "pentagono",
-        "lanterne",
-        "flusso",
-        "conosci-no",
-        "ordinateur"
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
       ]
     },
     {
-      "headline": "Fight AI slop without punishing legitimate researchers",
+      "headline": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03824-3",
-      "timestamp": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03513-1",
+      "timestamp": "2026-11-25",
       "themes": [
         "ai"
       ],
@@ -428,100 +252,53 @@
       ]
     },
     {
-      "headline": "Himalayan disasters demand biodiversity conservation across borders",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03825-2",
-      "timestamp": "2026-11-24",
-      "themes": [
-        "environment"
-      ],
-      "works": [
-        "genofish",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "dynamic-equilibrium",
-        "small-root-plant-space",
-        "analog-ondograph",
-        "monument-unknown-animals",
-        "absorption",
-        "myim",
-        "pseudomonas-aeruginosa",
-        "signum-monitorium",
-        "deepest-point-tiber",
-        "ruet-moles-machina-mundi",
-        "natura-morta",
-        "seismic-noise"
-      ]
-    },
-    {
-      "headline": "Il gigantesco museo Kanal stavolta apre davvero a Bruxelles. Le immagini",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/progettazione/2026/11/museo-kanal-apre-bruxelles-centre-pompidou/",
-      "timestamp": "2026-11-24T22:30:00+00:00",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Scientists control a virtual fruit fly with map of insect’s brain",
+      "headline": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
       "lang": "en",
       "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
-      "timestamp": "2026-11-20\nT04:15:00\nZ",
+      "url": "https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children",
+      "timestamp": "2026-11-25\nT01:15:00\nZ",
       "themes": [
-        "neural"
+        "pandemic"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "pseudomonas-aeruginosa"
       ]
     },
     {
-      "headline": "Pregnancy rewires the brain — scientists are finally mapping it",
+      "headline": "A fine-grained reconstruction of barley’s evolutionary history",
       "lang": "en",
       "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03804-7",
-      "timestamp": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03494-1",
+      "timestamp": "2026-11-25",
       "themes": [
-        "neural"
+        "memory"
       ],
       "works": [
-        "revesso",
-        "dna-dance-needs-action",
-        "satellite-aste-telescopiche",
-        "satellite-bussola-tappeto",
-        "satellite-colonna-nastrini",
-        "satellite-pila-foam",
-        "biofeedback-vegetale",
-        "progetto-generativo-unwritten",
-        "moving-around-skin",
-        "tote",
-        "symbiotic-resonance",
-        "sneak-peek",
-        "binding-or-not-binding",
-        "braccio",
-        "apaf1-bcl2",
-        "veto-l",
-        "veto-a"
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
+        "tracing",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
+        "bluemoon-operation",
+        "absorption",
+        "hidden-in-plain-sight",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
+        "soglie",
+        "piedi",
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
       ]
     }
   ]
