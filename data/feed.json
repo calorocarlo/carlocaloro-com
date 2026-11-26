@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T22:28:40.261822+00:00",
-  "rotation_size": 15,
+  "generated_at": "2026-11-26T04:59:23.401670+00:00",
+  "rotation_size": 27,
   "silence_phrases": [
     "the world is silent on this archive for now",
     "this passage does not concern the archive",
@@ -10,41 +10,6 @@
     "the news passes through, it does not stop here"
   ],
   "rotation": [
-    {
-      "headline": "Scientists scramble to track lead plume from planned U.S. Army blast",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
-      "timestamp": "2026-11-24\nT06:25:00\nZ",
-      "themes": [
-        "war"
-      ],
-      "works": [
-        "be-prepared-be-safe",
-        "maglioni-bianchi"
-      ]
-    },
-    {
-      "headline": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/s41586-026-11275-z",
-      "timestamp": "2026-11-25",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
     {
       "headline": "La prossima Seoul Biennale 2027 sarà curata dall’italiano Carlo Ratti e dall’intelligenza artificiale",
       "lang": "it",
@@ -66,128 +31,54 @@
       ]
     },
     {
-      "headline": "Riapre dopo 20 anni l’antico Museo dell’Acropoli di Atene. Ora è tutto nuovo tra depositi aperti e arte contemporanea",
-      "lang": "it",
-      "source": "Artribune",
-      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/11/riapertura-vecchio-museo-dellacropoli-di-atene/",
-      "timestamp": "2026-11-25T19:00:00+00:00",
+      "headline": "California Denny , where Jensen Huang founded Nvidia , restores plaque honouring moment :  Jensen is part of our history",
+      "lang": "en",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/dennys-california-restaurant-restores-plaque-honoring-nvidias-founding-after-huang-controversy-jensen-is-part-of-our-history-101795653163862.html",
+      "timestamp": "2026-11-26T02:15:00+00:00",
       "themes": [
-        "heritage"
+        "memory"
       ],
       "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi",
+        "still-silent-dance",
         "tracing",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03835-0",
-      "timestamp": "2026-11-25",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03718-4",
-      "timestamp": "2026-11-25",
-      "themes": [
-        "pandemic"
-      ],
-      "works": [
-        "pseudomonas-aeruginosa"
-      ]
-    },
-    {
-      "headline": "The world has a golden chance to improve HIV prevention: don’t squander it",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03809-2",
-      "timestamp": "2026-11-25",
-      "themes": [],
-      "works": []
-    },
-    {
-      "headline": "Pockets in compacted DNA tune gene activation",
-      "lang": "en",
-      "source": "Nature briefing",
-      "url": "https://www.nature.com/articles/d41586-026-03492-3",
-      "timestamp": "2026-11-25",
-      "themes": [
-        "dna"
-      ],
-      "works": [
-        "dna-dance-needs-action",
-        "genofish",
-        "sway-fune",
-        "pseudomonas-aeruginosa",
-        "braccio",
-        "clothing",
-        "laniccia",
-        "apaf1-bcl2",
-        "aulos"
-      ]
-    },
-    {
-      "headline": "A ‘Mathathon’ reimagines math in the age of AI",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/mathathon-reimagines-math-age-ai",
-      "timestamp": "2026-11-24\nT03:15:00\nZ",
-      "themes": [
-        "ai"
-      ],
-      "works": [
-        "revesso",
-        "occhi-eye-code-agency",
-        "progetto-generativo-unwritten",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "veto-l",
-        "veto-a",
-        "ordinateur"
-      ]
-    },
-    {
-      "headline": "Tiny tracking device documents a record-breaking hummingbird journey",
-      "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey",
-      "timestamp": "2026-11-23\nT11:35:00\nZ",
-      "themes": [
-        "surveillance"
-      ],
-      "works": [
-        "tressa",
-        "occhi-eye-code-agency",
-        "stoffe",
-        "tote",
-        "infiltr-azioni",
-        "sneak-peek",
-        "binding-or-not-binding",
+        "memory-foam",
+        "puppet-tragedy-2023",
+        "puppet-tragedy-2024",
+        "barren-abode",
+        "deriva",
+        "escape-from-the-cave",
+        "small-root-plant-space",
+        "autarchic-iron",
+        "monument-unknown-animals",
         "bluemoon-operation",
+        "absorption",
         "hidden-in-plain-sight",
-        "myim",
+        "deepest-point-tiber",
+        "ruet-moles-machina-mundi",
         "soglie",
-        "clothing",
         "piedi",
-        "io-nel-progetto-di-un-altro",
-        "nice-to-meet-me",
-        "conosci-no"
+        "nilanka",
+        "day-doesnt-know-night",
+        "pentagono",
+        "lanterne",
+        "tanato"
+      ]
+    },
+    {
+      "headline": "Scientists scramble to track lead plume from planned U.S. Army blast",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
+      "timestamp": "2026-11-24\nT06:25:00\nZ",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
       ]
     },
     {
@@ -211,10 +102,196 @@
       ]
     },
     {
+      "headline": "Trump privately  furiou over Iowa crisis as White House weighs replacing top Army leader",
+      "lang": "en",
+      "source": "rawstory.com",
+      "url": "https://www.rawstory.com/iowa-army-2678531860/",
+      "timestamp": "2026-11-26T01:15:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "A ‘Mathathon’ reimagines math in the age of AI",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/mathathon-reimagines-math-age-ai",
+      "timestamp": "2026-11-24\nT03:15:00\nZ",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "The world has a golden chance to improve HIV prevention: don’t squander it",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03809-2",
+      "timestamp": "2026-11-25",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "US intelligence flags possible Chinese surveillance of Alice Huang , CBS News says",
+      "lang": "en",
+      "source": "aninews.in",
+      "url": "https://aninews.in/news/business/us-intelligence-flags-possible-chinese-surveillance-of160alice-huang-cbs-news-says20261126060755/",
+      "timestamp": "2026-11-26T02:30:00+00:00",
+      "themes": [
+        "surveillance"
+      ],
+      "works": [
+        "tressa",
+        "occhi-eye-code-agency",
+        "stoffe",
+        "tote",
+        "infiltr-azioni",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "bluemoon-operation",
+        "hidden-in-plain-sight",
+        "myim",
+        "soglie",
+        "clothing",
+        "piedi",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "conosci-no"
+      ]
+    },
+    {
+      "headline": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children",
+      "timestamp": "2026-11-25\nT01:15:00\nZ",
+      "themes": [
+        "pandemic"
+      ],
+      "works": [
+        "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "ChatGPT users may hit limits faster as OpenAI combines Chat and Work , but Instant remains unlimited",
+      "lang": "en",
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/ai/chatgpt-users-may-hit-limits-faster-as-openai-combines-chat-and-work-but-instant-remains-unlimited-11795663273451.html",
+      "timestamp": "2026-11-26T04:15:00+00:00",
+      "themes": [
+        "labor"
+      ],
+      "works": [
+        "still-silent-dance",
+        "autarchic-iron",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Nvidia China link : How US firms with Chinese owners are accessing advanced AI chips",
+      "lang": "en",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/world/us/nvidias-china-link-how-us-firms-with-chinese-owners-are-accessing-advanced-ai-chips/articleshow/136175651.cms",
+      "timestamp": "2026-11-26T02:15:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Pentagon denies Hegseth , other officials weighed using Cold War - era law to restore Jensen Huang as Nvidia CEO : Report",
+      "lang": "en",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/pete-hegseth-pentagon-officials-weighed-using-cold-war-era-law-to-put-jensen-huang-back-as-nvidia-ceo-report-101795661315105.html",
+      "timestamp": "2026-11-26T04:15:00+00:00",
+      "themes": [
+        "war"
+      ],
+      "works": [
+        "be-prepared-be-safe",
+        "maglioni-bianchi"
+      ]
+    },
+    {
+      "headline": "Strange ‘topological’ wires conduct electricity better the thinner they get",
+      "lang": "en",
+      "source": "Science Magazine",
+      "url": "https://www.science.org/content/article/strange-topological-wires-conduct-electricity-better-thinner-they-get",
+      "timestamp": "2026-11-25\nT11:00:00\nZ",
+      "themes": [],
+      "works": []
+    },
+    {
       "headline": "Rare gene variants can affect a person’s height by up to 17 centimetres",
       "lang": "en",
       "source": "Nature briefing",
       "url": "https://www.nature.com/articles/d41586-026-03872-9",
+      "timestamp": "2026-11-25",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "Nvidia AI Chips Reach Chinese - Linked Firms , Raising US Security Concerns",
+      "lang": "en",
+      "source": "deccanchronicle.com",
+      "url": "https://www.deccanchronicle.com/world/americas/nvidia-ai-chips-reach-chinese-linked-firms-raising-us-security-concerns-2008065",
+      "timestamp": "2026-11-26T03:15:00+00:00",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/s41586-026-11275-z",
       "timestamp": "2026-11-25",
       "themes": [
         "dna"
@@ -252,16 +329,168 @@
       ]
     },
     {
-      "headline": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+      "headline": "US intelligence flags possible Chinese surveillance ofAlice Huang , CBS News says",
       "lang": "en",
-      "source": "Science Magazine",
-      "url": "https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children",
-      "timestamp": "2026-11-25\nT01:15:00\nZ",
+      "source": "news.webindia123.com",
+      "url": "https://news.webindia123.com/news/Articles/Business/20261126/4524587.html",
+      "timestamp": "2026-11-26T01:15:00+00:00",
+      "themes": [
+        "surveillance"
+      ],
+      "works": [
+        "tressa",
+        "occhi-eye-code-agency",
+        "stoffe",
+        "tote",
+        "infiltr-azioni",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "bluemoon-operation",
+        "hidden-in-plain-sight",
+        "myim",
+        "soglie",
+        "clothing",
+        "piedi",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "conosci-no"
+      ]
+    },
+    {
+      "headline": "5 - star washing machines with at least 2 years of warranty : 10 options for energy - efficient laundry at home",
+      "lang": "en",
+      "source": "livemint.com",
+      "url": "https://www.livemint.com/gadgets-and-appliances/5star-washing-machines-with-at-least-2-years-of-warranty-10-options-for-energy-efficient-laundry-at-home-11795605205077.html",
+      "timestamp": "2026-11-26T04:15:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03718-4",
+      "timestamp": "2026-11-25",
       "themes": [
         "pandemic"
       ],
       "works": [
         "pseudomonas-aeruginosa"
+      ]
+    },
+    {
+      "headline": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03835-0",
+      "timestamp": "2026-11-25",
+      "themes": [
+        "ai"
+      ],
+      "works": [
+        "revesso",
+        "occhi-eye-code-agency",
+        "progetto-generativo-unwritten",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "veto-l",
+        "veto-a",
+        "ordinateur"
+      ]
+    },
+    {
+      "headline": "Pockets in compacted DNA tune gene activation",
+      "lang": "en",
+      "source": "Nature briefing",
+      "url": "https://www.nature.com/articles/d41586-026-03492-3",
+      "timestamp": "2026-11-25",
+      "themes": [
+        "dna"
+      ],
+      "works": [
+        "dna-dance-needs-action",
+        "genofish",
+        "sway-fune",
+        "pseudomonas-aeruginosa",
+        "braccio",
+        "clothing",
+        "laniccia",
+        "apaf1-bcl2",
+        "aulos"
+      ]
+    },
+    {
+      "headline": "US intelligence flags possible Chinese surveillance of Alice Huang during Jensen affair : Report",
+      "lang": "en",
+      "source": "economictimes.indiatimes.com",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-ceo-us-intelligence-flags-possible-chinese-surveillance-of-alice-huang-cbs-news-says/articleshow/136175775.cms",
+      "timestamp": "2026-11-26T02:15:00+00:00",
+      "themes": [
+        "surveillance"
+      ],
+      "works": [
+        "tressa",
+        "occhi-eye-code-agency",
+        "stoffe",
+        "tote",
+        "infiltr-azioni",
+        "sneak-peek",
+        "binding-or-not-binding",
+        "bluemoon-operation",
+        "hidden-in-plain-sight",
+        "myim",
+        "soglie",
+        "clothing",
+        "piedi",
+        "io-nel-progetto-di-un-altro",
+        "nice-to-meet-me",
+        "conosci-no"
+      ]
+    },
+    {
+      "headline": "Trump blames midterm election results for stock market slump , says stocks would be  booming  if he had run",
+      "lang": "en",
+      "source": "hindustantimes.com",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trump-blames-midterm-election-results-for-stock-market-slump-says-stocks-would-be-booming-if-he-had-run-101795629234416.html",
+      "timestamp": "2026-11-26T01:15:00+00:00",
+      "themes": [
+        "economy"
+      ],
+      "works": [
+        "still-silent-dance",
+        "plus-size",
+        "ode-al-fallimento",
+        "instant-soluble",
+        "autarchic-iron",
+        "bluemoon-operation",
+        "disoccupazione-suolo-pubblico",
+        "repubblica-del-fare",
+        "lumpenwringer",
+        "natura-morta",
+        "agon"
+      ]
+    },
+    {
+      "headline": "Cupertino Blue Pheasant restaurant closes after 52 years – East Bay Times",
+      "lang": "en",
+      "source": "eastbaytimes.com",
+      "url": "https://www.eastbaytimes.com/2026/11/25/cupertinos-blue-pheasant-restaurant-closes-after-52-years/",
+      "timestamp": "2026-11-26T02:30:00+00:00",
+      "themes": [],
+      "works": []
+    },
+    {
+      "headline": "Riapre dopo 20 anni l’antico Museo dell’Acropoli di Atene. Ora è tutto nuovo tra depositi aperti e arte contemporanea",
+      "lang": "it",
+      "source": "Artribune",
+      "url": "https://www.artribune.com/arti-visive/archeologia-arte-antica/2026/11/riapertura-vecchio-museo-dellacropoli-di-atene/",
+      "timestamp": "2026-11-25T19:00:00+00:00",
+      "themes": [
+        "heritage"
+      ],
+      "works": [
+        "tracing",
+        "aulos"
       ]
     },
     {
